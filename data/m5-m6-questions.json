@@ -1,0 +1,2140 @@
+{
+  "M5": [
+    {
+      "id": 1,
+      "question": "Trong Microsoft PowerPoint 2010, muốn xoá một trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Cut",
+        "B": "Vào Home -> Cut",
+        "C": "Vào Review -> Cut",
+        "D": "Vào View -> Cut"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Trong Microsoft PowerPoint 2010, muốn chèn một đoạn âm thanh vào slide, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Audio",
+        "B": "Vào Insert -> Shapes",
+        "C": "Vào Insert -> Equation",
+        "D": "Vào Insert -> Chart"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Trong Microsoft PowerPoint 2010, để in nội dung các trang thuyết trình (slide) ra máy in, người ta thực hiện:",
+      "options": {
+        "A": "Vào Review -> Print",
+        "B": "Vào Home -> Print",
+        "C": "Vào View -> Print",
+        "D": "Vào File -> Print"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo hiệu ứng xuất hiện của từng trang thuyết trình (slide), người ta thực hiện trong thanh công cụ:",
+      "options": {
+        "A": "Animations",
+        "B": "Transition",
+        "C": "Home",
+        "D": "View"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Trong Microsoft PowerPoint 2010, để muốn thêm một hiệu ứng Video, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Video",
+        "B": "Vào View -> Video",
+        "C": "Vào Home -> Video",
+        "D": "Vào File -> Video"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Trong Microsoft PowerPoint 2010, muốn tạo một hiệu ứng cho các đối tượng trong 1 trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Animation",
+        "B": "Vào Design",
+        "C": "Vào View",
+        "D": "Vào Animation"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Trong Microsoft PowerPoint 2010, để thiết lập một slide master, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Slide Master",
+        "B": "Vào View -> Slide Master",
+        "C": "Vào View -> Handout Master",
+        "D": "Vào View -> Notes Master"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo hyperlink, người ta chọn text hay đối tượng mà người ta muốn tạo hyperlink sau đó thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Hyperlink",
+        "B": "Vào Insert -> Action",
+        "C": "Vào Home -> Hyperlink",
+        "D": "Vào Home -> Action"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Trong Microsoft PowerPoint 2010, để bắt đầu trình diễn một trang thuyết trình slide show từ đầu, người ta thực hiện:",
+      "options": {
+        "A": "Vào Slide Show -> Set Up Slide Show",
+        "B": "Vào Slide Show -> From Beginning",
+        "C": "Vào Slide Show -> From Current Slide",
+        "D": "Vào Slide Show -> Broadcast Slide Show"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Trong Microsoft PowerPoint 2010, muốn đánh dấu đầu các đoạn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Bullets",
+        "B": "Vào Insert -> Bullets",
+        "C": "Vào File -> Bullets",
+        "D": "Vào View -> Bullets"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Trong Microsoft PowerPoint 2010, muốn đánh số đầu các đoạn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Numbering",
+        "B": "Vào Insert -> Numbering",
+        "C": "Vào File -> Numbering",
+        "D": "Vào View -> Numbering"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Trong Microsoft PowerPoint 2010, muốn chèn các trang thuyết trình (slide) từ 1 tập tin khác vào tập tin đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Import Slide",
+        "B": "Vào Home -> New Slide -> Reuse Slide",
+        "C": "Vào Insert -> Duplicate Slide",
+        "D": "Vào Home -> New Slide"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Trong Microsoft PowerPoint 2010, để chèn biểu đồ, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Chart...",
+        "B": "Vào Format -> Chart...",
+        "C": "Vào Slide Design -> Chart...",
+        "D": "Vào Insert -> Chart..."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "question": "Trong Microsoft PowerPoint 2010, chế độ hiển thị (Presentation Views) nào sau là không đúng:",
+      "options": {
+        "A": "Normal View",
+        "B": "Slide Sorter",
+        "C": "Notes Page",
+        "D": "Zoom View"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "Trong Microsoft PowerPoint 2010, muốn chèn một ký hiệu vào trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Diagram",
+        "B": "Vào Insert -> Component",
+        "C": "Vào Insert -> Comment",
+        "D": "Vào Insert -> Symbol"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Trong Microsoft PowerPoint 2010, sau khi đã chèn một bảng biểu vào trang thuyết trình (slide); muốn chia một ô nào đó thành 2 ô thì người ta thực hiện:",
+      "options": {
+        "A": "Kích chuột phải vào ô đó, Vào Layout -> Split Cells",
+        "B": "Kích chuột phải vào ô đó, Vào Layout -> Merge Cells",
+        "C": "Kích chuột phải vào ô đó, Vào Layout -> Insert Above",
+        "D": "Kích chuột phải vào ô đó, Vào Layout -> Insert Below"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Trong Microsoft PowerPoint 2010, với âm thanh đưa vào bài trình diễn, người ta thực hiện:",
+      "options": {
+        "A": "Thực hiện được chỉ khi tạo hiệu ứng động cho đối tượng trong slide",
+        "B": "Thực hiện được chỉ khi tạo hiệu ứng chuyển trang giữa các slide.",
+        "C": "Thực hiện được cả khi tạo hiệu ứng động và hiệu ứng chuyển trang.",
+        "D": "Không thực hiện được cả khi tạo hiệu ứng động và hiệu ứng chuyển trang"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Trong Microsoft PowerPoint 2010, Vào insert -> chart -> Column... điều gì thực hiện:",
+      "options": {
+        "A": "Để chèn biểu đồ hình tròn",
+        "B": "Để chèn biểu đồ hình cột",
+        "C": "Để chèn hình tròn",
+        "D": "Để chèn hình cột"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Trong Microsoft PowerPoint 2010, thêm 1 trang thuyết trình (slide) giống trang trước, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + D",
+        "B": "Ctrl + A",
+        "C": "Ctrl + U",
+        "D": "Ctrl + C"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Trong Microsoft PowerPoint 2010, chức năng nào cho phép thay đổi bố cục của trang thuyết trình (slide) đã chọn:",
+      "options": {
+        "A": "Vào Home -> Layout",
+        "B": "Vào Home -> New Slide",
+        "C": "Vào Home -> Reset",
+        "D": "Vào Home -> Reset Layout"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Trong Microsoft PowerPoint 2010, chức năng nào cho phép ẩn trang thuyết trình (slide) đang chọn:",
+      "options": {
+        "A": "Vào Slide Show -> Hide Slide",
+        "B": "Vào Home -> Hide Slide",
+        "C": "Vào View -> Hide Slide",
+        "D": "Vào Review -> Hide Slide"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Trong Microsoft PowerPoint 2010, để trình chiếu từ trang thuyết trình (slide) hiện tại, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + F5",
+        "B": "Alt+ F5",
+        "C": "Shift+ F5",
+        "D": "F5"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Trong Microsoft PowerPoint 2010, để chọn tất cả các trang thuyết trình (slide) trong bài thuyết trình, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Select All",
+        "B": "Vào Home -> Select -> Select All",
+        "C": "Vào Home -> Select All",
+        "D": "Vào Home -> Editing -> Select All"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Trong Microsoft PowerPoint 2010, dùng cách nào để thay đổi bố cục cho trang thuyết trình (slide) đã chọn thành bố cục gồm tiêu đề và văn bản:",
+      "options": {
+        "A": "Vào Home -> Layout -> Title and Content",
+        "B": "Vào Home -> Layout -> Title Slide",
+        "C": "Vào Home -> Layout -> Blank",
+        "D": "Vào Home -> Layout -> Title Only"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Trong Microsoft PowerPoint 2010, trước khi thoát khỏi phần mềm nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện một thông báo, để lưu lại tập tin này, người ta sẽ kích phím chuột trái vào nút nào trong bảng thông báo:",
+      "options": {
+        "A": "Nút Yes",
+        "B": "Nút No",
+        "C": "Nút Cancel",
+        "D": "Nút Save"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Trong Microsoft PowerPoint 2010, khi thực hiện Vào insert -> Audio, người ta thực hiện:",
+      "options": {
+        "A": "Chèn hình ảnh vào trang thuyết trình (slide)",
+        "B": "Chèn âm thanh vào trang thuyết trình (slide)",
+        "C": "Chèn phim vào trang thuyết trình (slide)",
+        "D": "Chèn ký tự vào trang thuyết trình (slide)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Phần mềm Microsoft PowerPoint 2010 dùng để làm gì:",
+      "options": {
+        "A": "Lập bảng tính",
+        "B": "Soạn thảo văn bản",
+        "C": "Trình chiếu văn bản",
+        "D": "Lập biểu đồ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Trong Microsoft PowerPoint 2010, thanh công cụ truy cập nhanh có tên là:",
+      "options": {
+        "A": "Quick Access Toolbar",
+        "B": "Quick Toolbar Access",
+        "C": "Access Toolbar Quick",
+        "D": "Toolbar Access Quick"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Trong Microsoft PowerPoint 2010, để chuyển sang chế độ đọc, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Reading Mode",
+        "B": "Vào Review -> Reading Mode",
+        "C": "Vào Review -> Reading View",
+        "D": "Vào View -> Reading View"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + Q tương ứng với lệnh nào sau đây:",
+      "options": {
+        "A": "Vào Design -> Page setup",
+        "B": "Vào Home -> Quick Styles",
+        "C": "Vào View -> Zoom",
+        "D": "Vào File -> Exit"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "Trong Microsoft PowerPoint 2010, muốn mở một tập tin đã tồn tại trên đĩa, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Open",
+        "B": "Vào File -> New",
+        "C": "Vào File -> Save",
+        "D": "Vào File -> Save As"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Trong Microsoft PowerPoint 2010, khi thực hiện Vào File -> Open, người ta thực hiện:",
+      "options": {
+        "A": "Mở một Presentation đã có trên đĩa",
+        "B": "Tạo mới một Presentation để thiết kế bài trình diễn",
+        "C": "Lưu lại Presentation đang thiết kế",
+        "D": "Lưu Presentation đang thiết kế với một tên khác"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Trong Microsoft PowerPoint 2010, muốn mở một tập tin đã tồn tại trên đĩa, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + N",
+        "C": "Ctrl + S",
+        "D": "Ctrl + C"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Trong Microsoft PowerPoint 2010, tên một tập tin trình diễn (Presentation) thường có đuôi mở rộng là:",
+      "options": {
+        "A": "PPTA",
+        "B": "PPTR",
+        "C": "PPTK",
+        "D": "PPTX"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "question": "Trong Microsoft PowerPoint 2010, phím F12 tương ứng với lệnh nào sau đây:",
+      "options": {
+        "A": "Vào File -> Print -> Print Current Slide",
+        "B": "Vào File -> Save as",
+        "C": "View -> Broadcast slideshow...",
+        "D": "Vào View -> Slide Master"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo mới 1 tập tin trình diễn theo mẫu giao diện (themes) đã có, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> New -> Themes -> Chọn mẫu -> OK",
+        "B": "Vào Home -> New -> Themes -> Chọn mẫu -> Create",
+        "C": "Vào File -> New -> Themes -> Chọn mẫu -> Create",
+        "D": "Vào File -> New -> Themes -> Chọn mẫu -> OK"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Trong Microsoft PowerPoint 2010, khi thực hiện Vào File -> Close, người ta thực hiện:",
+      "options": {
+        "A": "Lưu tập tin hiện tại",
+        "B": "Mở một tập tin nào đó",
+        "C": "Đóng tập tin hiện tại",
+        "D": "Thoát khỏi PowerPoint"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Trong Microsoft PowerPoint 2010, để lưu lại tập tin. ppt đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Save",
+        "B": "Vào File -> Save As",
+        "C": "Vào Home -> Save",
+        "D": "Vào Home -> Close"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Trong Microsoft PowerPoint 2010, để chèn thêm 1 trang thuyết trình (slide) mới vào file trình diễn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> New Slide",
+        "B": "Vào File -> New Slide",
+        "C": "Vào Home -> New Slide",
+        "D": "Vào Edit -> New Slide"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Trong Microsoft PowerPoint 2010, để chọn mẫu giao diện cho các trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Slide Design",
+        "B": "Vào Slide Show -> Slide Design",
+        "C": "Vào Design -> chọn mẫu trong Themes",
+        "D": "Vào Home -> chọn mẫu trong Themes"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "Trong Microsoft PowerPoint 2010, để hủy bỏ thao tác vừa thực hiện, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "CTRL + A",
+        "B": "CTRL + B",
+        "C": "CTRL + Z",
+        "D": "CTRL + R"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Trong Microsoft PowerPoint 2010, để chọn màu nền cho một trang thuyết trình (slide) trong bài trình diễn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Background Styles",
+        "B": "Vào View -> Background Styles",
+        "C": "Vào Design -> Background Styles",
+        "D": "Vào Animations -> Background Styles"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo thêm 1 trang thuyết trình (slide) mới, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + P",
+        "C": "Ctrl + N",
+        "D": "Ctrl + M"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 44,
+      "question": "Trong Microsoft PowerPoint 2010, để thực hiện chèn nút lệnh trở về trang thuyết trình (slide) cuối cùng, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Shapes -> Action Button: End",
+        "B": "Vào Insert -> Shapes -> Action Button: Home",
+        "C": "Vào Home -> Shapes -> Action Button: Return",
+        "D": "Vào Home -> Shapes -> Action Button: End"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Trong Microsoft PowerPoint 2010, Slide Master được sử dụng để:",
+      "options": {
+        "A": "Lưu trữ thông tin về thiết kế kiểu dáng, màu sắc, font chữ, bố cục ... cho các slide",
+        "B": "Thiết lập các thông số cho các trang in",
+        "C": "Sắp xếp vị trí của các header, footer",
+        "D": "Tạo hiệu ứng chuyển đổi giữa các trang"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Trong Microsoft PowerPoint 2010, để thực hiện thay đổi bố cục (layout) cho các trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Layout...",
+        "B": "Vào View -> Layout...",
+        "C": "Vào Insert -> Layout...",
+        "D": "Vào Design -> Layout"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Trong Microsoft PowerPoint 2010, để thực hiện tạo mới 1 tập tin trình diễn theo mẫu (sample templates), người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> New -> Sample templates -> Chọn mẫu -> Create",
+        "B": "Vào Home -> New -> Sample templates -> Chọn mẫu -> Create",
+        "C": "Vào Design -> New -> Sample templates -> Chọn mẫu -> Create",
+        "D": "Vào Insert -> New -> Sample templates -> Chọn mẫu -> Create"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Trong Microsoft PowerPoint 2010, muốn thiết lập lại bố cục (trình bày về văn bản, hình ảnh, biểu đồ,...), người ta thực hiện:",
+      "options": {
+        "A": "Format -> Slide Layout...",
+        "B": "View -> Slide Layout...",
+        "C": "Insert -> Slide Layout...",
+        "D": "File -> Slide Layout..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Trong Microsoft PowerPoint 2010, khi thực hiện Vào Home -> New Slide, người ta thực hiện:",
+      "options": {
+        "A": "Chèn thêm một slide mới vào ngay trước slide hiện hành",
+        "B": "Chèn thêm một slide mới vào ngay sau slide hiện hành",
+        "C": "Chèn thêm một slide mới vào ngay trước slide đầu tiên",
+        "D": "Chèn thêm một slide mới vào ngay sau slide cuối cùng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Trong Microsoft PowerPoint 2010, để chép một số trang trình (slide) giống hệt như các trang thuyết trình (slide) hiện hành; sau khi chọn các trang cần chép, người ta thực hiện:",
+      "options": {
+        "A": "Chọn Home -> Duplicate",
+        "B": "Chọn Insert -> New Slide",
+        "C": "Vào Home -> New Slide -> Duplicate Selected Slides",
+        "D": "Vào Insert -> New Slide -> Duplicate Selected Slides"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Trong Microsoft PowerPoint 2010, khi đang làm việc, muốn thay đổi thiết kế của trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Format - Slide Design...",
+        "B": "Tools - Slide Design...",
+        "C": "Insert - Slide Design...",
+        "D": "Slide Show - Slide Design..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Trong Microsoft PowerPoint 2010, để đánh số trang cho tất cả các trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Header and Footer -> Slide -> Chọn Slide Number -> Apply to All.",
+        "B": "Vào Insert -> Header and Footer -> Slide -> Chọn Page Number -> Apply to All.",
+        "C": "Vào Insert -> Header and Footer -> Slide -> Chọn Slide Number -> Apply.",
+        "D": "Vào Insert -> Header and Footer -> Slide -> Chọn Page Number -> Apply."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo tiêu đề cuối trang cho trang trình (slide) hiện tại, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Header & Footer -> Chọn Footer -> nhập nội dung tiêu đề -> Apply to All.",
+        "B": "Vào Insert -> Footer -> Chọn Footer -> nhập nội dung tiêu đề -> Apply to All.",
+        "C": "Vào Insert -> Footer -> Chọn Footer -> nhập nội dung tiêu đề -> Apply.",
+        "D": "Vào Insert -> Header & Footer -> Chọn Footer -> nhập nội dung tiêu đề -> Apply."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 54,
+      "question": "Trong Microsoft PowerPoint 2010, để chèn công thức toán học vào trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Equation...",
+        "B": "Vào Insert -> Symbol...",
+        "C": "Vào Insert -> Object...",
+        "D": "Vào Insert -> Text box..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Trong Microsoft PowerPoint 2010, để tìm kiếm và thay thế, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + E",
+        "B": "Ctrl + T",
+        "C": "Ctrl + F",
+        "D": "Ctrl + H"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 56,
+      "question": "Trong Microsoft PowerPoint 2010, để chuyển đoạn văn bản được chọn sang chữ in hoa, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + F2",
+        "B": "Ctrl + F3",
+        "C": "Shift + F3",
+        "D": "Alt + F2"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Trong Microsoft PowerPoint 2010, để xóa toàn bộ định dạng đoạn văn bản được chọn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Clear All Formatting",
+        "B": "Vào Insert -> Clear All Formatting",
+        "C": "Vào View -> Clear All Formatting",
+        "D": "Vào Format -> Clear All Formatting"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Trong Microsoft PowerPoint 2010, chèn chữ nghệ thuật WordArt, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> WordArt",
+        "B": "Vào View -> WordArt",
+        "C": "Vào Insert -> WordArt",
+        "D": "Vào Slide -> WordArt"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + H tương ứng với thực hiện lệnh nào sau đây:",
+      "options": {
+        "A": "Vào Home -> Replace",
+        "B": "Vào Home -> Reset",
+        "C": "Vào Insert -> Picture",
+        "D": "Vào View -> Slide Master"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Trong Microsoft PowerPoint 2010, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím Ctrl + E, thao tác này tương ứng với lựa chọn nào sau đây:",
+      "options": {
+        "A": "Xóa đoạn văn được chọn",
+        "B": "Sao chép đoạn văn được chọn",
+        "C": "Canh giữa đoạn văn được chọn",
+        "D": "Canh trái đoạn văn được chọn"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "Trong Microsoft PowerPoint 2010, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím Ctrl + R, thao tác này tương ứng với lựa chọn nào sau đây:",
+      "options": {
+        "A": "Xóa định dạng đoạn văn được chọn",
+        "B": "Canh phải đoạn văn được chọn",
+        "C": "Canh giữa đoạn văn được chọn",
+        "D": "Canh trái đoạn văn được chọn"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + V được sử dụng để thực hiện:",
+      "options": {
+        "A": "Xóa 1 đoạn văn bản",
+        "B": "Dán một đoạn văn bản từ Clipboard",
+        "C": "Sao chép một đoạn văn bản",
+        "D": "Cắt và sao chép một đoạn văn bản"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + C được sử dụng để thực hiện:",
+      "options": {
+        "A": "Xóa 1 đoạn văn bản",
+        "B": "Dán một đoạn văn bản từ Clipboard",
+        "C": "Sao chép một đoạn văn bản",
+        "D": "Cắt và sao chép một đoạn văn bản"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Trong Microsoft PowerPoint 2010, tổ hợp phím Shift + F3 tương ứng với thực hiện lệnh nào sau đây:",
+      "options": {
+        "A": "Vào Design -> Change Case",
+        "B": "Vào Home -> Character Spacing",
+        "C": "Vào Home -> Text Shadow",
+        "D": "Vào Home -> Change Case"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 65,
+      "question": "Trong Microsoft PowerPoint 2010, để xoay hướng của đoạn văn bản được chọn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Format -> Text Direction...",
+        "B": "Vào Home -> Text Direction...",
+        "C": "Vào Format -> Orientation...",
+        "D": "Vào Home -> Orientation..."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "Trong Microsoft PowerPoint 2010, để giảm kích cỡ của đoạn văn bản được chọn, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + [",
+        "B": "Ctrl + Shift + >",
+        "C": "Ctrl + Shift + [",
+        "D": "Ctrl + Shift + ]"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Trong Microsoft PowerPoint 2010, để chuyển đoạn văn bản được chọn sang chữ in hoa, người ta thực hiện:",
+      "options": {
+        "A": "Vào Change case -> Uppercase",
+        "B": "Vào Home -> Change case -> Uppercase",
+        "C": "Vào Format -> Uppercase",
+        "D": "Vào Format -> Uppercase -> Change case"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Trong Microsoft PowerPoint 2010, vào Insert -> Header & Footer tương ứng thao tác nào sau đây:",
+      "options": {
+        "A": "Vào Home -> Header & Footer",
+        "B": "Vào File -> Print -> Edit Header & Footer",
+        "C": "Vào File -> Edit Header & Footer",
+        "D": "Vào Home -> Print -> Edit Header & Footer"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Trong Microsoft PowerPoint 2010, sau khi đã chọn một đoạn văn bản, cách nào sau đây không phải để làm mất đi đoạn văn bản đó:",
+      "options": {
+        "A": "Nhấn tổ hợp phím Alt + X.",
+        "B": "Nhấp phím chuột trái vào nút Cut trên thanh công cụ Home",
+        "C": "Nhấn phím Delete.",
+        "D": "Nhấn phím Space"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Trong Microsoft PowerPoint 2010, để định dạng đoạn chữ \"Trường Đại học\" thành kiểu chữ đậm, người ta thực hiện:",
+      "options": {
+        "A": "Chọn đoạn chữ đó, nhấn Ctrl + U",
+        "B": "Chọn đoạn chữ đó, nhấn Ctrl + B",
+        "C": "Đưa con trỏ vào giữa đoạn chữ đó, nhấn Ctrl + B",
+        "D": "Đưa con trỏ vào giữa đoạn chữ đó, nhấn Ctrl + U"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "question": "Trong Microsoft PowerPoint 2010, để căn lề cho một đoạn văn bản nào đó trong giáo án điện tử đang thiết kế, trước tiên người ta phải:",
+      "options": {
+        "A": "Bỏ chọn đoạn văn bản cần căn lề",
+        "B": "Chọn đoạn văn bản cần căn lề",
+        "C": "Chọn tất cả nội dung trong trang thuyết trình (slide)",
+        "D": "Vào File -> Open"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Trong Microsoft PowerPoint 2010, để lưu một đoạn văn bản đã được chọn vào vùng nhớ đệm (clipboard) mà không làm mất đi đoạn văn bản đó, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + X",
+        "B": "Ctrl + Z",
+        "C": "Ctrl + C",
+        "D": "Ctrl + V"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "Trong Microsoft PowerPoint 2010, muốn sao chép một phần của đoạn văn bản trong một text box, người ta thực hiện:",
+      "options": {
+        "A": "Chọn phần văn bản cần sao chép, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + V",
+        "B": "Chọn phần văn bản cần sao chép, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + C",
+        "C": "Chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + V",
+        "D": "Chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + C"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "Trong Microsoft PowerPoint 2010, để tô màu nền cho một trang thuyết trình (slide) trong bài trình diễn, người ta thực hiện:",
+      "options": {
+        "A": "Chọn View -> Background",
+        "B": "Chọn Format -> Background",
+        "C": "Chọn Insert -> Background",
+        "D": "Chọn Slide Show -> Background"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Trong Microsoft PowerPoint 2010, sau khi đã chọn một số đối tượng trên trang thuyết trình (slide) hiện hành, nhấn tổ hợp phím nào sau đây sẽ làm mất đi các đối tượng đó:",
+      "options": {
+        "A": "Alt + X",
+        "B": "Shift + X",
+        "C": "Ctrl + X",
+        "D": "Ctrl + Shift + X"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 76,
+      "question": "Trong Microsoft PowerPoint 2010, để chèn danh sách Excel, người ta thực hiện:",
+      "options": {
+        "A": "Insert->object ->... Chọn create from file",
+        "B": "Insert->object ->... Chọn Microsoft Excel Chart",
+        "C": "View->object",
+        "D": "Vào Insert -> Chart..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Trong Microsoft PowerPoint 2010, để chèn bảng vào trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Table...",
+        "B": "Vào Insert -> Diagram...",
+        "C": "Vào menu -> Symbol...",
+        "D": "Vào Insert -> Chart..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Trong Microsoft PowerPoint 2010, để chèn sơ đồ tổ chức vào slide, người ta thực hiện:",
+      "options": {
+        "A": "Chọn Insert->SmartArt->Hierarchy->chọn kiểu thích hợp",
+        "B": "Chọn Insert->Chart->chọn kiểu thích hợp",
+        "C": "Chọn Format->SmartArt->Picture->chọn kiểu thích hợp",
+        "D": "Chọn Format->Chart->Organization Chart->chọn kiểu thích hợp"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Trong Microsoft PowerPoint 2010, khi vào insert -> chart -> pie..., người ta thực hiện:",
+      "options": {
+        "A": "Để chèn hình tròn",
+        "B": "Để chèn biểu đồ hình tròn",
+        "C": "Để chèn hình Vuông",
+        "D": "Để chèn biểu đồ hình cột"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Trong Microsoft PowerPoint 2010, để vẽ hình, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Chart...",
+        "B": "Vào Insert -> Diagram...",
+        "C": "Vào View -> Drawing",
+        "D": "Vào Insert -> Chart..."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo hiệu ứng cho các đối tượng, người ta thực hiện:",
+      "options": {
+        "A": "Chọn đối tượng cần tạo hiệu ứng -> Animations -> Add Animation...",
+        "B": "Chọn đối tượng cần tạo hiệu ứng -> Slide Show -> Add Effect...",
+        "C": "Chọn đối tượng cần tạo hiệu ứng -> Custom Animation -> Add Effect...",
+        "D": "Chọn đối tượng cần tạo hiệu ứng -> Insert -> Add Animation..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo hiệu ứng chuyển đổi giữa các trang, người ta thực hiện:",
+      "options": {
+        "A": "Vào Slide Show -> Custom Animation",
+        "B": "Vào Slide Show -> Slide Transition",
+        "C": "Vào View -> Slide Transition...",
+        "D": "Vào Transitions -> chọn hiệu ứng..."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 83,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo liên kết chuyển đến trang kế tiếp, người ta thực hiện:",
+      "options": {
+        "A": "Chọn đối tượng cần tạo liên kết -> Insert -> Custom Shows -> Slide -> Next slide",
+        "B": "Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Next slide",
+        "C": "Chọn đối tượng cần tạo liên kết -> Slide Show -> Action settings -> Slide -> Next slide",
+        "D": "Chọn đối tượng cần tạo liên kết -> Slide Show -> Custom Shows -> Hyperlink to -> Next slide"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo liên kết chuyển đến trang bất kỳ, người ta thực hiện:",
+      "options": {
+        "A": "Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Slide...",
+        "B": "Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Next slide...",
+        "C": "Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Custom Show...",
+        "D": "Chọn đối tượng cần tạo liên kết -> Insert -> Custom Shows -> Hyperlink to -> URL..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Trong Microsoft PowerPoint 2010, để tạo liên kết chuyển đến trang cuối cùng, người ta thực hiện:",
+      "options": {
+        "A": "Chọn đối tượng cần tạo liên kết -> Insert -> Custom Shows -> Slide -> Last slide",
+        "B": "Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Next slide",
+        "C": "Chọn đối tượng cần tạo liên kết -> Insert -> Custom Shows -> Slide -> End Show",
+        "D": "Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Last slide"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 86,
+      "question": "Trong Microsoft PowerPoint 2010, thao tác nào sau đây để chạy thử trang thuyết trình (slide) hiện tại:",
+      "options": {
+        "A": "Vào Home -> Preview",
+        "B": "Vào File -> Preview",
+        "C": "Vào Design -> Preview",
+        "D": "Vào Transitions -> Preview"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 87,
+      "question": "Trong Microsoft PowerPoint 2010, muốn thiết lập hiệu ứng cho văn bản, hình ảnh,..., người ta thực hiện:",
+      "options": {
+        "A": "Insert -> Custom Animation, rồi chọn Add Effect",
+        "B": "Format -> Custom Animation, rồi chọn Add Effect",
+        "C": "View -> Custom Animation, rồi chọn Add Effect",
+        "D": "Slide Show -> Custom Animation, rồi chọn Add Effect"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 88,
+      "question": "Trong Microsoft PowerPoint 2010, muốn xóa bỏ hiệu ứng trình diễn, người ta chọn đối tượng cần xóa bỏ hiệu ứng và thực hiện:",
+      "options": {
+        "A": "Vào Slide Show -> Custom Animation, rồi chọn Remove",
+        "B": "Vào Slide Show -> Custom Animation, rồi chọn Delete",
+        "C": "Vào View -> Custom Animation, rồi chọn Remove",
+        "D": "Vào View -> Custom Animation, rồi chọn Delete"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Trong Microsoft PowerPoint 2010, để trình diễn trang thuyết trình (slide), người ta thực hiện:",
+      "options": {
+        "A": "Nhấn phím F2",
+        "B": "Nhấn phím F3",
+        "C": "Nhấn phím F4",
+        "D": "Nhấn phím F5"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 90,
+      "question": "Trong Microsoft PowerPoint 2010, để thoát trình diễn trang thuyết trình (slide) trở về màn hình soạn thảo, người ta thực hiện:",
+      "options": {
+        "A": "Nhấn phím ESC",
+        "B": "Nhấn phím CTRL",
+        "C": "Nhấn phím ALT",
+        "D": "Nhấn phím SHIFT"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Trong Microsoft PowerPoint 2010, tổ hợp phím nào sau được dùng để in:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + P",
+        "C": "Ctrl + N",
+        "D": "Ctrl + S"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Trong Microsoft PowerPoint 2010, để kết thúc trình diễn trang thuyết trình (slide), người ta thực hiện nhấn phím nào sau đây:",
+      "options": {
+        "A": "ESC",
+        "B": "F10",
+        "C": "DELETE",
+        "D": "ENTER"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Trong Microsoft PowerPoint 2010, thao tác nào sau đây để in trang thuyết trình (slide) hiện tại:",
+      "options": {
+        "A": "Vào File -> Print -> Print Current Slide",
+        "B": "Vào File -> Print -> Print Current Slide -> Print",
+        "C": "Vào File -> Print -> Print All Slides -> Print",
+        "D": "Vào File -> Print -> Print All Slides"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Trong Microsoft PowerPoint 2010, thao tác nào sau đây để in tất cả các trang thuyết trình (slide):",
+      "options": {
+        "A": "Vào File -> Print -> Print All Slides",
+        "B": "Vào File -> Print -> Print All Slides",
+        "C": "Vào File -> Print All Slides -> Print",
+        "D": "Vào File -> Print -> Print All Slides -> Print"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 95,
+      "question": "Trong Microsoft PowerPoint 2010, để cài đặt trang in, khổ giấy, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Page setup...",
+        "B": "Vào Design -> Page setup...",
+        "C": "Vào View -> Page setup...",
+        "D": "Vào File -> Page setup..."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "Trong Microsoft PowerPoint 2010, để kết thúc việc trình diễn, người ta thực hiện:",
+      "options": {
+        "A": "Phím 10",
+        "B": "Phím ESC",
+        "C": "Phím Enter",
+        "D": "Phím Delete"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Trong Microsoft PowerPoint 2010, muốn trình diễn tài liệu được soạn thảo, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Slide Show",
+        "B": "Vào Home -> Slide Show",
+        "C": "Vào Slide Show -> Slide Show",
+        "D": "Vào View -> Slide Show"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Trong Microsoft PowerPoint 2010, để trình diễn một trang thuyết trình (slide), người ta thực hiện nhấn phím:",
+      "options": {
+        "A": "Phím F5",
+        "B": "Phím F3",
+        "C": "Phím F1",
+        "D": "Phím F10"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Trong Microsoft PowerPoint 2010, khi đang trình diễn, muốn kết thúc phần trình diễn, người ta thực hiện:",
+      "options": {
+        "A": "Nhấp phải chuột, rồi chọn Exit",
+        "B": "Nhấp phải chuột, rồi chọn Return",
+        "C": "Nhấp phải chuột, rồi chọn End Show",
+        "D": "Nhấp phải chuột, rồi chọn Screen"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Trong Microsoft PowerPoint 2010, đang trình chiếu một bài trình diễn, muốn dừng trình diễn, người ta thực hiện:",
+      "options": {
+        "A": "Tab",
+        "B": "Esc",
+        "C": "Home",
+        "D": "End"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 101,
+      "question": "Trong Microsoft PowerPoint 2010, để thiết lập các thông số trang in, người ta thực hiện:",
+      "options": {
+        "A": "Vào Design -> Page setup...",
+        "B": "Vào File -> Print",
+        "C": "Vào File -> Print Preview",
+        "D": "Vào File -> Properties"
+      },
+      "answer": "A"
+    }
+  ],
+  "M6": [
+    {
+      "id": 1,
+      "question": "Tên viết tắt của các nhà cung cấp dịch vụ Internet là:",
+      "options": {
+        "A": "IAP",
+        "B": "ISP",
+        "C": "IIS",
+        "D": "ICP"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Các thành phần của tên miền được phân cách bằng ký tự gì:",
+      "options": {
+        "A": "Dấu \".\"",
+        "B": "Dấu \",\"",
+        "C": "Dấu \"#\"",
+        "D": "Dấu \"@\""
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Để truy cập internet, người ta dùng chương trình nào sau đây:",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Microsoft Excel",
+        "C": "Google Chrome",
+        "D": "Wordpad"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Dịch vụ Internet được cung cấp ở Việt Nam vào năm nào:",
+      "options": {
+        "A": "1986",
+        "B": "1990",
+        "C": "1997",
+        "D": "2000"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "WWW là viết tắt của dòng nào:",
+      "options": {
+        "A": "Word Wide Wed",
+        "B": "Word Wide Web",
+        "C": "Word Wild Web",
+        "D": "World Wide Web"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "Trong mạng máy tính, thuật ngữ \"Online\" có nghĩa là:",
+      "options": {
+        "A": "Đang tải",
+        "B": "Không tải được",
+        "C": "Trực tuyến",
+        "D": "Ngoại tuyến"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "www.google.com thì \".com\" có nghĩa là:",
+      "options": {
+        "A": "Đây là đuôi tên miền của các trang web giáo dục",
+        "B": "Đây là đuôi tên miền của các trang web thông thường",
+        "C": "Đây là đuôi tên miền của các trang web thông thường",
+        "D": "Đây là đuôi tên miền của các trang web thương mại, dịch vụ"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "Tiền thân của mạng Internet ngày nay là:",
+      "options": {
+        "A": "Intranet",
+        "B": "ARPANET",
+        "C": "LAN",
+        "D": "WAN"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Bộ giao thức truyền thông dữ liệu dùng trên mạng Internet hiện nay là:",
+      "options": {
+        "A": "TCP/IP",
+        "B": "OSI",
+        "C": "IPX",
+        "D": "AppleTalk"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Việt Nam chính thức gia nhập Internet vào thời điểm nào:",
+      "options": {
+        "A": "01/12/1997",
+        "B": "01/01/1997",
+        "C": "01/06/1997",
+        "D": "01/06/1998"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều có thông tin nào:",
+      "options": {
+        "A": "Địa chỉ IP",
+        "B": "Địa chỉ nhà",
+        "C": "Mã sản phẩm",
+        "D": "GPS"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Trong mạng máy tính, thuật ngữ LAN có ý nghĩa là:",
+      "options": {
+        "A": "Mạng cục bộ",
+        "B": "Mạng diện rộng",
+        "C": "Mạng toàn cầu",
+        "D": "Một ý nghĩa khác"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Nếu kết nối Internet chậm, nguyên nhân chính là gì:",
+      "options": {
+        "A": "Do nhiều người cùng truy cập làm cho tốc độ đường truyền giảm, thường bị nghẽn mạch",
+        "B": "Do chưa trả phí Internet",
+        "C": "Do Internet có tốc độ chậm",
+        "D": "Do người dùng chưa biết sử dụng Internet"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Thế nào là một website được bảo vệ:",
+      "options": {
+        "A": "Một website được bảo vệ là một website chỉ cho phép truy nhập có giới hạn, muốn sử dụng các dịch vụ hoặc xem thông tin, phải đăng nhập bằng tên và mật khẩu",
+        "B": "Một website không được bảo vệ cho phép truy nhập không có giới hạn, muốn sử dụng các dịch vụ hoặc xem thông tin, phải đăng nhập bằng tên và mật khẩu bất kỳ",
+        "C": "Một website dành cho mọi người có thể truy cập không cần cài đặt mật khẩu",
+        "D": "Một website được bảo vệ là một website không cho phép truy nhập có giới hạn"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Thuật ngữ tường lửa (firewall) là:",
+      "options": {
+        "A": "Tường lửa là hệ thống bao gồm cả phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet",
+        "B": "Tường lửa là một hệ thống bao phần cứng",
+        "C": "Tường lửa là một hệ thống phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet",
+        "D": "Tường lửa là hệ thống không bao gồm phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Trên mạng Internet, Virút máy tính có thể lây lan như thế nào:",
+      "options": {
+        "A": "Lây lan qua thư điện tử",
+        "B": "Lây lan qua đường dây mạng",
+        "C": "Lây lan qua nhà cung cấp Internet",
+        "D": "Lây lan qua máy in trên mạng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Phát biểu nào sau đây về phần mềm gián điệp là đúng:",
+      "options": {
+        "A": "Là nhóm các phần mềm độc hại có khả năng phát hiện các công việc bạn làm trên máy tính cá nhân hay trên mạng Internet và gửi các thông tin đó cho những kẻ lạ không được phép truy cập thông tin này của bạn",
+        "B": "Là nhóm các phần mềm không có khả năng phát hiện các công việc bạn làm trên máy tính cá nhân hay trên mạng Internet",
+        "C": "Là nhóm các phần mềm không độc hại gửi các thông tin đó cho những kẻ lạ không được phép truy cập thông tin này của bạn",
+        "D": "Là nhóm các phần mềm không có khả năng phát hiện trên cá nhân hay trên mạng Internet"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Giao thức HTTP là:",
+      "options": {
+        "A": "Là giao thức truyền tải siêu văn bản",
+        "B": "Là ngôn ngữ để soạn thảo nội dung các trang Web",
+        "C": "Là tên của trang web",
+        "D": "Là địa chỉ của trang Web"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Trong trình duyệt web Internet Explorer, nút Home trên cửa sổ trình duyệt dùng để:",
+      "options": {
+        "A": "Đưa bạn đến với trang khởi động mặc định.",
+        "B": "Đưa bạn về trang chủ của website mà bạn đang xem.",
+        "C": "Đưa bạn về trang trắng không có nội dung.",
+        "D": "Đưa bạn trở về trang web có địa chỉ http://www.google.com.vn"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Để mở một lúc nhiều cửa sổ trình duyệt Internet Explorer, người ta thực hiện lệnh:",
+      "options": {
+        "A": "File->Open",
+        "B": "File->New",
+        "C": "Ctrl + N",
+        "D": "Cả B và C đều được"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "Để xem lại lịch sử duyệt web trên trình duyệt Internet Explorer, người ta sử dụng tổ hợp bàn phím:",
+      "options": {
+        "A": "Ctrl + L",
+        "B": "Ctrl + H",
+        "C": "Ctrl + P",
+        "D": "Ctrl + M"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Nút Back trên các trình duyệt Web dùng để:",
+      "options": {
+        "A": "Quay trở lại trang Web trước đó",
+        "B": "Quay trở lại cửa sổ trước đó",
+        "C": "Quay trở lại màn hình trước đó",
+        "D": "Đi đến trang Web tiếp theo"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Nút Forward trên các trình duyệt Web dùng để:",
+      "options": {
+        "A": "Đi đến cửa sổ trước đó",
+        "B": "Đi đến màn hình trước đó",
+        "C": "Quay lại trang Web trước đó",
+        "D": "Đi đến trang Web tiếp theo"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "question": "Để quay lại trang web trước đó, ngoài nút \"Back\", người ta có thể dùng tổ hợp phím trên trình duyệt Internet Explorer:",
+      "options": {
+        "A": "Ctrl + T",
+        "B": "Alt + T",
+        "C": "Alt + F3",
+        "D": "Alt + ←"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "Hãy cho biết phát biểu nào dưới đây là sai:",
+      "options": {
+        "A": "Mở nhiều cửa sổ duyệt web cho nhiều địa chỉ web khác nhau.",
+        "B": "Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện đầy đủ nội dung.",
+        "C": "Nhấn nút F5 là để bắt đầu lại quá trình tải trang web từ máy phục vụ về máy cá nhân.",
+        "D": "Nhấn nút Back để đóng cửa sổ trình duyệt."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "Phần History trong các browser dùng để:",
+      "options": {
+        "A": "Liệt kê các trang web đã dùng trong quá khứ.",
+        "B": "Liệt kê các địa chỉ email đã dùng.",
+        "C": "Liệt kê tên các trang web",
+        "D": "Liệt kê số người đã sử dụng mạng Internet."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Muốn lưu các địa chỉ yêu thích (Favorites), người ta sử dụng chức năng nào sau đây:",
+      "options": {
+        "A": "Add Link",
+        "B": "Add Favorite",
+        "C": "Add to Favorite",
+        "D": "Organize Favorite"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Trong Internet Explorer, để hiện/ẩn các nút công cụ chuẩn, người ta thực hiện:",
+      "options": {
+        "A": "View->Toolbars->Standard Buttons",
+        "B": "View->Options->Standard Buttons",
+        "C": "View->Default",
+        "D": "View-> All Toolsbar"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Khi thấy tên miền trong địa chỉ website có. edu.vn thì website đó thường thuộc về lĩnh vực nào:",
+      "options": {
+        "A": "Lĩnh vực chính phủ ở Việt Nam",
+        "B": "Lĩnh vực giáo dục ở Việt Nam",
+        "C": "Lĩnh vực cung cấp thông tin ở Việt Nam",
+        "D": "Thuộc về các tổ chức khác"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Địa chỉ website nào sau đây là không hợp lệ:",
+      "options": {
+        "A": "hpc2.com",
+        "B": "hpc2@google.com",
+        "C": "www.hpc2.com.vn",
+        "D": "hpc2.edu"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Để xem một trang Web, người ta gõ địa chỉ của trang đó vào vị trí nào trong các trình duyệt Web:",
+      "options": {
+        "A": "Thanh công cụ chuẩn của trình duyệt",
+        "B": "Thanh liên kết của trình duyệt",
+        "C": "Thanh địa chỉ của trình duyệt",
+        "D": "Thanh trạng thái của trình duyệt"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "question": "Nút \"Home\" trên một trang web có nghĩa là:",
+      "options": {
+        "A": "Đi đến trang trước",
+        "B": "Đi đến trang chủ",
+        "C": "Đi đến nhà",
+        "D": "Không có ý nghĩa gì, chỉ để trang trí"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Để tìm thông tin \"sinh viên\" trên trang web \"www.uit.edu.vn\" ta vào google gõ từ khóa tìm kiếm nào để google trả về kết quả không có kết quả từ các trang web khác:",
+      "options": {
+        "A": "sinh viên IN: www.uit.edu.vn",
+        "B": "sinh viên ON:www.uit.edu.vn",
+        "C": "sinh viên SITE:www.uit.edu.vn",
+        "D": "sinh viên FROM:www.uit.edu.vn"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Thuật ngữ \"Download\" có nghĩa là:",
+      "options": {
+        "A": "Đang tải",
+        "B": "Không tải",
+        "C": "Trực tuyến",
+        "D": "Tải file hay folder"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Khi muốn lưu lại trang Web đang duyệt lên máy tính trên trình duyệt Internet Explorer, người ta thực hiện:",
+      "options": {
+        "A": "Nhấn chuột phải trên trang Web và chọn Save.",
+        "B": "Chọn Edit sau đó chọn Select All.",
+        "C": "Chọn File sau đó chọn Save.",
+        "D": "Chọn File sau đó chọn Save As (hoặc Save page as)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 36,
+      "question": "Trong trình duyệt Internet Explorer, để lưu một bức ảnh về máy tính, người ta làm như sau:",
+      "options": {
+        "A": "Nhấn phím chuột phải vào ảnh, chọn Save Picture As",
+        "B": "Kích đúp (double click) vào ảnh rồi chọn Download",
+        "C": "Vào Tools-> Save Picture As",
+        "D": "Hai cách A và C đều đúng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "question": "Để lưu nội dung trang web trên máy tính, trong trình duyệt Internet Explorer, người ta chọn lệnh:",
+      "options": {
+        "A": "File-> Save",
+        "B": "File-> Save As",
+        "C": "File-> Save Page As",
+        "D": "File-> Import"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Để in một trang web trong trình duyệt Internet Explorer, người ta sử dụng tổ hợp bàn phím:",
+      "options": {
+        "A": "Ctrl + P",
+        "B": "Ctrl + C",
+        "C": "Ctrl + A",
+        "D": "Ctrl + U"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Khi nói về Internet, phát biểu nào sau đây là sai:",
+      "options": {
+        "A": "Dịch vụ thư điện tử (email) chỉ gửi các thông điệp, không thể gửi các tập tin",
+        "B": "ISP phải thuê đường truyền và cổng của một IAP",
+        "C": "Internet Explorer là một trình duyệt WEB",
+        "D": "Telnet là một trong các dịch vụ của Internet"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Trong các thuật ngữ sau đây, thuật ngữ nào không chỉ dịch vụ Internet:",
+      "options": {
+        "A": "WWW (World Wide Web)",
+        "B": "Chat",
+        "C": "E-mail",
+        "D": "TCP/IP"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 41,
+      "question": "Thư điện tử dùng để làm gì:",
+      "options": {
+        "A": "Trao đổi thông tin trực tuyến",
+        "B": "Hội thoại trực tuyến",
+        "C": "Gửi thư thông qua môi trường Internet",
+        "D": "Tìm kiếm thông tin"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Phát biểu nào sau đây về ưu điểm của dịch vụ thư điện tử là đúng:",
+      "options": {
+        "A": "Chi phí cao,tốn thời gian",
+        "B": "Có thể gửi tập tin, không mất nhiều thời gian",
+        "C": "Chi phí thấp, thời gian chuyển gần như tức thời, một người có thể gửi đồng thời cho nhiều người khác, có thể gửi kèm tập tin",
+        "D": "Bắt buộc phải có máy tính kết nối internet"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "Thật ngữ Email là viết tắt của:",
+      "options": {
+        "A": "Ethernet Mail",
+        "B": "Electronic Mail",
+        "C": "Egg Mail",
+        "D": "Eaten Mail"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Điều nào sau đây là lợi thế của thư điện tử so với thư tín gửi qua đường bưu điện:",
+      "options": {
+        "A": "Có thể chuyển được lượng văn bản lớn hơn nhờ chức năng gắn kèm.",
+        "B": "Thư điện tử luôn có độ an toàn dữ liệu cao hơn.",
+        "C": "Tốc độ chuyển thư nhanh.",
+        "D": "Thư điện tử luôn luôn được phân phát."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Dịch vụ thư điện tử cung cấp những chức năng gì:",
+      "options": {
+        "A": "– Mở và xem danh sách các thư đã nhận và được lưu trong hộp thư. – Mở và đọc nội dung của một bức thư cụ thể. – Soạn thư và gửi thư cho một hoặc nhiều người.",
+        "B": "– Trả lời thư. –Chuyển tiếp thư cho một người khác",
+        "C": "– Mở và xem danh sách các thư đã nhận và được lưu trong hộp thư. – Mở và đọc nội dung của một bức thư cụ thể. – Soạn thư và gửi thư cho một hoặc nhiều người. – Trả lời thư. – Chuyển tiếp thư cho một người khác",
+        "D": "– Mở và đọc nội dung của một bức thư cụ thể. – Soạn thư và gửi thư cho một hoặc nhiều người. – Trả lời thư."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "Trong khi soạn thảo một thư điện tử (Email) trên phần mềm Outlook 2010, nếu muốn gởi kèm File, người ta thực hiện:",
+      "options": {
+        "A": "send",
+        "B": "copy",
+        "C": "attachment",
+        "D": "save"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Trang web nào cho phép đọc và gửi thư điện tử (Email):",
+      "options": {
+        "A": "www.edu.net.vn",
+        "B": "mail.google.com",
+        "C": "www.mail.com",
+        "D": "www.email.com"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Để trả lời thư điện tử trên phần mềm Outlook 2010, người ta sử dụng nút:",
+      "options": {
+        "A": "Relpy",
+        "B": "Forward",
+        "C": "Compose",
+        "D": "Attactment"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Để chuyển tiếp thư điện tử phần mềm Outlook 2010, dùng nút:",
+      "options": {
+        "A": "Relpy",
+        "B": "Relpy to All",
+        "C": "Forward",
+        "D": "Attachment"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Khi dòng chủ đề trong một thư điện tử (Email) được bắt đầu bằng chữ RE:, thì thông thường thư điện tử đó là:",
+      "options": {
+        "A": "Email rác, Email quảng cáo",
+        "B": "Email mới",
+        "C": "Email trả lời cho một Email đã gửi trước đó",
+        "D": "Email của nhà cung cấp dịch vụ E-mail"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Khi nhận được thư điện tử (Email) có chủ đề\" Mail undeliverable\" có nghĩa là:",
+      "options": {
+        "A": "Email đã được gửi đi, nhưng không tới được người nhận",
+        "B": "Email đã được gửi đi, nhưng người nhận không đọc",
+        "C": "Đó là Email của nhà cung cấp dịch vụ",
+        "D": "Đó là Email của người nhận thông báo việc không mở được Email"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Trong Gmail, khi sử dụng một thư cụ thể để tạo bộ lọc, người ta thực hiện:",
+      "options": {
+        "A": "Mở Gmail.->Nhấp vào Lọc thư dựa theo những thư này.->Nhập tiêu chí lọc của bạn.",
+        "B": "Mở Gmail.->Chọn hộp kiểm bên cạnh email bạn muốn.-> Nhấp vào Thêm.->Nhấp vào Lọc thư dựa theo những thư này.->Nhập tiêu chí lọc của bạn.",
+        "C": "Mở Gmail.->Chọn hộp kiểm bên cạnh email bạn muốn.-> Nhấp vào Thêm",
+        "D": "Mở Gmail.->Chọn hộp kiểm bên cạnh email bạn muốn.-> Nhấp vào Thêm.->Nhập tiêu chí lọc của bạn."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Để có thể Chat bằng âm thanh (Voice), máy tính người tham gia cần có gì:",
+      "options": {
+        "A": "Một điện thoại",
+        "B": "Một Headphone có Micro",
+        "C": "Một Webcam",
+        "D": "Một bộ tăng âm"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Hai người trao đổi thông tin với nhau qua ứng dụng hội thoại trong cùng một mạng LAN, phát biểu nào sau đây là đúng:",
+      "options": {
+        "A": "Dữ liệu truyền từ máy đang hội thoại lên máy chủ có dịch vụ hội thoại của cơ quan và quay về máy bên kia",
+        "B": "Dữ liệu đi trực tiếp giữa hai máy",
+        "C": "Dữ liệu truyền không được",
+        "D": "Dữ liệu truyền về máy chủ internet Việt Nam và quay về máy đang chat"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Một diễn đàn trên Internet dùng để:",
+      "options": {
+        "A": "Các thành viên giao lưu trực tuyến với nhau",
+        "B": "Các thành viên thảo luận trực tuyến với nhau",
+        "C": "Các thành viên có thể trao đổi, học hỏi về nhiều lĩnh vực có cùng sự quan tâm",
+        "D": "Tìm kiếm thông tin"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "Một thành viên trên facebook có thể kết bạn với tối đa bao nhiêu người:",
+      "options": {
+        "A": "1000",
+        "B": "5000",
+        "C": "10000",
+        "D": "15000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Ứng dụng mạng xã hội khác với ứng dụng diễn đàn trực tuyến ở điểm nào:",
+      "options": {
+        "A": "Người dùng sử dụng Internet",
+        "B": "Người dùng có thể đăng tin",
+        "C": "Quản lý người dùng theo account",
+        "D": "Mỗi người dùng có một trang riêng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 58,
+      "question": "Những điểm nào sau đây không đúng với một mạng xã hội:",
+      "options": {
+        "A": "Người dùng là tài nguyên của mạng xã hội",
+        "B": "Mạng xã hội cho phép các mối liên kết giữa các người dùng",
+        "C": "Người dùng có thể chat với nhau trong mạng xã hội",
+        "D": "Người dùng có thể sử dụng mạng xã hội bằng xe gắn máy"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 59,
+      "question": "Những điều nào sau đây không đúng với một trang tin cá nhân (blog):",
+      "options": {
+        "A": "Người chủ trang tin có thể đăng những tin của mình",
+        "B": "Người chủ trang tin phải chịu trách nhiệm về những tin đã đăng",
+        "C": "Người chủ trang tin có thể xoá những comment trong blog của mình",
+        "D": "Người chủ trang tin không phải chịu trách nhiệm về những tin đã đăng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 60,
+      "question": "Thương mại điện tử là gì:",
+      "options": {
+        "A": "Thực hiện các hoạt động thương mại qua mạng Internet",
+        "B": "Thanh toán qua mạng Internet",
+        "C": "Buôn bán qua mạng Internet",
+        "D": "Kinh doanh qua mạng Internet"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Loại hình Thương mại điện tử mà đối tác kinh doanh là giữa doanh nghiệp và người tiêu dùng là:",
+      "options": {
+        "A": "B2B",
+        "B": "B2C",
+        "C": "C2C",
+        "D": "P2P"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Trong các phát biểu sau, phát biểu nào là sai:",
+      "options": {
+        "A": "Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong quảng cáo",
+        "B": "Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới",
+        "C": "Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống",
+        "D": "Thương mại điện tử là hình thái kinh doanh mới ở Việt Nam"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "www.amazon.com là một website về mua bán:",
+      "options": {
+        "A": "Bán hàng qua mạng, siêu thị điện tử, e-store",
+        "B": "Đấu giá trực tuyến",
+        "C": "Mua bán trực tuyến",
+        "D": "Thanh toán trực tuyến"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Phương thức thanh toán nào sau đây được sử dụng trong thương mại điện tử:",
+      "options": {
+        "A": "Thanh toán bằng thẻ tín dụng",
+        "B": "Thanh toán bằng tiền mặt",
+        "C": "Thanh toán bằng séc",
+        "D": "Tất cả các phương thức trên"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Khi mua hàng trực tuyến, người mua cần chú ý điều gì:",
+      "options": {
+        "A": "Kiểm tra uy tín của trang web bán hàng",
+        "B": "Kiểm tra giá cả sản phẩm",
+        "C": "Kiểm tra chính sách đổi trả hàng",
+        "D": "Tất cả các điều trên"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Chữ ký số (Digital Signature) dùng để:",
+      "options": {
+        "A": "Xác thực danh tính người gửi và đảm bảo tính toàn vẹn của thông tin",
+        "B": "Mã hóa thông tin",
+        "C": "Giải mã thông tin",
+        "D": "Nén thông tin"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Giao dịch điện tử có giá trị pháp lý khi nào:",
+      "options": {
+        "A": "Khi có chữ ký số hợp lệ",
+        "B": "Khi được xác nhận bởi cơ quan chức năng",
+        "C": "Khi có hợp đồng giấy kèm theo",
+        "D": "Khi có nhân chứng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "E-learning là gì:",
+      "options": {
+        "A": "Học tập trực tiếp tại trường",
+        "B": "Học tập qua sách vở",
+        "C": "Học tập qua truyền hình",
+        "D": "Học tập trực tuyến qua mạng Internet"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 69,
+      "question": "Ưu điểm của E-learning là:",
+      "options": {
+        "A": "Phải đến lớp học",
+        "B": "Học mọi lúc, mọi nơi",
+        "C": "Chi phí cao",
+        "D": "Không cần Internet"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "E-banking là gì:",
+      "options": {
+        "A": "Ngân hàng truyền thống",
+        "B": "Ngân hàng nhà nước",
+        "C": "Ngân hàng thương mại",
+        "D": "Ngân hàng trực tuyến"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 71,
+      "question": "Dịch vụ nào sau đây là dịch vụ ngân hàng điện tử:",
+      "options": {
+        "A": "Rút tiền tại quầy",
+        "B": "Gửi tiền tại quầy",
+        "C": "Chuyển tiền tại quầy",
+        "D": "Chuyển khoản trực tuyến"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 72,
+      "question": "E-government là gì:",
+      "options": {
+        "A": "Chính phủ truyền thống",
+        "B": "Chính phủ điện tử",
+        "C": "Chính phủ liên bang",
+        "D": "Chính phủ địa phương"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Mục tiêu của chính phủ điện tử là:",
+      "options": {
+        "A": "Tăng chi phí hành chính",
+        "B": "Giảm tính minh bạch",
+        "C": "Nâng cao hiệu quả quản lý nhà nước và phục vụ người dân tốt hơn",
+        "D": "Giảm số lượng dịch vụ công"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Telemedicine là gì:",
+      "options": {
+        "A": "Khám bệnh tại bệnh viện",
+        "B": "Khám bệnh tại nhà",
+        "C": "Khám bệnh tại phòng khám",
+        "D": "Khám bệnh từ xa qua mạng Internet"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "Cloud computing (Điện toán đám mây) là:",
+      "options": {
+        "A": "Lưu trữ dữ liệu trên ổ cứng",
+        "B": "Sử dụng tài nguyên máy tính qua mạng Internet",
+        "C": "Lưu trữ dữ liệu trên USB",
+        "D": "Sử dụng máy tính cá nhân"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "Dịch vụ nào sau đây là dịch vụ lưu trữ đám mây:",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Microsoft Excel",
+        "C": "Microsoft PowerPoint",
+        "D": "Google Drive"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 77,
+      "question": "IoT (Internet of Things) là gì:",
+      "options": {
+        "A": "Mạng Internet tốc độ cao",
+        "B": "Mạng xã hội",
+        "C": "Mạng lưới các thiết bị kết nối Internet",
+        "D": "Mạng nội bộ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "Ứng dụng nào sau đây là ứng dụng của IoT:",
+      "options": {
+        "A": "Nhà thông minh",
+        "B": "Soạn thảo văn bản",
+        "C": "Lập trình phần mềm",
+        "D": "Thiết kế đồ họa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Mạng xã hội nào sau đây phổ biến nhất hiện nay:",
+      "options": {
+        "A": "MySpace",
+        "B": "Friendster",
+        "C": "Facebook",
+        "D": "Hi5"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Khi sử dụng mạng xã hội, cần lưu ý điều gì:",
+      "options": {
+        "A": "Chia sẻ tất cả thông tin cá nhân",
+        "B": "Bảo mật thông tin cá nhân",
+        "C": "Kết bạn với tất cả mọi người",
+        "D": "Đăng tải mọi thông tin"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "question": "An toàn thông tin trên mạng Internet bao gồm:",
+      "options": {
+        "A": "Chỉ bảo vệ phần cứng",
+        "B": "Chỉ bảo vệ phần mềm",
+        "C": "Chỉ bảo vệ dữ liệu",
+        "D": "Bảo vệ phần cứng, phần mềm và dữ liệu"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 82,
+      "question": "Phishing là gì:",
+      "options": {
+        "A": "Một loại virus máy tính",
+        "B": "Hình thức lừa đảo trực tuyến để đánh cắp thông tin cá nhân",
+        "C": "Một phần mềm diệt virus",
+        "D": "Một dịch vụ Internet"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Để bảo vệ máy tính khi sử dụng Internet, cần:",
+      "options": {
+        "A": "Cài đặt phần mềm diệt virus và cập nhật thường xuyên",
+        "B": "Không cần cài đặt phần mềm bảo vệ",
+        "C": "Chỉ cần tường lửa",
+        "D": "Không cần cập nhật hệ điều hành"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Mật khẩu mạnh cần đáp ứng tiêu chí nào:",
+      "options": {
+        "A": "Chỉ cần có chữ cái",
+        "B": "Chỉ cần có số",
+        "C": "Kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt",
+        "D": "Chỉ cần dài hơn 4 ký tự"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Spam mail là gì:",
+      "options": {
+        "A": "Thư rác, thư quảng cáo không mong muốn",
+        "B": "Thư quan trọng",
+        "C": "Thư từ bạn bè",
+        "D": "Thư từ cơ quan"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Khi nhận được email từ người lạ có đính kèm file, nên:",
+      "options": {
+        "A": "Mở file ngay lập tức",
+        "B": "Chuyển tiếp cho bạn bè",
+        "C": "Không mở file và xóa email",
+        "D": "Tải file về máy"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Cookie trên trình duyệt web là gì:",
+      "options": {
+        "A": "Một loại virus",
+        "B": "Một phần mềm diệt virus",
+        "C": "Tập tin nhỏ lưu trữ thông tin duyệt web của người dùng",
+        "D": "Một loại phần mềm gián điệp"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "HTTPS khác HTTP ở điểm nào:",
+      "options": {
+        "A": "HTTPS có mã hóa dữ liệu truyền tải",
+        "B": "HTTPS nhanh hơn HTTP",
+        "C": "HTTPS không cần Internet",
+        "D": "HTTPS chỉ dùng cho email"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "VPN là viết tắt của:",
+      "options": {
+        "A": "Virtual Public Network",
+        "B": "Virtual Private Network",
+        "C": "Visual Private Network",
+        "D": "Virtual Personal Network"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Bandwidth (Băng thông) là gì:",
+      "options": {
+        "A": "Tốc độ xử lý của CPU",
+        "B": "Dung lượng ổ cứng",
+        "C": "Lượng dữ liệu có thể truyền qua mạng trong một đơn vị thời gian",
+        "D": "Dung lượng RAM"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "DNS là viết tắt của:",
+      "options": {
+        "A": "Domain Network System",
+        "B": "Digital Network Service",
+        "C": "Domain Name System",
+        "D": "Digital Name Service"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 92,
+      "question": "Chức năng của DNS là:",
+      "options": {
+        "A": "Mã hóa dữ liệu",
+        "B": "Diệt virus",
+        "C": "Lọc thư rác",
+        "D": "Chuyển đổi tên miền thành địa chỉ IP"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 93,
+      "question": "IP address (Địa chỉ IP) là:",
+      "options": {
+        "A": "Địa chỉ duy nhất định danh mỗi thiết bị trên mạng Internet",
+        "B": "Địa chỉ email",
+        "C": "Địa chỉ nhà",
+        "D": "Số điện thoại"
+      },
+      "answer": "A"
+    }
+  ]
+}

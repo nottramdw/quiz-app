@@ -1,0 +1,1489 @@
+{
+  "M4": [
+    {
+      "id": 1,
+      "question": "Phần mềm Microsoft Excel dùng để làm gì:",
+      "options": {
+        "A": "Tính toán",
+        "B": "Xem phim",
+        "C": "Nghe nhạc",
+        "D": "Ghi âm"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Trong Microsoft Excel, muốn kiểm tra phiên bản đang sử dụng, người ta thực hiện:",
+      "options": {
+        "A": "Vào File->Help-> Microsoft Excel Help",
+        "B": "Vào File->Help-> About Microsoft Excel",
+        "C": "Vào Home-> Help",
+        "D": "Vào View-> Guide"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Trong Microsoft Excel 2010, muốn nhờ chương trình giúp đỡ về một vấn đề nào đó, người ta thực hiện:",
+      "options": {
+        "A": "Vào File->Help-> Microsoft Excel Help",
+        "B": "Vào File->Help-> About Microsoft Excel",
+        "C": "Vào Home-> Help",
+        "D": "Vào View-> Guide"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Trong Microsoft Excel 2010, người ta sử dụng tổ hợp phím nào để huỷ bỏ thao tác vừa thực hiện?",
+      "options": {
+        "A": "Ctrl + S",
+        "B": "Ctrl + C",
+        "C": "Ctrl + X",
+        "D": "Ctrl + Z"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "Trong Microsoft Excel 2010, người ta sử dụng tổ hợp phím nào để ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính:",
+      "options": {
+        "A": "Alt + Home",
+        "B": "Ctrl + Home",
+        "C": "Shift + Home",
+        "D": "Tab + Home"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Một trong những thuật ngữ sau không phải dùng để chỉ một thành phần của Microsoft Excel:",
+      "options": {
+        "A": "WorkBook",
+        "B": "WorkSheet",
+        "C": "Workdocument",
+        "D": "WorkSpace"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Trong Microsoft Excel 2010, để mở một tập tin, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Alt + F",
+        "C": "Ctrl + F",
+        "D": "Alt + O"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Trong Microsoft Excel 2010, phát biểu nào sau là đúng:",
+      "options": {
+        "A": "Bảng tính có thể có đến 256 cột. Các cột được đánh thứ tự bằng các chữ cái A,B,C.. Z,AA, AB,AC..",
+        "B": "Bảng tính có thể lên đến 512 cột. Các cột được đánh số thứ tự từ A,B,...,Y,Z,AA, AB,AC..",
+        "C": "Bảng tính chỉ có 24 cột. Các cột được đánh số thứ tự từ A,B,...,Y,Z",
+        "D": "Bảng tính bao gồm 24 cột và 10 dòng, trong đó 24 cột tương ứng với 24 chữ cái và 10 dòng là 10 giá trị hiện có"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Trong Microsoft Excel 2010, một trong các cách View sau không được hỗ trợ khi đang thao tác trên Workbook:",
+      "options": {
+        "A": "Normal View",
+        "B": "Sheet View",
+        "C": "Page Break Preview",
+        "D": "Print Preview"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Trong Microsoft Excel 2010, kết quả của công thức =MIN(2,MOD(8,5)) là:",
+      "options": {
+        "A": "8",
+        "B": "7",
+        "C": "2",
+        "D": "5"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Trong Microsoft Excel 2010, để bật tắt thanh công thức, người ta thực hiện:",
+      "options": {
+        "A": "Vào View-> Formular bar",
+        "B": "Vào View-> Toolbars",
+        "C": "Vào View-> Status bar",
+        "D": "Vào View-> Ruler"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Trong Microsoft Excel 2010, để đóng bảng tính (workbook) đang mở, cách nào sau không thực hiện được điều này:",
+      "options": {
+        "A": "Vào File -> Close",
+        "B": "Vào File -> Exit",
+        "C": "Vào File -> News",
+        "D": "Nhấn chuột vào biểu tượng đóng (x) ở góc phải trên của cửa sổ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Trong Microsoft Excel 2010, để chèn thêm 1 Bảng tính (Worksheet), người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Ctrl + Shift + F11",
+        "B": "Alt + Shift + F11",
+        "C": "Shift + F11",
+        "D": "Shift + F10"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Tên một tập tin bảng tính Microsoft Excel thường có đuôi mở rộng là:",
+      "options": {
+        "A": ".xlsa",
+        "B": ".xlsy",
+        "C": ".xlsk",
+        "D": ".xlsx"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "Trong Microsoft Excel 2010, để thực hiện công việc ghi lưu nội dung của bảng tính vào máy tính, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + A",
+        "C": "Shift + S",
+        "D": "Ctrl + S"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Trong Microsoft Excel 2010, muốn lưu bảng tính hiện thời vào đĩa, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Save",
+        "B": "Vào Data ->Save",
+        "C": "Vào Insert -> Save",
+        "D": "Vào File -> Save"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "Trong Microsoft Excel 2010, để lưu tập tin đang mở dưới một tên khác, người ta thực hiện:",
+      "options": {
+        "A": "Vào File-> Save As",
+        "B": "Vào File-> Save",
+        "C": "Vào File-> New",
+        "D": "Vào Home -> Edit-> Replace"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Trong Microsoft Excel 2010, để tạo mới một bảng tính, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Shift + Ctrl + N",
+        "B": "Ctrl + N",
+        "C": "Ctrl + A",
+        "D": "Ctrl + O"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Trong Microsoft Excel 2010, để lưu tập tin đang mở dưới một tên khác, người ta thực hiện:",
+      "options": {
+        "A": "Save As",
+        "B": "New",
+        "C": "Save",
+        "D": "Replace"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Trong Microsoft Excel 2010, để chọn toàn bộ các ô trên bảng tính, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Ctrl + Shift + B",
+        "B": "Ctrl + C",
+        "C": "Ctrl + A",
+        "D": "Ctrl + Alt + D"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Trong Microsoft Excel 2010, để xuống dòng trong cùng một ô, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Ctrl + B",
+        "B": "Alt + Enter",
+        "C": "Alt + F11",
+        "D": "Ctrl + D"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Trong Microsoft Excel 2010, để định dạng kiểu dữ liệu cho vùng được chọn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Number...",
+        "B": "Vào Data -> Number...",
+        "C": "Vào Insert -> Number...",
+        "D": "Vào View -> Number..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Trong Microsoft Excel 2010, khi nhập dữ liệu dạng Ngày Tháng Năm, nếu giá trị Ngày Tháng Năm đó không hợp lệ thì Microsoft Excel coi đó là dữ liệu dạng nào:",
+      "options": {
+        "A": "Thời Gian",
+        "B": "Số",
+        "C": "Ngày Tháng Năm",
+        "D": "Chuỗi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "question": "Trong Microsoft Excel 2010, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiện thị trong ô chuỗi các kí tự:",
+      "options": {
+        "A": "&",
+        "B": "$",
+        "C": "%",
+        "D": "#"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "Trong Microsoft Excel 2010, để đánh dấu bôi đen khối ô (cell) rời rạc, người ta thực hiện:",
+      "options": {
+        "A": "Giữ Ctrl + Nhấn chuột phải vào các ô",
+        "B": "Giữ Ctrl + Nhấn chuột trái vào các ô",
+        "C": "Giữ Alt + Nhấn chuột phải vào các ô",
+        "D": "Giữ Alt + Nhấn chuột trái vào các ô"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có sẵn giá trị số 10 ; Tại ô B2 gõ vào công thức =PRODUCT(A2,5) thì nhận được kết quả:",
+      "options": {
+        "A": "#VALUE!",
+        "B": "2",
+        "C": "10",
+        "D": "50"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "Trong Microsoft Excel 2010, để chọn toàn bộ các ô trên bảng tính, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Ctrl + A",
+        "B": "Ctrl + All",
+        "C": "Ctrl + Alt +Space",
+        "D": "Ctrl + Alt + A"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Trong Microsoft Excel 2010, những ký tự nào sau không thuộc nhóm các ký tự kiểu số:",
+      "options": {
+        "A": "0 1 2 3 4 5 6 7 8 9 + -",
+        "B": "o",
+        "C": "$ ( )",
+        "D": "% E"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Trong Microsoft Excel 2010, địa chỉ B$3 là địa chỉ gì:",
+      "options": {
+        "A": "Tương đối",
+        "B": "Tuyệt đối",
+        "C": "Hỗn hợp",
+        "D": "Biểu diễn sai"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Trong Microsoft Excel 2010, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì:",
+      "options": {
+        "A": "Chương trình bảng tính bị nhiễm virus",
+        "B": "Công thức nhập sai và Microsoft Excel thông báo lỗi",
+        "C": "Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số",
+        "D": "Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "Khi nhập dữ liệu vào Microsoft Excel 2010, điều nào sau đây sai:",
+      "options": {
+        "A": "Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái",
+        "B": "Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề trái",
+        "C": "Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải",
+        "D": "Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Trong Microsoft Excel 2010, giao của một hàng và một cột được gọi là gì:",
+      "options": {
+        "A": "Dữ liệu",
+        "B": "ô",
+        "C": "Trường",
+        "D": "Công thức"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Các kiểu dữ liệu thông dụng của Microsoft Excel 2010 là:",
+      "options": {
+        "A": "Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng",
+        "B": "Kiểu số, kiểu logic, kiểu ngày tháng",
+        "C": "Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng",
+        "D": "Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "question": "Trong Microsoft Excel 2010, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiện thị trong ô các kí tự:",
+      "options": {
+        "A": "&",
+        "B": "#",
+        "C": "$",
+        "D": "*"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Trong Microsoft Excel 2010, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, địa chỉ khối ô được thể hiện như câu nào là đúng:",
+      "options": {
+        "A": "B1...H15",
+        "B": "B1:H15",
+        "C": "B1-H15",
+        "D": "B1..H15"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi Tinhoc ; tại ô C2 người ta gõ vào công thức =A2 thì nhận được kết quả tại ô là gì:",
+      "options": {
+        "A": "#Value",
+        "B": "TINHOC",
+        "C": "TinHoc",
+        "D": "Tinhoc"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "question": "Trong Microsoft Excel 2010, biểu thức =AVERAGE(4,6,7,8)+AVERAGE(4,6,7,8)*3 trả lại kết quả là bao nhiêu:",
+      "options": {
+        "A": "6.25",
+        "B": "25",
+        "C": "8",
+        "D": "4"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Trong Microsoft Excel 2010, trong các dạng địa chỉ sau thì địa chỉ nào là địa chỉ tuyệt đối:",
+      "options": {
+        "A": "B$1:$10.",
+        "B": "$B1:$D10.",
+        "C": "B$1$:D$10$.",
+        "D": "$B$1:$D$10"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 39,
+      "question": "Trong Microsoft Excel 2010, khi muốn sắp xếp (Sort) vùng dữ liệu đang chọn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Data -> Sort...",
+        "B": "Vào Home -> Options...",
+        "C": "Vào Data -> Filter...",
+        "D": "Vào Home -> Options..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Trong Microsoft Excel 2010, khi vào DATA -> FILTER...., người ta thực hiện:",
+      "options": {
+        "A": "Xóa toàn bộ nội dung",
+        "B": "Trích lọc thông tin",
+        "C": "In",
+        "D": "Thay đổi phông chữ"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Trong Microsoft Excel 2010, muốn đưa con trỏ vào ô để sửa đổi dữ liệu trong ô, người ta thực hiện:",
+      "options": {
+        "A": "F2",
+        "B": "F10",
+        "C": "F3",
+        "D": "F5"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Trong Microsoft Excel 2010, để nhanh chóng xem các thí sinh xếp loại \"xuất sắc\", người ta bôi đen toàn bộ vùng có chứa dữ liệu cần xem rồi người ta thực hiện:",
+      "options": {
+        "A": "Vào menu Tools, chọn Quick view, chọn mức \"xuất sắc\"",
+        "B": "Vào menu Data, chọn Validation",
+        "C": "Vào menu View, chọn mức \"xuất sắc\"",
+        "D": "Vào menu Data, chọn Filter - Autofilter"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 43,
+      "question": "Trong Microsoft Excel 2010, sau khi thực hiện lệnh sắp xếp dữ liệu theo chiều tăng dần, thứ tự sắp xếp nào sau đây là đúng:",
+      "options": {
+        "A": "A010 - A100 - A011",
+        "B": "A010 - A011 - A100",
+        "C": "A100 - A010 - A011",
+        "D": "A011 - A010 - A100"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Trong Microsoft Excel 2010, cách nào sau không dùng để hiệu chỉnh nội dung của một ô:",
+      "options": {
+        "A": "Nhắp chọn một cell và nhấn phím F2",
+        "B": "Nhắp đúp chuột vào một cell",
+        "C": "Nhắp chọn một cell và nhấn phải chuột, từ menu xổ xuống chọn Edit",
+        "D": "Chọn một cell và nhắp chuột vào nội dung tại thanh Formula Bar"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Trong Microsoft Excel 2010, khi đang nhập liệu và muốn xuống một dòng ngay trong cùng một ô, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Enter",
+        "B": "Ctrl + Enter",
+        "C": "Shift + Enter",
+        "D": "Alt + Enter"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 46,
+      "question": "Trong Microsoft Excel 2010, để sửa dữ liệu trong một ô mà không cần nhập lại, người ta thực hiện:",
+      "options": {
+        "A": "Nháy chuột chọn ô tính cần sửa, rồi bấm phím F2",
+        "B": "Nháy chuột chọn ô tính cần sửa, rồi bấm phím F4",
+        "C": "Nháy chuột chọn ô tính cần sửa, rồi bấm phím F10",
+        "D": "Nháy chuột chọn ô tính cần sửa, rồi bấm phím F12"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Trong Microsoft Excel 2010, khi muốn sắp xếp danh sách dữ liệu theo thứ tự tăng (giảm), người ta thực hiện:",
+      "options": {
+        "A": "Vào Tools -> Sort",
+        "B": "Vào File -> Sort",
+        "C": "Vào Data -> Sort",
+        "D": "Vào Format -> Sort"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Trong Microsoft Excel 2010, để lọc dữ liệu tự động, sau khi chọn khối cần lọc, người ta thực hiện:",
+      "options": {
+        "A": "Vào Format -> Filter -> AutoFilter",
+        "B": "Vào Insert -> Filter -> AutoFilter",
+        "C": "Vào Data -> Filter -> AutoFilter",
+        "D": "Vào View -> Filter -> AutoFilter"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "Trong Microsoft Excel 2010, để xuống dòng trong một ô, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Alt + Enter",
+        "B": "Spacebar + Enter",
+        "C": "Shift + Enter",
+        "D": "Ctrl + Enter"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Trong Microsoft Excel 2010, muốn sắp xếp dữ liệu trên bảng tính, người ta chọn bảng dữ liệu rồi thực hiện:",
+      "options": {
+        "A": "Vào Data -> Sort",
+        "B": "Vào View -> Sort",
+        "C": "Vào Data -> Filter",
+        "D": "Vào View -> Filter"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Trong Microsoft Excel 2010, để tách dữ liệu trong một ô thành hai hoặc nhiều ô, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Text to Columns...",
+        "B": "Vào Home -> Text to Columns...",
+        "C": "Vào Fomulas -> Text to Columns...",
+        "D": "Vào Data -> Text to Columns..."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 52,
+      "question": "Trong Microsoft Excel 2010, sau khi nhập liệu và lựa chọn vùng dữ liệu, khi muốn điền tự động theo xu thế cấp số nhân, người ta thực hiện:",
+      "options": {
+        "A": "= vùng dữ liệu * cấp số nhân",
+        "B": "= giá trị trong vùng dữ liệu * cấp số nhân",
+        "C": "Nhấn và giữ chuột phải ở góc phải dưới vùng dữ liệu, kéo đến vị trí mong muốn rồi chọn Growth Trend",
+        "D": "Không thể điền tự động theo cấp số nhân"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Trong Microsoft Excel 2010, khi chọn trong mục Edit/Paste Special chỉ mục Comments, người ta thực hiện:",
+      "options": {
+        "A": "Chép định dạng",
+        "B": "Chép giá trị trong ô",
+        "C": "Chép bề rộng ô",
+        "D": "Chép ghi chú"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Trong Microsoft Excel 2010, để chèn thêm 1 Dòng (Row) trên dòng hiện tại, người ta thực hiện:",
+      "options": {
+        "A": "Vào Data -> Insert -> Insert Sheet Rows",
+        "B": "Vào View -> Insert -> Insert Sheet Rows",
+        "C": "Vào Home -> Insert -> Insert Sheet Row",
+        "D": "Vào Home -> Insert -> Insert Sheet Rows"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "Trong Microsoft Excel 2010, để chèn thêm 1 Cột (Column) trước cột hiện tại, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Insert -> Insert Sheet Columns",
+        "B": "Vào View -> Insert -> Insert Sheet Column",
+        "C": "Vào Insert -> Insert Sheet Columns",
+        "D": "Vào Data -> Insert -> Insert Sheet Columns"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Trong Microsoft Excel 2010, muốn xóa hẳn một hàng ra khỏi trang tính; sau khi đánh dấu khối chọn hàng này, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Delete",
+        "B": "Vào Data -> Delete",
+        "C": "Vào Table -> Delete",
+        "D": "Vào View -> Delete"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Trong Microsoft Excel 2010, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo; sau khi đánh dấu hàng hoặc cột, người ta thực hiện:",
+      "options": {
+        "A": "Vào Review -> Freeze Panes",
+        "B": "Vào View -> Freeze Panes",
+        "C": "Vào Page Layout -> Freeze Panes",
+        "D": "Vào Home -> Freeze Panes"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Trong Microsoft Excel 2010, sau khi đã bôi đen một hàng, để chèn thêm một hàng vào vị trí phía trên hàng đang chọn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert, chọn Rows",
+        "B": "Vào Insert, chọn Cells",
+        "C": "Vào Insert, chọn Columns",
+        "D": "Vào Insert, chọn Object"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Trong Microsoft Excel 2010, để chèn một cột chen giữa cột A và cột B thì người ta phải chọn ô hiện hành tại một trong các cột nào:",
+      "options": {
+        "A": "Cột A",
+        "B": "Cột B",
+        "C": "Cột C",
+        "D": "Cột D"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Trong Microsoft Excel 2010, muốn xóa hẳn một hàng ra khỏi trang tính, người ta đánh dấu khối chọn hàng này và thực hiện:",
+      "options": {
+        "A": "Vào Table -> Delete Rows",
+        "B": "Nhấn phím Delete",
+        "C": "Vào Edit ->Delete",
+        "D": "Vào Tools -> Delete"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Trong Microsoft Excel, 2010 để chèn thêm một cột vào trang tính, người ta thực hiện:",
+      "options": {
+        "A": "Vào Table -> Insert Columns",
+        "B": "Vào Format ->Cells -> Insert Columns",
+        "C": "Vào Table -> Insert Cells",
+        "D": "Vào Insert -> Columns"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Trong Microsoft Excel 2010, để chèn thêm cột, người ta thực hiện:",
+      "options": {
+        "A": "Vào Format->Columns",
+        "B": "Vào Insert-> Rows",
+        "C": "Vào Insert-> Columns",
+        "D": "Vào Insert-> Cells"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Trong Microsoft Excel 2010, để có thể di chuyển từ một trang tính (sheet) này sang trang tính khác, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Tab + Page Up ; Tab + Page Down",
+        "B": "Ctrl + Page Up ; Ctrl + Page Down",
+        "C": "Alt + Page Up ; Alt + Page Down",
+        "D": "Shift + Page Up ; Shift + Page Down"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Trong Microsoft Excel 2010, để đổi tên một trang tính (Sheet), người ta thực hiện:",
+      "options": {
+        "A": "Nhấn đôi chuột Trái tại Sheet đó rồi đổi tên Sheet.",
+        "B": "Nhấn chuột phải tại Sheet đó và chọn Insert.",
+        "C": "Nhấn chuột phải tại Sheet đó và chọn Delete.",
+        "D": "Không đổi được"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Trong Microsoft Excel 2010, để di chuyển trang tính (Sheet) A2 ra trước trang tính A1, người ta thực hiện:",
+      "options": {
+        "A": "Vào Format -> Sheet -> Move, chọn đúng đến vị trí mong muốn",
+        "B": "Chọn tab A2 và kéo đến vị trí mong muốn",
+        "C": "Double tab A2 và kéo đến vị trí mong muốn",
+        "D": "Vào Tools -> Sheet -> Move, và chọn đúng đến vị trí mong muốn"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "Trong Microsoft Excel 2010, tại ô D2 có công thức =B2*C2/100; người ta sao chép công thức đến ô G6 thì sẽ có công thức là:",
+      "options": {
+        "A": "E7*F7/100",
+        "B": "B6*C6/100",
+        "C": "E6*F6/100",
+        "D": "E2*C2/100"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Trong Microsoft Excel 2010, tại ô A1 lưu trị ngày 15/10/1970; kết quả hàm =MONTH(A1) là bao nhiêu:",
+      "options": {
+        "A": "0",
+        "B": "15",
+        "C": "1970",
+        "D": "10"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 68,
+      "question": "Trong Microsoft Excel 2010, để tự động tính tổng của hai ô A1 và C1, người ta thực hiện:",
+      "options": {
+        "A": "Ghi công thức: =A1+C1",
+        "B": "Ghi vào giá trị tổng hai ô đó",
+        "C": "Ghi công thức: =SUM(A1&C1)",
+        "D": "Ghi công thức: =SUM(A1+C1)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Trong Microsoft Excel 2010, người ta sử dụng hàm QUOTIENT() để thực hiện:",
+      "options": {
+        "A": "Cho ra số dư của phép chia",
+        "B": "Cho ra tích số của các số",
+        "C": "Cho ra số nguyên của phép chia",
+        "D": "Cho ra phần thập phân"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Trong Microsoft Excel 2010, để nhập vào công thức tính toán cho một ô, người ta gõ ký tự:",
+      "options": {
+        "A": "Dấu chấm hỏi (?)",
+        "B": "Dấu bằng (= )",
+        "C": "Dấu hai chấm (: )",
+        "D": "Dấu đô la ($)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị 0. Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả:",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "#VALUE!",
+        "D": "#DIV/0!"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 72,
+      "question": "Trong Microsoft Excel 2010, khi gõ công thức xong rồi nhấn Enter thì thấy hiện ra #N/A có nghĩa là:",
+      "options": {
+        "A": "Tham chiếu ô không hợp lệ",
+        "B": "Giá trị tham chiếu không tồn tại",
+        "C": "Không tham chiếu đến được",
+        "D": "Tập hợp rỗng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "Trong Microsoft Excel 2010, khi gõ công thức xong rồi nhấn Enter thì thấy máy hiện ra #REF! có nghĩa là:",
+      "options": {
+        "A": "Tham chiếu ô không hợp lệ",
+        "B": "Giá trị tham chiếu không tồn tại",
+        "C": "Không tham chiếu đến được",
+        "D": "Tập hợp rỗng"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Trong Microsoft Excel 2010, để lấy được chữ \"Học\" trong chuỗi \"Trung Tâm Tin Học\" người ta sử dụng công thức nào:",
+      "options": {
+        "A": "MID(\"Trung Tâm Tin Học\",16,4)",
+        "B": "MID(\"Trung Tâm Tin Học\",16,3)",
+        "C": "RIGHT(\"Trung Tâm Tin Học\",3)",
+        "D": "RIGHT(\"Trung Tâm Tin Học\",15)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Trong Microsoft Excel 2010, khi lập công thức muốn làm địa chỉ tuyệt đối người ta nhấn phím:",
+      "options": {
+        "A": "F4",
+        "B": "F2",
+        "C": "F3",
+        "D": "F1"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Trong Microsoft Excel 2010, để nhập vào công thức tính toán cho một ô, người ta gõ phím:",
+      "options": {
+        "A": "Dấu chấm hỏi (?)",
+        "B": "Dấu bằng (= )",
+        "C": "Dấu hai chấm (: )",
+        "D": "Dấu đô la ($)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Trong Microsoft Excel 2010, hàm nào được dùng để chuyển chữ thường thành chữ IN HOA:",
+      "options": {
+        "A": "UPPER",
+        "B": "LOWER",
+        "C": "LEN",
+        "D": "PROPER"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Trong Microsoft Excel 2010, hàm nào được dùng để biến đổi ký tự đầu của mỗi từ thành ký tự in hoa:",
+      "options": {
+        "A": "TRIM",
+        "B": "LOWER",
+        "C": "UPPER",
+        "D": "PROPER"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 79,
+      "question": "Trong Microsoft Excel 2010, một công thức luôn bắt đầu bằng ký tự nào:",
+      "options": {
+        "A": "?",
+        "B": "#",
+        "C": "$",
+        "D": "="
+      },
+      "answer": "D"
+    },
+    {
+      "id": 80,
+      "question": "Trong Microsoft Excel 2010, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh; khi cần so sánh sự khác nhau thì người ta sử dụng kí hiệu nào:",
+      "options": {
+        "A": "<>",
+        "B": "#",
+        "C": "&",
+        "D": "><"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Trong Microsoft Excel 2010, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi nào:",
+      "options": {
+        "A": "#NAME!",
+        "B": "#DIV/0!",
+        "C": "#VALUE!",
+        "D": "#N/A!"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi TINHOC. Tại ô B2 người ta gõ công thức =LEFT(A2,3) thì nhận được kết quả:",
+      "options": {
+        "A": "TIN",
+        "B": "HOC",
+        "C": "3",
+        "D": "Tinhoc"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi Tinhoc. Tại ô C2 người ta gõ vào công thức =A2 thì nhận được kết quả:",
+      "options": {
+        "A": "Value",
+        "B": "TINHOC",
+        "C": "TinHoc",
+        "D": "Tinhoc"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 84,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là ngày 30/04/2016. Tại ô B2 người ta gõ công thức =DAY(A2) thì nhận được kết quả:",
+      "options": {
+        "A": "2,016",
+        "B": "4",
+        "C": "30",
+        "D": "8"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là ngày 30/04/2016. Tại ô B2 người ta gõ công thức =DAY(A2)+MONTH(A2) thì nhận được kết quả:",
+      "options": {
+        "A": "34",
+        "B": "8",
+        "C": "30",
+        "D": "4"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Trong Microsoft Excel 2010, tại ô B2 có giá trị là ngày 15/07/2016, tại ô C2 người ta gõ công thức =DAY(B2)-MONTH(B2) thì nhận được kết quả:",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Trong Microsoft Excel 2010, để tính bình quân cho cột Tổng Lương từ E6 đến E12, người ta sử dụng công thức nào:",
+      "options": {
+        "A": "=SUM(E6:E12)",
+        "B": "=AVG(E6:E12)",
+        "C": "=AVERAGE(E6+E12)",
+        "D": "=AVERAGE(E6:E12)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 88,
+      "question": "Trong Microsoft Excel 2010, ô C2 trong bảng chứa giá trị 54, người ta gõ vào ô C4 công thức =mod(C2,7) thì nhận được kết quả:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "Trong Microsoft Excel 2010, hàm tìm vị thứ của một số trong dãy số (xếp thứ hạng) là hàm:",
+      "options": {
+        "A": "COUNT",
+        "B": "MIN",
+        "C": "MAX",
+        "D": "RANK"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 90,
+      "question": "Trong Microsoft Excel 2010, tại ô C2 trong bảng chứa giá trị 3.12456 người ta gõ vào ô C4 công thức =round(C2,2) thì nhận được kết quả:",
+      "options": {
+        "A": "3.12",
+        "B": "03.12",
+        "C": "3.12456",
+        "D": "3.00"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Trong Microsoft Excel 2010, để tính tổng các ô từ B1 đến B4 thì công thức nào là đúng:",
+      "options": {
+        "A": "=sun(B1-B4)",
+        "B": "=Sum(B1:B4)",
+        "C": "=Sum(B1->B4)",
+        "D": "Sum(B1:B4)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Trong Microsoft Excel 2010, người ta gõ công thức =LEN(\"Microsoft Excel\") thì nhận được kết quả:",
+      "options": {
+        "A": "15",
+        "B": "18",
+        "C": "22",
+        "D": "20"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Trong Microsoft Excel 2010, công thức nào là công thức đúng cú pháp:",
+      "options": {
+        "A": "=IF(AND(1>2,\"Đúng\"),1,0 )",
+        "B": "=IF(1>2 AND 3>4,1,0)",
+        "C": "=IF(OR(1>2,\"Đúng\"),1,0)",
+        "D": "=IF(OR(1>2,2<1),1,0)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 94,
+      "question": "Trong Microsoft Excel 2010, công thức nào là công thức sai cú pháp:",
+      "options": {
+        "A": "=IF(1>2;2,3)",
+        "B": "=MIN(1)",
+        "C": "=MAX(1+2,3)",
+        "D": "=SUM(A1:A10)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Trong Microsoft Excel 2010, người ta gõ công thức =Proper(\"Tin học\") thì nhận được kết quả:",
+      "options": {
+        "A": "Tin Học",
+        "B": "TIN Học",
+        "C": "tin học",
+        "D": "TIN học"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Trong Microsoft Excel 2010, người ta gõ công thức =Not(23+12=2015) thì nhận được kết quả:",
+      "options": {
+        "A": "TRUE",
+        "B": "#N/A",
+        "C": "#REF",
+        "D": "FALSE"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "Trong Microsoft Excel 2010, để tính giá trị bình quân từ ô E6 đến ô E12, người ta sử dụng công thức:",
+      "options": {
+        "A": "=SUM(E6:E12)",
+        "B": "=AVG(E6:E12)",
+        "C": "=AVERAGE(E6+E12)",
+        "D": "=AVERAGE(E6:E12)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 98,
+      "question": "Trong Microsoft Excel 2010, người ta sử dụng hàm nào để đổi tất cả các ký tự trong chuỗi sang chữ thường:",
+      "options": {
+        "A": "Upper",
+        "B": "Lower",
+        "C": "Length",
+        "D": "Text"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Trong Microsoft Excel 2010, công thức nào là công thức đúng cú pháp:",
+      "options": {
+        "A": "=SUM(A1);SUM(A7)",
+        "B": "=SUM(A1):SUM(A7)",
+        "C": "=SUM(A1-A7)",
+        "D": "=SUM(A1:A7)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 100,
+      "question": "Trong Microsoft Excel 2010, muốn tính trung bình của hàng hay cột, người ta sử dụng hàm nào:",
+      "options": {
+        "A": "Hàm SUM(TOTAL)/TOTAL()",
+        "B": "Hàm TOTAL(SUM)/SUM()",
+        "C": "Hàm Medium()",
+        "D": "Hàm Average()"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 101,
+      "question": "Trong bảng tính Microsoft Excel 2010, tại ô A2 có giá trị số 25; tại ô B2 người ta gõ vào công thức =SQRT(A2) thì nhận được kết quả:",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "#VALUE!",
+        "D": "#NAME!"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi TINHOC; tại ô B2 gõ công thức =RIGHT(A2,3) thì nhận được kết quả:",
+      "options": {
+        "A": "3",
+        "B": "HOC",
+        "C": "TIN",
+        "D": "Tinhoc"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Trong Microsoft Excel 2010, người ta gõ công thức RIGHT(MID(\"TRUNG TAM TIN HOC\",7,3),1) thì nhận được kết quả:",
+      "options": {
+        "A": "\"TAM\"",
+        "B": "M",
+        "C": "T",
+        "D": "R"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị chuỗi TINHOC; tại ô B2 người ta gõ vào công thức =VALUE(A2) thì nhận được kết quả:",
+      "options": {
+        "A": "#VALUE!",
+        "B": "Tinhoc",
+        "C": "TINHOC",
+        "D": "6"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 105,
+      "question": "Trong Microsoft Excel 2010, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi nào:",
+      "options": {
+        "A": "#NAME!",
+        "B": "#VALUE!",
+        "C": "#N/A!",
+        "D": "#DIV/0!"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là số 2008, tại ô B2 người ta gõ công thức =LEN(A2) thì nhận được kết quả:",
+      "options": {
+        "A": "#Value",
+        "B": "0",
+        "C": "4",
+        "D": "2008"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 107,
+      "question": "Trong Microsoft Excel, tại ô A2 có sẵn giá trị chuỗi 2008, Tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:",
+      "options": {
+        "A": "#NAME!",
+        "B": "#VALUE!",
+        "C": "Giá trị kiểu chuỗi 2008",
+        "D": "Giá trị kiểu số 2008"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 người ta gõ vào công thức =MAX(30,10,65,5) thì nhận được kết quả:",
+      "options": {
+        "A": "30",
+        "B": "5",
+        "C": "65",
+        "D": "110"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 109,
+      "question": "Trong Microsoft Excel 2010, người ta sử dụng hàm nào cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước:",
+      "options": {
+        "A": "SUM",
+        "B": "COUNTIF",
+        "C": "COUNT",
+        "D": "SUMIF"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 110,
+      "question": "Trong Microsoft Excel 2010, phát biểu nào sau đây là sai:",
+      "options": {
+        "A": "Khi tính toán giá trị một CELL (ô) với hàm hay với biểu thức ta phải bắt đầu bằng dấu \"=\".",
+        "B": "Tên hàm nhập bằng chữ thường hay chữ hoa đều có giá trị như nhau.",
+        "C": "Giữa tên hàm và các đối số có thể chứa ký tự blank (khoảng trắng).",
+        "D": "Các giá trị chuỗi ghi trực tiếp trong hàm phải được đặt trong cặp dấu nháy kép. Ví dụ: = LEFT (\"ABC\",1)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 111,
+      "question": "Trong Microsoft Excel 2010, tại ô C1 chứa giá trị chuỗi \"DS1\", để ô B1 có ký tự \"S\", người ta gõ công thức:",
+      "options": {
+        "A": "= LEFT(C1,1)",
+        "B": "= RIGHT(C1,2)",
+        "C": "= MID(C1,2,1)",
+        "D": "=MID(C1,2,1)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Trong Microsoft Excel 2010, để tính giá trị lớn nhất trong các ô thuộc khối ô C12:C15, người ta gõ công thức:",
+      "options": {
+        "A": "=Max C12:C15",
+        "B": "=Max(C12,C15)",
+        "C": "=Max(C12:C15)",
+        "D": "=Max(C12;C15)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 113,
+      "question": "Trong Microsoft Excel 2010, người ta sử dụng hàm nào cho phép tính tổng các giá trị:",
+      "options": {
+        "A": "SUMIF",
+        "B": "COUTIF",
+        "C": "COUNT",
+        "D": "SUM"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "Trong Microsoft Excel 2010, hàm RANK được sử dụng để:",
+      "options": {
+        "A": "Tính trung bình",
+        "B": "Sắp xếp",
+        "C": "Xếp hạng",
+        "D": "Tính tổng"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Trong Microsoft Excel 2010, hàm nào được sử dụng để thực hiện dò tìm theo dòng:",
+      "options": {
+        "A": "DATE",
+        "B": "HLOOKUP",
+        "C": "SEEK",
+        "D": "VLOOKUP"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 116,
+      "question": "Trong Microsoft Excel 2010, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi:",
+      "options": {
+        "A": "#NAME!",
+        "B": "#VALUE!",
+        "C": "#N/A!",
+        "D": "#DIV/0!"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 117,
+      "question": "Trong Microsoft Excel 2010, tại ô A2 có giá trị là số 2008, tại ô B2 người ta gõ công thức =LEN(A2 ) thì nhận được kết quả:",
+      "options": {
+        "A": "#NAME!",
+        "B": "#VALUE!",
+        "C": "0",
+        "D": "4"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 118,
+      "question": "Trong Microsoft Excel 2010, để dò tìm giá trị theo cột người ta sử dụng hàm nào:",
+      "options": {
+        "A": "Vlookup()",
+        "B": "Varpa()",
+        "C": "Hlookup()",
+        "D": "Harmean()"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 119,
+      "question": "Trong Microsoft Excel 2010, tại ô A1 có giá trị 7.325, tại ô B1 người ta gõ công thức =Round(A1,2) thì nhận được kết quả:",
+      "options": {
+        "A": "7.33",
+        "B": "7.00",
+        "C": "7.30",
+        "D": "7.31"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 120,
+      "question": "Trong Microsoft Excel 2010, dữ liệu các ô như sau: A1=5; A2= 4; A3=9; A4= 3; A5= 10; tại ô B1 người ta gõ =COUNTIF(A1:A5,\">=5\") thì nhận được kết quả:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "#VALUE!"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 121,
+      "question": "Trong Microsoft Excel 2010, để định dạng các dữ liệu dạng số tại cột thứ n là dạng tiền tệ, tại ô đó người ta thực hiện:",
+      "options": {
+        "A": "Nhấn chuột phải -> chọn Format Cells -> Number - > General",
+        "B": "Nhấn chuột phải -> chọn Format Cells -> Number - > Currency",
+        "C": "Nhấn chuột phải -> chọn Format Cells -> Number - > Fraction",
+        "D": "Nhấn chuột phải -> chọn Format Cells -> Number - > Accouting"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "Trong Microsoft Excel 2010, người ta gõ công thức =INT(2.45) thì nhận được kết quả:",
+      "options": {
+        "A": "2",
+        "B": "0.45",
+        "C": "3",
+        "D": "2.5"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 123,
+      "question": "Trong Microsoft Excel 2010, câu nào sau đây là đúng:",
+      "options": {
+        "A": "Khi nhập dữ liệu ngày tháng, bắt buộc phải nhập tháng trước",
+        "B": "Khi nhập dữ liệu ngày tháng, bắt buộc phải nhập ngày trước",
+        "C": "Khi nhập dữ liệu ngày tháng, bắt buộc phải nhập dữ liệu cho năm là 4 chữ số.",
+        "D": "Khi nhập dữ liệu ngày tháng, có thể nhập ngày trước hay tháng trước tùy theo định dạng hiển thị của dữ liệu."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 124,
+      "question": "Trong Microsoft Excel 2010, để tô màu nền cho một ô (cell), người ta chọn ô cần tô rồi thực hiện:",
+      "options": {
+        "A": "Nhấn vào biểu tượng Fill Color trên thanh công cụ Formatting",
+        "B": "Chọn menu Format -> Cells, chọn Font và chọn Color",
+        "C": "Nhấn vào biểu tượng Font Color trên thanh công cụ Formatting",
+        "D": "Nhấn vào biểu tượng Decrese font size trên thanh công cụ Formatting"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 125,
+      "question": "Trong Microsoft Excel 2010, để thay đổi cỡ chữ, dạng chữ, in đậm, in nghiêng, kiểu chữ... người ta thực hiện:",
+      "options": {
+        "A": "Vào thực đơn Tools - Options - Font.",
+        "B": "Vào thực đơn File -> Properties - Font.",
+        "C": "Vào thực đơn Format - Cells - Font.",
+        "D": "Vào thực đơn Insert - Font"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 126,
+      "question": "Trong Microsoft Excel 2010, khi muốn một ô có định dạng chữ nghiêng 45 độ, tại ô đó người ta thực hiện:",
+      "options": {
+        "A": "Nhấn chuột phải -> Format Cell -> Alignment -> Wrap text, chọn 45 độ",
+        "B": "Nhấn chuột phải -> Format Cell -> Alignment -> Orientation, chọn -45 độ",
+        "C": "Nhấn chuột phải -> Format Cell -> Alignment -> Orientation, chọn 45 độ",
+        "D": "Nhấn chuột phải -> Format Cell -> Tab Alignment -> Wrap text, chọn -45 độ"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "question": "Trong Microsoft Excel 2010, để canh lề trái của ô, người ta sử dụng tổ hợp phím nào:",
+      "options": {
+        "A": "Alt + H,AL",
+        "B": "Ctrl + H,AR",
+        "C": "Alt + H,AR",
+        "D": "Ctrl + AR"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Trong Microsoft Excel 2010, để tạo biểu đồ cho vùng giá trị được chọn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Tool -> Chart...",
+        "B": "Vào Insert -> Chart...",
+        "C": "Vào View -> Chart...",
+        "D": "Vào Format -> Chart..."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 129,
+      "question": "Trong Microsoft Excel 2010, để biểu diễn số liệu dạng phần trăm, người ta sử dụng biểu đồ kiểu nào dưới đây là hợp lý nhất:",
+      "options": {
+        "A": "Biểu đồ cột đứng (Column)",
+        "B": "Biểu đồ đường gấp khúc (Line)",
+        "C": "Biểu đồ phân tán XY (XY Scatter)",
+        "D": "Biểu đồ dạng quạt tròn (Pie)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Trong Microsoft Excel 2010, phát biểu nào sau đây về đối tượng Chart là đúng:",
+      "options": {
+        "A": "Trục X còn có tên gọi là trục \"Value\" (giá trị) và trục Y còn có tên gọi là trục \"Category\" (phân loại)",
+        "B": "Trục X còn có tên gọi là trục \"Category\" (phân loại) và trục Y còn có tên gọi là trục \"Value\" (giá trị)",
+        "C": "Trục X và Y đều có cùng tên gọi là trục Category",
+        "D": "Trục X và Y đều có tên gọi là trục Value"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 131,
+      "question": "Trong Microsoft Excel 2010, để in một trang tính (sheet) nằm ngang hoặc thẳng đứng, người ta thực hiện:",
+      "options": {
+        "A": "Vào Page Layout -> Margins",
+        "B": "Vào Page Layout -> Size",
+        "C": "Vào Page Layout -> Orientation",
+        "D": "Vào Page Layout -> Background"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Trong Microsoft Excel 2010, khi chuẩn bị in một trang tính (sheet) ra giấy, điều gì sau đây là đúng:",
+      "options": {
+        "A": "Microsoft Excel bắt buộc phải đánh số trang ở vị trí bên phải đầu mỗi trang",
+        "B": "Có thể khai báo đánh số trang in hoặc không",
+        "C": "Chỉ đánh số trang in nếu bảng tính gồm nhiều trang",
+        "D": "Vị trí cửa số trang luôn luôn ở góc dưới bên phải"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "Trong Microsoft Excel 2010, để in một trang tính (sheet) được chọn, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Print...",
+        "B": "Vào Home -> Print...",
+        "C": "Vào File -> Print...",
+        "D": "Vào Data -> Print"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 134,
+      "question": "Trong Microsoft Excel 2010, người ta gõ công thức =Sum(4,6,-2,9,s) thì nhận được kết quả:",
+      "options": {
+        "A": "5",
+        "B": "17",
+        "C": "#Name?",
+        "D": "#Value!"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 135,
+      "question": "Trong Microsoft Excel 2010, để lưu một trang tính (sheet) dưới dạng PDF, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Save as",
+        "B": "Vào File -> Save",
+        "C": "Vào File -> New",
+        "D": "Vào File -> Open"
+      },
+      "answer": "A"
+    }
+  ]
+}

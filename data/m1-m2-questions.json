@@ -1,0 +1,1404 @@
+{
+  "M1": [
+    {
+      "id": 1,
+      "question": "Trong hệ thống máy tính, đơn vị nào để đo thông tin:",
+      "options": {"A": "CM", "B": "Lít", "C": "MB", "D": "Kg"},
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Trong hệ điều hành Microsoft Windows 7/8, định dạng chuẩn của phân vùng đĩa cài hệ điều hành là gì:",
+      "options": {"A": "FAT", "B": "FAT32", "C": "FAT16", "D": "NTFS"},
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "Cổng nào sau đây là cổng kết nối giữa màn hình và máy tính:",
+      "options": {"A": "COM", "B": "Ethernet", "C": "Firewire", "D": "VGA"},
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Bộ nhớ đệm trong CPU gọi là gì:",
+      "options": {"A": "ROM", "B": "DRAM", "C": "Buffer", "D": "Cache"},
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "DVD Combo có chức năng nào sau đây:",
+      "options": {"A": "Đọc và ghi đĩa CD, DVD", "B": "Đọc đĩa CD, DVD", "C": "Đọc và ghi đĩa DVD", "D": "Đọc CD, DVD và ghi đĩa CD"},
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 2.0 là bao nhiêu:",
+      "options": {"A": "1,5 Mbps", "B": "12 Mbps", "C": "300 Mbps", "D": "480 Mbps"},
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "RAM là viết tắt của cụm từ nào:",
+      "options": {"A": "Read Access Memory", "B": "Recent Access Memory", "C": "Random Access Memory", "D": "Read and Modify"},
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 3.0 là bao nhiêu:",
+      "options": {"A": "1,5 Mbps", "B": "12 Gbps", "C": "300 Mbps", "D": "480 Gbps"},
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Trong hệ điều hành Microsoft Windows, máy tính đọc dữ liệu nhanh nhất từ đâu:",
+      "options": {"A": "Đĩa mềm", "B": "Đĩa cứng", "C": "Qua mạng internet", "D": "Đĩa CD-ROM"},
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Dữ liệu trong thiết bị nhớ nào sẽ mất khi mất điện:",
+      "options": {"A": "Đĩa cứng", "B": "Đĩa mềm", "C": "RAM", "D": "ROM"},
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Để máy tính có thể làm việc được, hệ điều hành cần nạp vào:",
+      "options": {"A": "RAM", "B": "Ổ đĩa cứng", "C": "Chỉ nạp vào RAM trong khi chạy chương trình ứng dụng", "D": "ROM"},
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Các hệ điều hành thông dụng hiện nay thường được lưu trữ ở đâu:",
+      "options": {"A": "Trong CPU", "B": "Trong RAM", "C": "Trên bộ nhớ ngoài", "D": "Trong ROM"},
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Trong máy tính, RAM có nghĩa là gì:",
+      "options": {"A": "Là bộ nhớ truy xuất ngẫu nhiên", "B": "Là bộ nhớ chỉ đọc", "C": "Là bộ xử lý thông tin", "D": "Cả ba câu đều sai"},
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Khi kết nối thành một mạng máy tính cục bộ và các thiết bị, thiết bị nào sau đây có thể được chia sẻ để sử dụng chung:",
+      "options": {"A": "Máy in", "B": "Micro", "C": "Webcam", "D": "Đĩa mềm"},
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Số lượng các số nhị phân có được từ 1 byte là:",
+      "options": {"A": "128", "B": "512", "C": "127", "D": "255"},
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Trong hệ thống máy tính, 1 KByte bằng bao nhiêu bit:",
+      "options": {"A": "1000 bits", "B": "8000 bits", "C": "8192 bits", "D": "9000 bits"},
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Trong máy tính, đơn vị tính dung lượng của đĩa sắp xếp tăng dần nào sau đây là đúng:",
+      "options": {"A": "B MB KB GB", "B": "B KB MB GB", "C": "MB KB B GB", "D": "GB MB KB B"},
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Trong máy tính, thiết bị nào sau đây dùng để xử lý dữ liệu và hệ điều hành trên máy tính:",
+      "options": {"A": "RAM", "B": "Đĩa cứng", "C": "ROM", "D": "CPU"},
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "Trong máy tính, thiết bị nào sau đây dùng để lưu trữ dữ liệu và hệ điều hành máy tính:",
+      "options": {"A": "RAM", "B": "ROM", "C": "CPU", "D": "Đĩa cứng"},
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "Trong máy tính, thiết bị nào dùng để lưu trữ tạm thời trong lúc làm việc:",
+      "options": {"A": "Máy in", "B": "Bộ nhớ RAM", "C": "Bộ nhớ ROM", "D": "CPU"},
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Hệ điều hành là gì:",
+      "options": {"A": "Là một phần mềm chạy trên máy tính, dùng để soạn thảo các loại văn bản", "B": "Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng", "C": "Là một phần mềm dùng để điều hành, quản lý các tài nguyên phần mềm trên máy tính", "D": "B và C đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "Hệ điều hành Microsoft Windows được phát hành trên toàn thế giới vào năm nào:",
+      "options": {"A": "2010", "B": "1997", "C": "2009", "D": "2011"},
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Phần mềm nào sau đây đọc được tập tin PDF:",
+      "options": {"A": "Foxit Reader", "B": "Microsoft Excel", "C": "Microsoft Powerpoint", "D": "Microsoft Word"},
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Lựa chọn nào sau đây là một phần mềm của Hệ điều hành Microsoft Windows:",
+      "options": {"A": "EXCEL", "B": "CMOS", "C": "BIOS", "D": "RAM"},
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Con người và máy tính giao tiếp thông qua:",
+      "options": {"A": "Bàn phím và màn hình.", "B": "Hệ điều hành", "C": "RAM", "D": "Bàn phím và mouse (chuột)"},
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Trong các phần mềm sau, phần mềm nào là phần mềm ứng dụng:",
+      "options": {"A": "Windows XP", "B": "Linux", "C": "Microsoft Word", "D": "Unix"},
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Chương trình Winrar trong máy tính dùng để làm gì:",
+      "options": {"A": "Nén – làm giảm dung lượng tập tin, tăng dung lượng bộ nhớ chưa sử dụng", "B": "Giải nén – đưa tập tin nén trở về dung lượng ban đầu", "C": "Mở rộng dung lượng bộ nhớ đã sử dụng", "D": "A và B là đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "Trong Hệ điều hành Microsoft Windows, chương trình Paint để làm gì:",
+      "options": {"A": "Soạn thảo văn bản", "B": "Nghe nhạc, xem phim", "C": "Trình bày bảng tính và tính toán", "D": "Vẽ các hình ảnh đơn giản."},
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Trong Hệ điều hành Microsoft Windows, chương trình nào dùng để nén và giải nén tập tin:",
+      "options": {"A": "WinRar", "B": "Winzip", "C": "Unikey", "D": "A và B đều đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "Chương trình Winrar trong Microsoft Windows dùng để:",
+      "options": {"A": "Tìm kiếm file, folder", "B": "Nén và giải nén", "C": "Dùng để vẽ", "D": "Dùng để soạn thảo văn bản"},
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Trong hệ điều hành Microsoft Windows, phiên bản 32bit nhận và quản lý được bộ nhớ RAM tối đa là bao nhiêu:",
+      "options": {"A": "4GB", "B": "2GB", "C": "3,2GB", "D": "Bao nhiêu cũng được"},
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Bộ vi xử lý Intel có ký hiệu là Core I5-6400T là có ý nghĩa gì:",
+      "options": {"A": "Bộ vi xử lý thế hệ thứ 3 của Intel", "B": "Bộ vi xử lý thế hệ thứ 4 của Intel", "C": "Bộ vi xử lý thế hệ thứ 5 của Intel", "D": "Bộ vi xử lý thế hệ thứ 6 của Intel"},
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "Chữ U trong ký hiệu bộ vi xử lý Intel Core I7-4550U có ý nghĩa gì:",
+      "options": {"A": "Tính năng đồ họa cao", "B": "Tính năng siêu di động", "C": "Tiêu thụ điện năng thấp", "D": "Tối ưu cho công suất"},
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Con số nào là tốc độ vòng quay của đĩa cứng:",
+      "options": {"A": "8200", "B": "7200", "C": "6200", "D": "5200"},
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Hệ điều hành Windows 7 không có chức năng nào sau đây:",
+      "options": {"A": "Điều khiển phần cứng", "B": "Quản lý nhân sự công ty", "C": "Quản lý chương trình", "D": "Quản lý tệp tin"},
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Card đồ họa Onboard sử dụng loại bộ nhớ nào:",
+      "options": {"A": "Bộ nhớ riêng của card đồ họa", "B": "Bộ nhớ dùng chung với bộ nhớ máy tính", "C": "Không có bộ nhớ", "D": "Bộ nhớ trên đĩa cứng"},
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Người ta dùng phần mềm nào để xem có bao nhiêu ứng dụng đang chạy trên máy cài đặt Hệ điều hành Microsoft Windows:",
+      "options": {"A": "Windows Manager", "B": "Task Manager", "C": "Hadisk Manager", "D": "Download Manager"},
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Trong phần mềm Task Manager, thông số nào không phải là thông số hoạt động của một tiến trình:",
+      "options": {"A": "Khối lượng bộ nhớ", "B": "Phần trăm CPU", "C": "Phần trăm mạng", "D": "Phần trăm card đồ họa"},
+      "answer": "D"
+    },
+    {
+      "id": 39,
+      "question": "Giao thức nào được sử dụng cho trình duyệt web:",
+      "options": {"A": "ipx", "B": "ftp", "C": "www", "D": "http"},
+      "answer": "D"
+    },
+    {
+      "id": 40,
+      "question": "Tốc độ truy cập mạng được xác định theo đơn vị nào:",
+      "options": {"A": "MHz", "B": "RAM", "C": "Kbps", "D": "GB"},
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "Trong mạng máy tính, thuật ngữ Share có nghĩa là gì:",
+      "options": {"A": "Chia sẻ tài nguyên", "B": "Nhãn hiệu của một thiết bị kết nối mạng", "C": "Thực hiện lệnh in trong mạng nội bộ", "D": "Một phần mềm hỗ trợ sử dụng mạng cục bộ"},
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Phát biểu nào sau đây là không đúng?",
+      "options": {"A": "Tệp (File) là đơn vị lưu trữ thông tin", "B": "Thư mục (folder) chứa các tệp (file) và thư mục con", "C": "Hệ điều hành quản lí tệp và thư mục", "D": "Tệp là thành phần của thiết bị ngoại vi"},
+      "answer": "D"
+    },
+    {
+      "id": 43,
+      "question": "Phát biểu nào sau đây là đúng nhất:",
+      "options": {"A": "Mạng LAN có tốc độ truyền dữ liệu cao", "B": "Mạng LAN có phạm vi địa lý giới hạn, thường được cài đặt trong một văn phòng.", "C": "Mạng LAN là mạng diện rộng", "D": "A và B là đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 44,
+      "question": "Trong kết nối mạng máy tính cục bộ, cấu trúc mạng được chia thành các loại nào:",
+      "options": {"A": "Cấu trúc liên kết hình sao", "B": "Cấu trúc liên kết dạng tuyến", "C": "Cấu trúc liên kết dạng hình sao, dạng hình tuyến, dạng hình vòng", "D": "Hình mạng nhện"},
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Trong mạng máy tính, thuật ngữ WAN có nghĩa là gì:",
+      "options": {"A": "Mạng cục bộ", "B": "Mạng diện rộng", "C": "Mạng toàn cầu", "D": "Mạng doanh nghiệp"},
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Hãy chỉ ra tên của một thiết bị mạng:",
+      "options": {"A": "USB", "B": "UPS", "C": "SWITCH", "D": "WEBCAM"},
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Đăng một tập tin (file) ảnh lên trên mạng xã hội (như facebook) có nghĩa là gì:",
+      "options": {"A": "Download", "B": "Delete", "C": "Upload", "D": "Rename"},
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Từ nào sau đây là phương thức kết nối Internet:",
+      "options": {"A": "ADSL", "B": "FTTH", "C": "WIFI", "D": "DIAL UP"},
+      "answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "Các thiết bị thường dùng để kết nối mạng trên Internet:",
+      "options": {"A": "Router", "B": "Cáp", "C": "HUB", "D": "Card mạng"},
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Một mạng máy tính cần có:",
+      "options": {"A": "Máy chủ - Máy trạm – Hệ điều hành mạng và các dây nối", "B": "Các máy tính và các dây nối", "C": "Hệ điều hành mạng – Thiết bị mạng", "D": "Máy tính – Hệ điều hành mạng – Thiết bị mạng"},
+      "answer": "D"
+    },
+    {
+      "id": 51,
+      "question": "Internet có nghĩa là gì:",
+      "options": {"A": "Hệ thống máy tính", "B": "Hệ thống mạng máy tính", "C": "Hệ thống mạng máy tính trong một nước", "D": "Hệ thống mạng máy tính toàn cầu"},
+      "answer": "D"
+    },
+    {
+      "id": 52,
+      "question": "Ứng dụng nào dùng để duyệt Web:",
+      "options": {"A": "Internet Explorer", "B": "Safari, RockMelt, CocCoc", "C": "Microsoft Word", "D": "A và B là đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 53,
+      "question": "Phương thức nào sau đây liên quan đến khái niệm trực tuyến:",
+      "options": {"A": "e-learning", "B": "e-town", "C": "Đào tạo từ xa, Hội nghị trực tuyến", "D": "A và C là đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 54,
+      "question": "Dịch vụ nào sau đây sau đây không phải là dịch vụ Internet cho người dùng:",
+      "options": {"A": "e-banking", "B": "e-government", "C": "e-town", "D": "e-commerce"},
+      "answer": "C"
+    },
+    {
+      "id": 55,
+      "question": "Ứng dụng bán hàng trực tuyến (online shop) là thuộc loại dịch vụ Internet nào:",
+      "options": {"A": "e-banking", "B": "e-government", "C": "e-learning", "D": "e-commerce"},
+      "answer": "D"
+    },
+    {
+      "id": 56,
+      "question": "Câu nào sau đây không phải là ưu điểm của học trực tuyến (e-learning):",
+      "options": {"A": "Người học có thể ngồi ở nhà", "B": "Người học có thể học trong khi đi công tác", "C": "Người học không cần kết nối internet", "D": "Người học không cần phải đến lớp"},
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Khi các bác sĩ muốn hội chẩn cho một người bệnh ở xa thì họ cần sử dụng dịch vụ nào:",
+      "options": {"A": "Học trực tuyến", "B": "Đào tạo trực tuyến", "C": "Đào tạo từ xa", "D": "Hội nghị trực tuyến"},
+      "answer": "D"
+    },
+    {
+      "id": 58,
+      "question": "Để thanh toán tiền qua mạng, người dùng sẽ sử dụng dịch vụ Internet nào:",
+      "options": {"A": "e-banking", "B": "e-government", "C": "e-learning", "D": "teleconference"},
+      "answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Thiết bị nào không cần thiết trong hội nghị trực tuyến:",
+      "options": {"A": "Loa", "B": "Micro", "C": "Máy quay video", "D": "Lò vi sóng"},
+      "answer": "D"
+    },
+    {
+      "id": 60,
+      "question": "Trang nào sau đây là trang tin điện tử:",
+      "options": {"A": "Tờ báo Tuổi trẻ", "B": "Báo điện tử, Trang tin điện tử cá nhân", "C": "Trang tin điện tử nội bộ", "D": "B và C đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 61,
+      "question": "Khi một người cần gửi thư điện tử cho một người, người ta thì cần thông tin gì:",
+      "options": {"A": "Địa chỉ nhà", "B": "Số điện thoại", "C": "Địa chỉ Email", "D": "Địa chỉ Website"},
+      "answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Trong một địa chỉ Email, kí tự nào là kí tự phải có:",
+      "options": {"A": "=", "B": ":", "C": "!", "D": "@"},
+      "answer": "D"
+    },
+    {
+      "id": 63,
+      "question": "Những ứng dụng nào là ứng dụng có thể nói chuyện qua phương thức Internet (VoIP - Voice over IP)",
+      "options": {"A": "www", "B": "Email", "C": "e-banking", "D": "Skype"},
+      "answer": "D"
+    },
+    {
+      "id": 64,
+      "question": "Dịch vụ tin nhắn SMS là viết tắt của từ nào:",
+      "options": {"A": "sort message services", "B": "sort messenger share", "C": "sort messenger shop", "D": "sort messenger site"},
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Dịch vụ IM là viết tắt của từ gì:",
+      "options": {"A": "Instagram Inten messenger", "B": "Informasion Inten messenger", "C": "Illustration messenger", "D": "Instant messaging"},
+      "answer": "D"
+    },
+    {
+      "id": 66,
+      "question": "Những mạng nào sau đây không phải là mạng xã hội:",
+      "options": {"A": "facebook", "B": "zingme", "C": "Intranet", "D": "Twitter"},
+      "answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Những trang nào sau đây không phải là trang báo điện tử:",
+      "options": {"A": "www.vietnamnet.vn", "B": "www.vnexpres.net", "C": "www.tuoitre.vn", "D": "www.google.com"},
+      "answer": "D"
+    },
+    {
+      "id": 68,
+      "question": "Điều nào không đúng khi nói về điều kiện làm việc của nghề Tin học văn phòng:",
+      "options": {"A": "Làm việc trong nhà", "B": "Ảnh hưởng thị lực", "C": "Ảnh hưởng cột sống", "D": "Tiếp xúc với độc hại"},
+      "answer": "D"
+    },
+    {
+      "id": 69,
+      "question": "Bệnh nào là bệnh liên quan đến việc sử dụng máy tính nhiều:",
+      "options": {"A": "Bệnh ho gà", "B": "Bệnh đau cột sống", "C": "Cận thị", "D": "Bệnh đau bao tử"},
+      "answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Chọn mức độ ánh sáng ở màn hình máy tính và môi trường xung quanh cân bằng là giúp cho điều gì:",
+      "options": {"A": "Đỡ buồn ngủ", "B": "Đỡ mỏi mắt", "C": "Đỡ đau lưng", "D": "Đỡ khát nước"},
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "question": "Điều gì sau đây không phải là lợi ích của tái chế hộp mực in:",
+      "options": {"A": "Tiết kiệm tiền", "B": "Bảo vệ môi trường", "C": "Giảm rác thải", "D": "Tiết kiệm nước"},
+      "answer": "D"
+    },
+    {
+      "id": 72,
+      "question": "Điều gì sau đây không phải là nguy cơ ô nhiễm môi trường của Pin máy tính phế thải:",
+      "options": {"A": "Ô nhiễm chì", "B": "Ô nhiễm thủy ngân", "C": "Ô nhiễm kẽm", "D": "Ô nhiễm phóng xạ"},
+      "answer": "D"
+    },
+    {
+      "id": 73,
+      "question": "Khi lựa chọn máy tính ở chế độ tự động tắt màn hình sau 20 giây Màn hình máy tính tự động tắt khi:",
+      "options": {"A": "Không đụng tới máy tính trong 20 giây", "B": "Không sử dụng máy in trong 20 giây", "C": "Không sử dụng Internet trong 20 giây", "D": "Xuất ra máy in sau 20 giây"},
+      "answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "Với thiết lập nào của Control panel để giúp cài đặt chế độ tiết kiệm năng lượng:",
+      "options": {"A": "Display", "B": "System and Security", "C": "Devices and Printers", "D": "Power options"},
+      "answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "Lựa chọn nào sau đây tiết kiệm năng lượng cho máy tính:",
+      "options": {"A": "Không chạy các ứng dụng đồ họa trên máy tính.", "B": "Đặt máy tính ở chế độ ngủ", "C": "Tự động tắt màn hình, tự động tắt máy", "D": "B và C đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 76,
+      "question": "Khi giao dịch trực tuyến nên làm gì để bảo vệ an toàn thông tin:",
+      "options": {"A": "Cảnh giác với thư giả mạo", "B": "Cảnh giác với người lạ, cảnh giác khi thao tác trên máy tính của người lạ", "C": "Không sử dụng USB", "D": "A và B là đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 77,
+      "question": "Khi truy cập vào một ứng dụng mạng hay internet điều gì sau đây là không thể được:",
+      "options": {"A": "Hai Username có cùng một Password", "B": "Một Username có hai Password", "C": "Một Username có một Password", "D": "Một Username không có Password"},
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Mật khẩu nào sau đây không phải là mật khẩu tốt:",
+      "options": {"A": "a921680b", "B": "123c2518", "C": "12345678", "D": "abc123DE"},
+      "answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Tại sao việc thay đổi mật khẩu thường xuyên có ích trong việc đảm bảo an toàn thông tin:",
+      "options": {"A": "Để dễ nhớ", "B": "Để khó bị phát hiện", "C": "Để hệ thống hoạt động nhanh", "D": "Để dễ bị phát hiện"},
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Trong giao dịch trực tuyến nếu để lộ hồ sơ cá nhân, người ta có thể bị gì:",
+      "options": {"A": "Bị ốm", "B": "Bị mất tiền", "C": "Bị mất máy tính", "D": "Bị hư máy tính"},
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "question": "Để giúp cho bảo vệ dữ liệu với trường hợp ổ đĩa cứng trong máy tính bị hỏng, người ta nên làm điều gì:",
+      "options": {"A": "Thường xuyên sao lưu dữ liệu", "B": "Thường xuyên thay đổi mật khẩu máy tính", "C": "Thường xuyên cảnh giác thư giả mạo", "D": "Thường xuyên tắt máy tính khi rời nơi làm việc"},
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Việc sử dụng tường lửa (firewall) giúp mạng máy tính của doanh nghiệp điều gì:",
+      "options": {"A": "Ngăn chặn việc mất điện", "B": "Ngăn chặn việc mất thời gian", "C": "Ngăn chặn việc tấn công mạng", "D": "Chống trộm cắp máy tính"},
+      "answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "Virus có thể lây lan qua:",
+      "options": {"A": "Đường dây điện", "B": "Môi trường mạng", "C": "Ổ cứng di động và USB", "D": "B và C đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 84,
+      "question": "Điều gì mà tất cả các Virus đều có thể thực hiện:",
+      "options": {"A": "Lây nhiễm vào BOOT RECORD", "B": "Phá huỷ CMOS", "C": "Xóa các tập tin chương trình trên đĩa cứng", "D": "Tự nhân bản"},
+      "answer": "D"
+    },
+    {
+      "id": 85,
+      "question": "Nút Reset có công dụng gì:",
+      "options": {"A": "Khởi động máy tính:", "B": "Khởi động lại máy tính", "C": "Nạp lại hệ điều hành vào máy tính", "D": "Tắt máy tính"},
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "Virus tin học là gì:",
+      "options": {"A": "Là loại Virus tự phát sinh, phá hoại phần cứng của máy tính.", "B": "Là một chương trình máy tính do con người tạo ra, có khả năng phá hoại đối với các sản phẩm tin học.", "C": "Là một chương trình máy tính do con người tạo ra, có khả năng tự nhân bản", "D": "B và C đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 87,
+      "question": "Macro Virus là gì:",
+      "options": {"A": "Là loại Virus chủ yếu lây lan vào mẫu tin khởi động (Boot record)", "B": "Là một loại Virus chủ yếu lây lan vào tập tin âm thanh", "C": "Là loại Virus chủ yếu lây lan vào các tập tin của Microsoft Word và Microsoft Excel", "D": "Là loại Virus chủ yếu lây lan vào các tập tin hình ảnh"},
+      "answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "Theo anh/chị, điều gì mà tất cả các virus đều có thể thực hiện:",
+      "options": {"A": "Lây nhiễm vào boot record", "B": "Tự nhân bản", "C": "Xóa các tệp chương trình trên đĩa cứng", "D": "Phá hủy CMOS"},
+      "answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Cách nhận diện một phần mềm có bản quyền:",
+      "options": {"A": "Chỉ cần sản phẩm có số serial", "B": "Mã ID sản phẩm, đăng ký sản phẩm", "C": "Giấy phép sử dụng phần mềm", "D": "B và C đúng"},
+      "answer": "D"
+    },
+    {
+      "id": 90,
+      "question": "Thuật ngữ bản quyền/quyền tác giả trong tiếng anh là gì:",
+      "options": {"A": "copyright", "B": "copyword", "C": "winword", "D": "firewall"},
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Luật sở hữu trí tuệ tại Việt Nam có hiệu lực từ năm nào:",
+      "options": {"A": "2000", "B": "2004", "C": "2006", "D": "2008"},
+      "answer": "C"
+    },
+    {
+      "id": 92,
+      "question": "Điều gì sau đây đối với một phần mềm mã nguồn mở là sai:",
+      "options": {"A": "Mọi người không thể copy mã nguồn", "B": "Mọi người đều có thể copy được mã nguồn", "C": "Mọi người có thể phân phối lại phần mềm", "D": "Mọi người đều có thể cải tiến phần mềm"},
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Điều gì sau đây đối với phần mềm shareware là đúng:",
+      "options": {"A": "Người dùng phải trả tiền sau một thời gian", "B": "Người dùng không phải trả tiền khi sử dụng", "C": "Đây là phần mềm không có bản quyền", "D": "Đây là phần mềm mã nguồn mở"},
+      "answer": "A"
+    },
+    {
+      "id": 94,
+      "question": "Điều gì sau đây là sai đối với phần mềm freeware:",
+      "options": {"A": "Người dùng không phải trả tiền khi sử dụng", "B": "Người dùng không bị hạn chế thời gian sử dụng", "C": "Phần mềm không có bản quyền", "D": "Phần mềm có bản quyền"},
+      "answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Thuật ngữ Cơ sở dữ liệu trong tiếng anh là gì:",
+      "options": {"A": "Database", "B": "Datawork", "C": "Datatable", "D": "Datalist"},
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Luật an toàn thông tin mạng của Việt Nam có hiệu lực từ năm nào:",
+      "options": {"A": "2014", "B": "2015", "C": "2016", "D": "2017"},
+      "answer": "C"
+    },
+    {
+      "id": 97,
+      "question": "Trong luật An toàn an ninh thông tin mạng của Việt Nam có bao nhiêu cấp độ an toàn hệ thống thông tin:",
+      "options": {"A": "4", "B": "5", "C": "6", "D": "7"},
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Trong luật An toàn an ninh thông tin mạng những hành vi nào là không bị nghiêm cấm:",
+      "options": {"A": "Phát tán thư rác, phần mềm độc hại", "B": "Ngăn chặn truyền tải thông tin trên mạng", "C": "Tấn công chiếm quyền điều khiển và phá hoại hệ thống thông tin", "D": "Đăng ảnh lên trang tin cá nhân trên mạng xã hội"},
+      "answer": "D"
+    },
+    {
+      "id": 99,
+      "question": "Các đơn vị đo lường khả năng lưu trữ thông tin là:",
+      "options": {"A": "Byte, Kbyte, MB, GB", "B": "Bit, Byte, KG, MB, GB", "C": "Boolean, Byte, MB", "D": "Đĩa cứng, ổ nhớ"},
+      "answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Máy vi tính là gì:",
+      "options": {"A": "Những thiết bị dùng để truyền tin", "B": "Là hệ thống thiết bị dùng để tính toán, kiểm soát các hoạt động một cách tự động mà có thể biểu diễn dưới dạng số hay quy luật lôgic", "C": "Là phương tiện lưu trữ thông tin", "D": "Là thiết bị nghe nhìn"},
+      "answer": "B"
+    },
+    {
+      "id": 101,
+      "question": "Số 10B thuộc hệ đếm",
+      "options": {"A": "Nhị phân", "B": "Thập lục phân", "C": "Bát phân", "D": "Thập bát phân"},
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Hệ đếm cơ số b dùng:",
+      "options": {"A": "b chữ số", "B": "b+1 chữ số", "C": "b-1 chữ số", "D": "Dùng các ký tự số từ 0 đến 9"},
+      "answer": "A"
+    },
+    {
+      "id": 103,
+      "question": "Giá trị 121 ở hệ thập phân khi chuyển sang hệ nhị phân sẽ là:",
+      "options": {"A": "121", "B": "111010", "C": "1111001", "D": "1000011"},
+      "answer": "C"
+    },
+    {
+      "id": 104,
+      "question": "Một dạng thông tin có thể có 14 trạng thái. Để tổ chức lưu trữ cho dạng thông tin này ta cần:",
+      "options": {"A": "3 bit.", "B": "4 bit.", "C": "5 bit.", "D": "6 bit."},
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Phát biểu nào sau đây là sai:",
+      "options": {"A": "Hệ nhị phân có 2 chữ số cơ bản là 0 và 1", "B": "Hệ thập lục phân có 16 chữ số cơ bản là: 0,1,2,3,4,5,6,7,8,9 A,B,C,D,E,F.", "C": "Hệ thập phân có 10 chữ số cơ bản là: 0,1,2,3,4,5,6,7,8,9,10.", "D": "Hệ bát phân gồm có 0,1,2,3,4,5,6,7."},
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "Máy tính để bàn và máy tính xách tay(laptop) khác nhau cơ bản về:",
+      "options": {"A": "Tính năng sử dụng", "B": "Tốc độ xử lý", "C": "Công nghệ sử dụng", "D": "Giá cả"},
+      "answer": "C"
+    },
+    {
+      "id": 107,
+      "question": "Thành phần nào sau đây không thuộc bộ xử lý trung tâm của máy tính (CPU)",
+      "options": {"A": "Khối tính toán số học/logic (ALU- Arthmatic and Logic Unit).", "B": "Khối điều khiển (CU - Control Unit).", "C": "Bộ nhớ trong.", "D": "Thanh ghi."},
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "Thiết bị nào trong các thiết bị sau là thiết bị đầu ra:",
+      "options": {"A": "Bàn phím", "B": "Con chuột", "C": "Máy in", "D": "Máy Scan"},
+      "answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Các phần mềm: MS.Word, MS.Excel, MS.Access, MS.Powerponit, MS.Internet Explorer thuộc nhóm phần mềm:",
+      "options": {"A": "Phần mềm hệ điều hành", "B": "Phần mềm hệ thống", "C": "Phần mềm cơ sở dữ liệu", "D": "Phần mềm ứng dụng"},
+      "answer": "D"
+    },
+    {
+      "id": 110,
+      "question": "Đơn vị lưu trữ thông tin là:",
+      "options": {"A": "Byte.", "B": "Bit.", "C": "Hz.", "D": "Ký tự."},
+      "answer": "B"
+    },
+    {
+      "id": 111,
+      "question": "Để ghi được đĩa CD máy tính cần:",
+      "options": {"A": "Có ổ đọc đĩa CD", "B": "Không cần có ổ đĩa đọc/ghi CD", "C": "Cần kết nối Internet.", "D": "Có cần có ổ đĩa đọc/ghi CD"},
+      "answer": "D"
+    },
+    {
+      "id": 112,
+      "question": "Thao tác thoát khỏi máy tính nào sau đây là đúng:",
+      "options": {"A": "Nhấn vào nút nguồn", "B": "Vào Start, chọn Shutdown", "C": "Tắt tất cả các ứng dụng, vào Start, chọn Shutdown", "D": "Tắt tất cả các ứng dụng, nhấn vào nút nguồn"},
+      "answer": "C"
+    }
+  ],
+  "M2": [
+    {
+      "id": 1,
+      "question": "Trong hệ điều hành Microsoft Windows, Driver có nghĩa là gì:",
+      "options": {"A": "Chương trình dạy lái xe ô tô", "B": "Chương trình hướng dẫn sử dụng Windows", "C": "Chương trình giúp chạy các phần mềm trên Windows", "D": "Chương trình giúp Windows điều khiển các thiết bị ngoại vi"},
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "Trong hệ điều hành Microsoft Windows, thuộc tính chỉ đọc của tệp có ý nghĩa gì:",
+      "options": {"A": "Cho phép xóa nội dung tệp", "B": "Cho phép sửa nội dung tệp", "C": "Chỉ được xem nội dung tệp", "D": "Cho phép xem, sửa, xóa nội dung tệp"},
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Trong hệ điều hành Microsoft Windows, để kiểm tra các thiết bị đã cài Driver hay chưa, người ta sử dụng công cụ:",
+      "options": {"A": "Registry Editor", "B": "Device Manager", "C": "System Information", "D": "My Computer"},
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Trong hệ điều hành Microsoft Windows, người ta có thể format ổ đĩa chứa hệ điều hành không:",
+      "options": {"A": "Có thể, đơn giản là các tập tin sẽ bị xóa đi", "B": "Không thể nếu đang sử dụng hệ điều hành được đặt trên ổ đĩa đó", "C": "Có thể nhưng sau đó sẽ mất hệ điều hành", "D": "Không thể vì bất kì ổ đĩa nào cũng không format được"},
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Trong hệ điều hành Microsoft Windows, người ta có thể chạy cùng lúc:",
+      "options": {"A": "Chỉ 1 ứng dụng", "B": "Hai ứng dụng khác nhau", "C": "Tối đa 15 ứng dụng", "D": "Nhiều ứng dụng khác nhau"},
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "Trong hệ điều hành Microsoft Windows, ký tự phân cách số thập phân là:",
+      "options": {"A": "Dấu chấm \".\"", "B": "Dấu phẩy \",\"", "C": "Dấu chấm phẩy \";\"", "D": "Tuỳ thuộc vào ký tự do người dùng quy định trong Control Panel"},
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Trong hệ điều hành Microsoft Windows, để thiết đặt lại hệ thống, người ta chọn chức năng:",
+      "options": {"A": "Control Windows", "B": "Control Panel", "C": "Control System", "D": "Control Desktop"},
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Trong hệ điều hành Microsoft Windows, thuật ngữ Shortcut có ý nghĩa gì:",
+      "options": {"A": "Tạo đường tắt để truy cập nhanh", "B": "Xóa một đối tượng được chọn tại màn hình nền", "C": "Đóng các cửa sổ đang mở", "D": "Mở các cửa sổ đang đóng"},
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Trong hệ điều hành Microsoft Windows, mặc định để thêm người dùng mới, người ta thực hiện:",
+      "options": {"A": "Vào Control Panel->User Accounts and Family Safety->User Accounts->Manage another Accounts rồi chọn Create a new acount", "B": "Vào Control Panel->User Accounts->Manage another Accounts rồi chọn Add a New User", "C": "Vào Control Panel->Manage another Accounts rồi chọn Add a New User", "D": "Vào Control Panel->User Accounts->rồi chọn Add a New User"},
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn cài đặt máy in, người ta thực hiện:",
+      "options": {"A": "File -> Printer and Faxes, rồi chọn mục Add a printer", "B": "Window -> Printer and Faxes, rồi chọn mục Add a printer", "C": "Start -> Printer and Faxes, rồi chọn mục Add a printer", "D": "Tools -> Printer and Faxes, rồi chọn mục Add a printer"},
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Trong hệ điều hành Microsoft Windows, người ta sử dụng tổ hợp phím nào để kích hoạt menu Start:",
+      "options": {"A": "Ctrl + X", "B": "Ctrl + Esc", "C": "Alt + F4", "D": "Ctrl + Z"},
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Trong hệ điều hành Microsoft Windows, để kiểm tra dung lượng ổ đĩa người ta thực hiện thao tác gì:",
+      "options": {"A": "Trong hệ điều hành Microsoft Windows không thể kiểm tra được", "B": "Nhấp đúp vào icon Computer - Nhấp phím phải chuột vào tên ổ đĩa cần kiểm tra - Chọn Properties", "C": "Nhấp đúp vào icon của phần mềm Microsoft Word", "D": "Nhấp đúp vào icon của phần mềm Microsoft Excel"},
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Trong hệ điều hành Microsoft Windows, để mở Windows Explorer, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Ctrl + E", "B": "Windows + E", "C": "Alt + E", "D": "Shift + E"},
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Trong hệ điều hành Microsoft Windows, để chuyển đổi giữa các cửa sổ ứng dụng với nhau, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Ctrl + Tab", "B": "Alt + Tab", "C": "Windows + Tab", "D": "Windows + Tab hoặc Alt + Tab"},
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "Trong hệ điều hành Microsoft Windows, để khoá màn hình máy tính, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Windows + C", "B": "Windows + P", "C": "Windows + L", "D": "Windows + H"},
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Trong hệ điều hành Microsoft Windows, để thu nhỏ cửa sổ đang sử dụng, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Alt + Space, sau đó nhấn N", "B": "Alt + Space, sau đó nhấn X", "C": "Ctrl + Space, sau đó nhấn X", "D": "Ctrl + Space, sau đó nhấn N"},
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Trong hệ điều hành Microsoft Windows, để thu nhỏ tất cả của sổ, trừ cửa sổ đang sử dụng, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Windows + N", "B": "Windows + D", "C": "Windows + Home", "D": "Windows + Tab"},
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Trong hệ điều hành Microsoft Windows, để mở các ứng dụng có trên thanh TaskBar, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Ctrl + Win + [số thứ tự của ứng dụng trên thanh Taskbar từ 1 tới 9]", "B": "Win + [số thứ tự của ứng dụng trên thanh Taskbar từ 1 tới 9]", "C": "Alt + Win + [số thứ tự của ứng dụng trên thanh Taskbar từ 1 tới 9]", "D": "Không có tổ hợp phím tắt cho lệnh này"},
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Trong hệ điều hành Microsoft Windows, khi trình chiếu đôi khi người ta cần phóng to thu nhỏ cả màn hình, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Windows + [dấu + hoặc -]", "B": "Ctrl + [dấu + hoặc -]", "C": "Ctrl + [lăn chuột lên hoặc xuống]", "D": "Windows + [lăn chuột lên hoặc xuống]"},
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Trong hệ điều hành Microsoft Windows, khi trình chiếu hay sử dụng nhiều màn hình người ta cần điều chỉnh chế độ chiếu, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Windows + A", "B": "Windows + P", "C": "Windows + I", "D": "Windows + L"},
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Trong hệ điều hành Microsoft Windows, tổ hợp phím \"Windows + G\" có tác dụng:",
+      "options": {"A": "Hiển thị cửa sổ tìm kiếm", "B": "Duyệt các Windows Gadgets trên màn hình nếu có", "C": "Mở Task Manager dạng thu gọn", "D": "Không có tác dụng gì"},
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Trong hệ điều hành Microsoft Windows, khi muốn chụp hình của sổ đang sử dụng, người ta dùng tổ hợp phím:",
+      "options": {"A": "Ctrl + Printscreen", "B": "PrintScreen", "C": "Alt + PrintScreen", "D": "Không có tổ hợp phím nào làm được, người ta chỉ có thể PrintScreen rồi xài các chương trình sửa hình ảnh cắt ra"},
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Trong hệ điều hành Microsoft Windows, khi đang ở Windows Explorer, để đi vào khung tìm kiếm, người ta sử dụng phím tắt nào:",
+      "options": {"A": "F3", "B": "F4", "C": "F6", "D": "F7"},
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Trong hệ điều hành Microsoft Windows, khi đang sử dụng một chương trình nào đó của Microsoft, tổ hợp phím \"Ctrl + N\" có chức năng:",
+      "options": {"A": "Tạo một thư mục mới", "B": "Tạo ra một tập tin mới và chưa có thông tin gì trong tập tin đó", "C": "Mở thanh Menu", "D": "Tùy chương trình mà có chức năng khác nhau"},
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "Trong hệ điều hành Microsoft Windows, để đi tới thanh địa chỉ trên Windows Explorer, người ta dùng tổ hợp phím:",
+      "options": {"A": "Ctrl + D", "B": "Ctrl + L", "C": "Alt + D", "D": "Alt + L"},
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Trong hệ điều hành Microsoft Windows, để thu nhỏ tất cả các cửa sổ xuống thanh Taskbar, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Windows + M", "B": "Windows + S", "C": "Ctrl + L", "D": "Windows + L"},
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Trong hệ điều hành Microsoft Windows, để chụp lại toàn bộ màn hình đang sử dụng người ta sử dụng phím tắt nào:",
+      "options": {"A": "Scroll Lock", "B": "Pause", "C": "Insert", "D": "Print Screen"},
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "Trong hệ điều hành Microsoft Windows, tại Windows Explorer khi người ta nhấn tổ hợp phím Alt + Mũi tên qua trái thì tương ứng với việc nhấn chuột vào nút gì trên thanh công cụ:",
+      "options": {"A": "Up", "B": "Forward", "C": "Cut", "D": "Back"},
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Trong hệ điều hành Microsoft Windows, để mở cửa sổ tìm kiếm, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Windows + T", "B": "Windows + P", "C": "Windows + F", "D": "Ctrl + M"},
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Trong hệ điều hành Microsoft Windows, để lưu nội dung màn hình vào bộ nhớ Clipboard, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Ctrl+C", "B": "Ctrl+Ins", "C": "Print Screen", "D": "ESC"},
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "Trong hệ điều hành Microsoft Windows, khi truy cập nhanh menu Start để có thể Shutdown máy, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Alt+Esc", "B": "Ctrl+Esc", "C": "Ctrl+Alt+Esc", "D": "Không có cách nào khác"},
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Trong hệ điều hành Microsoft Windows, phím F2 dùng để:",
+      "options": {"A": "Tạo Folder mới", "B": "Xóa đối tượng", "C": "Đổi tên đối tượng", "D": "Thoát windows"},
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Phím, tổ hợp phím dùng để chụp cửa sổ hiện hành:",
+      "options": {"A": "Alt+Print Screen", "B": "Ctrl+Print Screen", "C": "Print Screen", "D": "Shift+ Print Screen"},
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Trong hệ điều hành Microsoft Windows, để sao chép một đối tượng vào ClipBoard, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Ctrl+X", "B": "Ctrl+C", "C": "Ctrl+V", "D": "Ctrl+Z"},
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Trong hệ điều hành Microsoft Windows, để gõ kí tự trên của 1 phím, người ta phải ấn giữ phím nào:",
+      "options": {"A": "Ctrl", "B": "Alt", "C": "Shift", "D": "Caps Lock"},
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "Trong hệ điều hành Microsoft Windows, tổ hợp phím Windows + E có tác dụng gì:",
+      "options": {"A": "Chuyển đổi qua lại các cửa sổ đang mở", "B": "Đóng cửa sổ đang mở", "C": "Ẩn hoặc hiện cửa sổ đang mở", "D": "Mở cửa sổ My Computer"},
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "question": "Trong hệ điều hành Microsoft Windows, tổ hợp phím Windows + D có tác dụng gì:",
+      "options": {"A": "Chuyển đổi qua lại các cửa sổ đang mở", "B": "Ẩn hiện cửa sổ đang mở", "C": "Mở cửa sổ My Computer", "D": "Đóng cửa sổ đang mở"},
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Trong hệ điều hành Microsoft Windows, mặc định để tùy chỉnh cập nhật của hệ điều hành Microsoft Windows người ta thực hiện:",
+      "options": {"A": "Vào Control Panel->System and Security->Windows Update", "B": "Vào Control Panel ->Windows Update", "C": "Vào Windows->Windows Update", "D": "Vào Control Panel->Windows ->Windows Update"},
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Muốn thay đổi các thông số của hệ thống máy tính sao cho dữ liệu ngày được hiển thị dưới dạng \"Tuesday, July 30, 2015\" người ta khai báo tại thẻ lệnh Date của hộp thoại Customize Regional Options như thế nào:",
+      "options": {"A": "Tại Short date format hay Long date format nhập: dddd, MMMM dd, yyyy", "B": "Tại Short date format hay Long date format nhập: MMMM dd, yyyy", "C": "Tại Short date format hay Long date format nhập: dddd, dd MMMM, yyyy", "D": "Tại Short date format hay Long date format nhập: dd MMMM, yyyy"},
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Trong bảng \"Taskbar and Navigation propeties\" của hệ điều hành Microsoft Windows 8.1, chức năng nào dùng để ẩn thanh công việc (Taskbar) tự động:",
+      "options": {"A": "Lock the taskbar", "B": "Auto-hide the taskbar", "C": "Use small taskbar buttons", "D": "Show Windows Store apps on the taskbar"},
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Trong hệ điều hành Microsoft Windows, để thay đổi hình nền người ta thực hiện:",
+      "options": {"A": "Chuột phải vào màn hình chọn Screen resolution", "B": "Chuột phải vào màn hình chọn Personalization", "C": "Chuột phải vào màn hình chọn Paste", "D": "Gỡ màn hình ra và dán hình nền lên màn hình"},
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Trong hệ điều hành Microsoft Windows, để thay đổi độ phân giải người ta thực hiện:",
+      "options": {"A": "Chuột phải vào màn hình chọn Screen resolution", "B": "Chuột phải vào màn hình chọn Personalization", "C": "Chuột phải vào màn hình chọn Next desktop background", "D": "Chuột phải vào màn hình chọn Paste"},
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Trong hệ điều hành Microsoft Windows, làm thế nào để gỡ bỏ một chương trình khỏi máy tính tốt nhất:",
+      "options": {"A": "Xóa biểu tượng của chương trình đó trên màn hình", "B": "Xóa thư mục của chương trình đó trên hệ thống", "C": "Vào Control Panel, chọn Programs, chọn Uninstall programs, chọn chương trình cần gỡ rồi Nhấn Uninstall", "D": "Vào Start, tìm kiếm tên chương trình rồi chọn xóa, sau đó khởi động lại máy tính"},
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Trong hệ điều hành Microsoft Windows, để chọn các biểu tượng nằm cách nhau trên màn hình nền Desktop, người ta dùng chuột nhấp chọn từng biểu tượng một đồng thời giữ phím nào:",
+      "options": {"A": "Alt", "B": "Ctrl", "C": "Enter", "D": "Shift"},
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Trong hệ điều hành Microsoft Windows, chương trình ghi chú nhanh là:",
+      "options": {"A": "Quick Notes", "B": "Sticky Notes", "C": "Notepad", "D": "WinWord"},
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Trong hệ điều hành Microsoft Windows, thao tác Drag and Drop (kéo thả chuột) được sử dụng khi người ta muốn làm gì:",
+      "options": {"A": "Mở thư mục", "B": "Thay đổi màu nền cho cửa sổ hiện hành", "C": "Di chuyển đối tượng đến vị trí mới", "D": "Xem thuộc tính của tập tin hiện tại"},
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Trong hệ điều hành Microsoft Windows, công cụ Magnifier thực hiện việc gì:",
+      "options": {"A": "Công cụ cho phép quản lý tiến trình đang chạy", "B": "Công cụ cho phép phóng to màn hình hiển thị", "C": "Công cụ cho phép làm sạch bộ nhớ RAM", "D": "Công cụ cho phép in ra máy in"},
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Trong hệ điều hành Microsoft Windows, để xóa một biểu tượng (icon), người ta thực hiện:",
+      "options": {"A": "Chọn và ấn phím Delete", "B": "Chọn và ấn phím Alt", "C": "Chọn và ấn phím Tab", "D": "Chọn và ấn phím Ctrl"},
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Trong hệ điều hành Microsoft Windows, chỉ với Recycle Bin, người ta không thể thực hiện điều gì:",
+      "options": {"A": "Xem danh sách các tập tin và thư mục vừa xóa", "B": "Xóa hẳn các tập tin và thư mục", "C": "Khôi phục tất cả các tập tin và thư mục bị xóa", "D": "Phục hồi các tập tin và thư mục vừa xóa"},
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Trong hệ điều hành Microsoft Windows, khi muốn khôi phục lại đối tượng đã xóa trong Recycle Bin, người ta chọn đối tượng rồi chọn lệnh:",
+      "options": {"A": "Copy", "B": "Restore", "C": "Open", "D": "Move To Folder..."},
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Trong hệ điều hành Microsoft Windows, để thiết đặt lại hệ thống, người ta chọn chức năng:",
+      "options": {"A": "Control Windows", "B": "Control System", "C": "Control Panel", "D": "Control Desktop"},
+      "answer": "C"
+    },
+    {
+      "id": 52,
+      "question": "Khi một đối tượng trong hệ điều hành Microsoft Windows (File, Folder, Shortcut) đang được chọn, gõ phím F2 cho phép người ta thực hiện:",
+      "options": {"A": "Xóa đối tượng", "B": "Tạo đối tượng mới", "C": "Đổi tên đối tượng", "D": "Không có tác dụng gì"},
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn điều chỉnh ngày giờ của hệ thống người ta thực hiện lệnh:",
+      "options": {"A": "Start -> Control Windows –>Date and Time", "B": "Start -> Control Panel –> Date and Time", "C": "Start -> Control System –> Date and Time", "D": "Start -> Control Desktop –> Date and Time"},
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Trong hệ điều hành Microsoft Windows, để kiểm tra không gian đĩa chưa được sử dụng, người ta thực hiện:",
+      "options": {"A": "Click chuột vào tên ổ đĩa cần kiểm tra", "B": "Click phím phải chuột vào tên ổ đĩa cần kiểm tra - Chọn Properties", "C": "Click phím phải chuột vào Recycle Bin - Chọn Properties", "D": "Click chuột vào Recycle Bin"},
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn tắt cửa sổ hiện hành người ta thực hiện:",
+      "options": {"A": "Nhấn nút biểu tượng Minimize", "B": "Nhấn nút biểu tượng Restore Window", "C": "Nhấn nút biểu tượng Close", "D": "Nhấn nút biểu tượng Maximize"},
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "Trong hệ điều hành Microsoft Windows, lệnh Defregnment dùng để làm gì:",
+      "options": {"A": "Định dạng lại ổ đĩa", "B": "Chống phân mảnh ổ đĩa", "C": "Backup lại dữ liệu ổ đĩa", "D": "Sửa lỗi ổ đĩa"},
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn thu nhỏ hoặc phóng lớn cửa sổ hiện hành người ta thực hiện:",
+      "options": {"A": "Nhấn nút biểu tượng Minimize", "B": "Nhấn nút biểu tượng Restore", "C": "Nhấn nút biểu tượng Maximize", "D": "Cả B và C"},
+      "answer": "D"
+    },
+    {
+      "id": 58,
+      "question": "Trong hệ điều hành Microsoft Windows, Control Panel dùng để làm gì:",
+      "options": {"A": "Thiết lập một số chức năng cho hệ thống", "B": "Thiết lập một số chức năng khác cho phần mềm", "C": "Thiết lập một số chức năng khác cho phần cứng", "D": "Thiết lập một số chức năng khác cho hệ điều hành"},
+      "answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn tắt cửa sổ hiện hành người ta thực hiện:",
+      "options": {"A": "Nhấn nút biểu tượng", "B": "Nhấn nút biểu tượng close", "C": "Nhấn nút biểu tượng Restore", "D": "Nhấn nút biểu tượng Maximize"},
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Để xóa một đối tượng trong hệ điều hành Microsoft Windows:",
+      "options": {"A": "Chọn và ấn Delete", "B": "Click chuột phải vào Delete", "C": "A, B đúng", "D": "A, B sai"},
+      "answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn xóa 1 chương trình, người ta dùng chương trình hay thao tác nào:",
+      "options": {"A": "Add->Remove Hardware", "B": "Xóa biểu tượng trên màn hình Desktop", "C": "Add->Remove Programs", "D": "A, C sai"},
+      "answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Khi các biểu tượng trên màn hình Desktop hệ điều hành Microsoft Windows bị ẩn hết. Thao tác nào sau đây để hiển thị các biểu tượng trên màn hình Desktop:",
+      "options": {"A": "Nhấn phím phải chuột vào màn hình nền, chọn View, chọn tiếp Auto arrange icons", "B": "Nhấn phím phải chuột vào màn hình nền, chọn View, chọn tiếp Show desktop icons", "C": "Nhấn phím phải chuột vào màn hình nền, chọn View, chọn tiếp Align icons to grid", "D": "Không thể hiển thị được, Windows đã bị lỗi"},
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn hiển thị ô Check box dùng chọn nhiều thư mục và tập tin để thao tác, trên Windows Explorer người ta thực hiện:",
+      "options": {"A": "Vào File, chọn Check Boxes", "B": "Vào Home, chọn Check Boxes", "C": "Vào View, chọn Item Check Boxes", "D": "Vào Share, chọn Item Check Boxes"},
+      "answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Trong hệ điều hành Microsoft Windows, lối tắt dẫn đến một chương trình ứng dụng hay một tệp tin/thư mục được gọi là gì:",
+      "options": {"A": "Folder", "B": "Accessories", "C": "File", "D": "Shortcut"},
+      "answer": "D"
+    },
+    {
+      "id": 65,
+      "question": "Trong hệ điều hành Microsoft Windows, để thực hiện chuyển đổi cửa sổ ta thực hiện thao tác nào sau đây:",
+      "options": {"A": "Nhấn vào phím Enter", "B": "Nhấn tổ hợp phím Ctrl - Tab", "C": "Nhấn tổ hợp phím Alt - Tab", "D": "Nhấn tổ hợp phím Ctrl - Alt - Tab"},
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "Trong hệ điều hành Microsoft Windows, để xem thông tin của một tệp tin, ta thực hiện thao tác:",
+      "options": {"A": "Chọn tệp - nhấp phải chuột - chọn Properties", "B": "Chọn tệp - nhấp trái chuột - chọn Properties", "C": "Chọn tệp - nhấp phải chuột - chọn Details", "D": "Chọn tệp - nhấp trái chuột - chọn Details"},
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn mở bảng chọn tắt (Shortcut menu) của một đối tượng nào đó, người ta sử dụng thao tác nào sau đây với chuột máy tính:",
+      "options": {"A": "Click", "B": "Double Click", "C": "Right Click", "D": "Drag and Drop"},
+      "answer": "C"
+    },
+    {
+      "id": 68,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn đóng tập tin hiện hành nhưng không thoát khỏi chương trình ta:",
+      "options": {"A": "Nhấn tổ hợp phím Ctrl + F4", "B": "Vào bảng chọn File và chọn Exit", "C": "Nhấn tổ hợp phím Alt + F4", "D": "Nhấn chuột vào biểu tượng của tập tin trên thanh công việc (Taskbar)"},
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Trong hệ điều hành Microsoft Windows, công cụ Share được sử dụng để làm gì:",
+      "options": {"A": "Chia sẻ tập tin", "B": "Chia sẻ thư mục và các thư mục con, tập tin bên trong nó", "C": "Chia sẻ ổ đĩa và các thư mục con, tập tin bên trong nó", "D": "Chia sẻ ứng dụng"},
+      "answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Trong hệ điều hành Microsoft Windows, khi một tập tin mang thuộc tính \"Hidden\" tức là:",
+      "options": {"A": "Nó bị lỗi", "B": "Nó bị ẩn", "C": "Nó là tập tin không có định dạng", "D": "Nó không chạy được trên Windows"},
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn xem tổ chức các tập tin và thư mục trên đĩa, người ta có thể sử dụng:",
+      "options": {"A": "My Computer hoặc Windows Explorer", "B": "My Computer hoặc Recycle Bin", "C": "Windows Explorer hoặc Recycle Bin", "D": "My Computer hoặc My Network Places"},
+      "answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "Trong hệ điều hành Microsoft Windows, người ta sử dụng chương trình nào để quản lý các tập tin và thư mục:",
+      "options": {"A": "Windows Explorer", "B": "Internet Explorer.", "C": "Control Panel", "D": "Notepad"},
+      "answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "Trong hệ điều hành Microsoft Windows, từ Shortcut có ý nghĩa gì:",
+      "options": {"A": "Xóa một đối tượng được chọn tại màn hình nền.", "B": "Di chuyển một đối tượng đến nơi khác", "C": "Đóng các cửa sổ đang mở", "D": "Tạo đường tắt để truy cập"},
+      "answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "Trong Windows Explorer, nếu người ta vào bảng chọn View, chọn lệnh List, có nghĩa là đã chọn kiểu hiển thị nội dung của cửa sổ bên phải chương trình dưới dạng:",
+      "options": {"A": "Các biểu tượng lớn", "B": "Các biểu tượng nhỏ", "C": "Danh sách các tập tin và thư mục", "D": "Danh sách liệt kê chi tiết"},
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Trong Windows Explorer, theo người ta tiêu chí nào sau đây không thể dùng để sắp xếp các tập tin và thư mục:",
+      "options": {"A": "Tên tập tin", "B": "Tần suất sử dụng", "C": "Kích thước tập tin", "D": "Kiểu tập tin"},
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "Trong cửa sổ ListView của Windows Explorer, kiểu hiển thị nào cho phép người sử dụng có thể biết được kích thước của một File có chứa trong cửa sổ đó:",
+      "options": {"A": "Tiles", "B": "Icons", "C": "List", "D": "Details"},
+      "answer": "D"
+    },
+    {
+      "id": 77,
+      "question": "Trong hệ điều hành Microsoft Windows, người ta sử dụng lệnh nào để đổi tên Folder hoặc File đang chọn:",
+      "options": {"A": "F2", "B": "F3", "C": "F4", "D": "F6"},
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Trong hệ điều hành Microsoft Windows, trong một thư mục có hai thư mục X và Y, khi người ta đổi tên thư mục X thành Y thì điều gì xảy ra:",
+      "options": {"A": "Máy tính tự động đặt tên cho thư mục X là Y1", "B": "Máy tính tự động xóa thư mục Y đã tồn tại và cho phép đổi tên thư mục X", "C": "Máy tính tự động xóa thư mục Y đã tồn tại và sao chép thư mục X sang thư mục khác", "D": "Máy tính thông báo thư mục Y đã tồn tại và hỏi có muốn gộp hai thư mục lại không"},
+      "answer": "D"
+    },
+    {
+      "id": 79,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn tạo một thư mục mới, người ta thực hiện:",
+      "options": {"A": "Edit -> New, sau đó chọn Folder", "B": "Tools -> New, sau đó chọn Folder", "C": "File ->New, sau đó chọn Folder", "D": "Windows -> New, sau đó chọn Folder"},
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Trong hệ điều hành hệ điều hành Microsoft Windows, tên của thư mục được đặt tên như thế nào:",
+      "options": {"A": "Bắt buộc phải dùng chữ in hoa để đặt tên thư mục", "B": "Bắt buộc không được có phần mở rộng", "C": "Thường được đặt theo qui cách đặt tên của tên tệp", "D": "Bắt buộc phải có phần mở rộng"},
+      "answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Trong hệ điều hành Microsoft Windows, khi chọn Copy một tập tin, sau đó xóa tập tin đó đi rồi Paste sang vị trí mới thì điều gì sẽ xảy ra:",
+      "options": {"A": "Vẫn copy bình thường vì thao tác này tương tự lệnh \"Cut\"", "B": "Không copy được vì tập tin gốc đã mất", "C": "Hệ thống sẽ hỏi có muốn phục hồi file đã xóa không", "D": "Hệ thống sẽ hỏi có muốn xóa hẳn file không"},
+      "answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Trong Windows Explore, để chọn một lúc các file hoặc folder nằm liên kề nhau trong một danh sách, người ta thực hiện:",
+      "options": {"A": "Giữ phím Ctrl và nháy chuột vào từng mục muốn chọn trong danh sách", "B": "Giữ phím Alt và nháy chuột vào từng mục muốn chọn trong danh sách", "C": "Nháy chuột ở mục đầu, ấn và giữ Shift nháy chuột ở mục cuối", "D": "Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách"},
+      "answer": "C"
+    },
+    {
+      "id": 83,
+      "question": "Trong Windows Explore, để chọn một lúc các file hoặc folder nằm không kề nhau trong một danh sách, người ta thực hiện:",
+      "options": {"A": "Giữ phím Ctrl và nhấp chuột vào từng mục muốn chọn trong danh sách", "B": "Nhấp chuột ở mục đầu, ấn và giữ Shift nhấp chuột ở mục cuối", "C": "Giữ phím Alt và nháy chuột vào từng mục muốn chọn trong danh sách", "D": "Giữ phím Tab và nhấp chuột vào từng mục muốn chọn trong danh sách"},
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Trong hệ điều hành Microsoft Windows, khi xóa một thư mục hoặc tập tin thì nó được lưu trong Recycle Bin, muốn xóa hẳn thư mục/tập tin này, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Shift + Del", "B": "Alt + Del", "C": "Ctrl + Del", "D": "Tab + Del"},
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Trong hệ điều hành Microsoft Windows, khi xóa một thư mục hoặc tập tin bằng phím Del thì điều gì xảy ra:",
+      "options": {"A": "Thư mục/tập tin đó sẽ được xóa hoàn toàn khỏi máy tính", "B": "Thư mục/tập tin đó sẽ được chuyển vào thùng rác (Recycle Bin)", "C": "Thư mục/tập tin đó sẽ được lưu vào bộ nhớ máy tính", "D": "Thư mục/tập tin đó sẽ được chép sang một thư mục khác"},
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn khôi phục lại một đối tượng đã xóa trong Recycle Bin, người ta thực hiện:",
+      "options": {"A": "Chọn đối tượng, rồi chọn File -> Copy", "B": "Chọn đối tượng, rồi chọn File -> Open", "C": "Chọn đối tượng, rồi chọn File -> Restore", "D": "Chọn đối tượng, rồi chọn File -> Move To Folder..."},
+      "answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Trong hệ điều hành Microsoft Windows, người ta không thể đổi tên tập tin, di chuyển hoặc xóa 1 tập tin thường là do:",
+      "options": {"A": "Tập tin bị nhiễm Virus", "B": "Tập tin đó đang mở.", "C": "Cả 2 câu A, B đều sai", "D": "Cả 2 câu A, B đều đúng"},
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Trong hệ điều hành Microsoft Windows, để tìm kiếm một chương trình, người ta thực hiện:",
+      "options": {"A": "Mở hết tất cả thư mục trên màn hình Desktop và tìm bằng mắt", "B": "Mở chương trình \"Search\" trong ổ System rồi gõ tên chương trình vào.", "C": "Vào Start, gõ từ khóa tìm kiếm vào ô \"Search progrаMicrosoft and files\"", "D": "Vào control panel và chọn chương trình"},
+      "answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "Trong hệ điều hành Microsoft Windows, để tùy chỉnh nhìn thấy các thư mục ẩn hay không, người ta thực hiện:",
+      "options": {"A": "Trên cửa sổ Window Explorer, nhấn vào Tools rồi Folder Options", "B": "Trên cửa sổ Window Explorer, nhấn vào Tools rồi File Options", "C": "Trên cửa sổ Window Explorer, nhấn Folder Options", "D": "Không thể xem khi các thư mục bị ẩn đi"},
+      "answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn tìm kiếm tập tin hay thư mục, người ta thực hiện:",
+      "options": {"A": "File -> Search", "B": "Windows -> Search", "C": "Start -> Search", "D": "Tools -> Search"},
+      "answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "Trong hệ điều hành Microsoft Windows, công cụ SEARCH được sử dụng để:",
+      "options": {"A": "Tìm kiếm file, folder", "B": "Dùng để tính toán", "C": "Dùng để vẽ", "D": "Dùng để soạn thảo văn bản."},
+      "answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Trong hệ điều hành Microsoft Windows, khi tìm kiếm dữ liệu thì ký hiệu nào sau là đại diện cho nhiều ký tự bất kỳ:",
+      "options": {"A": "*", "B": ":", "C": "#", "D": "!"},
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Tập tin (file) nào có đuôi như sau không phải là tập tin nén:",
+      "options": {"A": ".rar", "B": ".zip", "C": ".tgz", "D": ".com"},
+      "answer": "D"
+    },
+    {
+      "id": 94,
+      "question": "Phần mềm nào sau đây là phần mềm an ninh máy tính:",
+      "options": {"A": "phần mềm kế toán", "B": "phần mềm đồ họa", "C": "phần mềm diệt virut", "D": "phần mềm soạn thảo văn bản"},
+      "answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Phần mềm nào sau đây không phải là một phần mềm diệt virus:",
+      "options": {"A": "BKAV", "B": "Kaspersky", "C": "McAfee", "D": "Firefox"},
+      "answer": "D"
+    },
+    {
+      "id": 96,
+      "question": "Trong hệ điều hành Microsoft Windows, để chuyển từ định dạng file này sang định dạng file khác phát biểu nào sau đây không đúng:",
+      "options": {"A": "có thể chuyển từ word sang pdf", "B": "có thể chuyển từ pdf sang word", "C": "có thể chuyển từ excel sang pdf", "D": "có thể từ exe sang word"},
+      "answer": "D"
+    },
+    {
+      "id": 97,
+      "question": "Trong hệ điều hành Microsoft Windows, công cụ \"Speech Recognition\" có tính năng:",
+      "options": {"A": "Ghi âm", "B": "Điều chỉnh Microphone", "C": "Ra lệnh cho máy tính bằng giọng nói", "D": "Chơi trò chơi"},
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Trong hệ điều hành Microsoft Windows, người ta có thể sử dụng chương trình nào như một máy tính bỏ túi:",
+      "options": {"A": "Microsoft Excel", "B": "Calculator", "C": "Microsoft Word", "D": "Notepad"},
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Trong các công cụ sau, công cụ nào không phải là công cụ đa phương tiện:",
+      "options": {"A": "Ghi âm", "B": "Nghe nhạc", "C": "Xem phim", "D": "Soạn thảo văn bản"},
+      "answer": "D"
+    },
+    {
+      "id": 100,
+      "question": "Phông chữ ARIAL tương ứng với bảng mã nào sau đây:",
+      "options": {"A": "UNICODE", "B": "TCVN3 (ABC)", "C": "VNI WINDOWS", "D": "VIQR"},
+      "answer": "A"
+    },
+    {
+      "id": 101,
+      "question": "Để gõ đúng chữ tiếng việt có dấu, lựa chọn nào sau đây là đúng:",
+      "options": {"A": "Font chữ là Time New Roman và bảng mã là Vni-Windows", "B": "Font chữ là Time New Roman và bảng mã là TCVN3", "C": "Font chữ là Time New Roman và bảng mã là UNICODE", "D": "Font chữ là Time New Roman và bảng mã là VPS"},
+      "answer": "C"
+    },
+    {
+      "id": 102,
+      "question": "Trong hệ điều hành Microsoft Windows, mặc định để cài phông chữ mới, người ta thực hiện:",
+      "options": {"A": "Vào Start -> Setting -> Control Panel -> Font", "B": "Vào Start -> Setting -> Control Panel -> Sau đó chọn Font", "C": "Vào Start -> Control Panel -> Setting -> chọn Font", "D": "Vào Start -> Control Panel -> Appearance and Personalization -> chọn Fonts"},
+      "answer": "D"
+    },
+    {
+      "id": 103,
+      "question": "Trong hệ điều hành Microsoft Windows, những phần mềm nào sau đây không phải là phần mềm gõ tiếng Việt:",
+      "options": {"A": "Vietkey", "B": "VPSkey", "C": "Unikey", "D": "Keylogger"},
+      "answer": "D"
+    },
+    {
+      "id": 104,
+      "question": "Trong soạn thảo văn bản tiếng Việt, phát biểu nào sau đây về phông chữ tiếng Việt là sai:",
+      "options": {"A": "Trong một văn bản có thể chứa nhiều phông chữ tiếng Việt", "B": "Có thể chuyển đổi một văn bản từ định dạng phông tiếng Việt này sang định dạng phông tiếng Việt khác", "C": "Cách gõ tiếng Việt kiểu VNI và kiểu Telex giống nhau", "D": "Cách gõ tiếng Việt kiểu VNI và kiểu Telex khác nhau"},
+      "answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Trong phần mềm Microsoft Word, khi chuyển một đoạn văn bản tiếng Việt từ Font Vni-Time sang Font Time New Roman điều gì sau đây là đúng:",
+      "options": {"A": "Tất cả các ký tự đều hiện đúng", "B": "Tất cả các ký tự đều hiện sai", "C": "Tất cả các ký tự tiếng Việt có dấu đều hiện sai", "D": "Tất cả các ký tự tiếng Việt có dấu đều hiện đúng"},
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "Khi gõ tiếng việt bằng phần mềm Unikey, để chuyển chế độ gõ giữa tiếng Anh và tiếng Việt, người ta sử dụng tổ hợp phím nào:",
+      "options": {"A": "Alt + X", "B": "Atl + Z", "C": "Ctrl + Z", "D": "Shift + X"},
+      "answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Trong hệ điều hành Microsoft Windows, để thu nhỏ cửa sổ ứng dụng, người ta sử dụng tổ hợp phím:",
+      "options": {"A": "Nhấp chuột trái vào nút Close", "B": "Nhấp chuột trái vào nút Maximize", "C": "Nhấp chuột trái vào nút Minimize", "D": "Nhấp chuột trái vào nút Restore Down"},
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "Trong hệ điều hành Microsoft Windows, muốn chép tập tin (file) hay thư mục (folder), người ta sử dụng tổ hợp phím:",
+      "options": {"A": "Ctrl + C", "B": "Ctrl + S", "C": "Alt + C", "D": "ALT + V"},
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "Trong hệ điều hành Microsoft Windows, file nào là một file chương trình:",
+      "options": {"A": "Trochoi.docx", "B": "Bangtinh.xlsx", "C": "Trochoi.spo", "D": "Trochoi.exe"},
+      "answer": "D"
+    },
+    {
+      "id": 110,
+      "question": "Chương trình Windows Explorer có thể:",
+      "options": {"A": "Tạo file văn bản.", "B": "Tạo hình ảnh.", "C": "Tạo folder và tên file.", "D": "Tạo chương trình mới."},
+      "answer": "C"
+    },
+    {
+      "id": 111,
+      "question": "Trong hệ điều hành Microsoft Windows, để quản lý thông tin lưu trữ trên đĩa, người ta có 2 cấu trúc quan trọng là:",
+      "options": {"A": "Thư mục và cây thư mục.", "B": "Tập tin và thư mục.", "C": "Đường dẫn tập tin và đường dẫn thư mục.", "D": "Ổ đĩa, tập tin"},
+      "answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "Thuật ngữ File được gọi trong tiếng việt là:",
+      "options": {"A": "Tập tin", "B": "Thông tin dữ liệu.", "C": "Cơ sở dữ liệu.", "D": "Thư mục"},
+      "answer": "A"
+    },
+    {
+      "id": 113,
+      "question": "Trong hệ điều hành Microsoft Windows, khi tìm các file có phần mở rộng là DOC và XLS, người ta thực hiện:",
+      "options": {"A": "DOC - XLS", "B": "*.DOC, *.XLS", "C": ":.DOC,:.XLS", "D": "Word file, Excel file"},
+      "answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Trong Windows Explorer, để lựa chọn các file và foder không gần nhau, người ta thực hiện:",
+      "options": {"A": "Nhấp chuột trên các tập tin muốn chọn.", "B": "Nhấp chuột trên tập tin đầu, nhấn và giữ ALT, nhấp chuột trên các tập tin kế tiếp.", "C": "Nhấp chuột trên tập tin đầu, nhấn và giữ phím CTRL, nhấp chuột trên các tập tin chọn khác.", "D": "Nhấp chuột trên tập tin đầu, nhấn và giữ phím CTRL, nhấp chuột trên các tập tin cuối."},
+      "answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "Trong hệ điều hành Microsoft Windows, để thay đổi các xác lập về quy cách con số, tiền tệ... theo các địa phương khác nhau, người ta chạy chương trình:",
+      "options": {"A": "Windows Explorer.", "B": "Internet Explorer.", "C": "Display trong Control Panel.", "D": "Regional Settings trong Control Panel."},
+      "answer": "D"
+    },
+    {
+      "id": 116,
+      "question": "Trong hệ điều hành Microsoft Windows, để chuyển đổi qua lại giữa các cửa sổ, người ta sử dụng tổ hợp phím:",
+      "options": {"A": "Ctrl + Tab.", "B": "Shift + Tab.", "C": "Alt + Tab.", "D": "Space + Tab."},
+      "answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Trong hệ điều hành Microsoft Windows, để thoát khỏi một chương trình, người ta thực hiện:",
+      "options": {"A": "Shift + F3.", "B": "Alt + F4.", "C": "Ctrl + F3", "D": "Alt + F2"},
+      "answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Trong Windows Explore muốn chọn các phần tử liên tục người ta thực hiện:",
+      "options": {"A": "Click phím trái chuột phần từ đầu nhấn giữ Ctrl và click phím trái chuột phần từ cuối", "B": "Click phím trái chuột phần từ đầu nhấn giữ Alt và click phím trái chuột phần từ cuối", "C": "Click phím trái chuột phần từ đầu nhấn giữ Shift và click phím trái chuột phần từ cuối", "D": "Click phím trái chuột phần từ đầu nhấn giữ Tab và click phím trái chuột phần từ cuối"},
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "Trong hệ điều hành Microsoft Windows, khi muốn tạo folder tại desktop, người ta click phím phải chuột sau đó chọn:",
+      "options": {"A": "Properties.", "B": "New -> folder.", "C": "Refresh.", "D": "Paste."},
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Trong hệ điều hành Microsoft Windows, khi muốn tạo folder tại shortcut Desktop, người ta click phím phải chuột sau đó chọn:",
+      "options": {"A": "New -> shortcut", "B": "Refresh.", "C": "Paste.", "D": "Creat shortcut"},
+      "answer": "A"
+    },
+    {
+      "id": 121,
+      "question": "Trong hệ điều hành Microsoft Windows, đối với một thư mục (folder) đã có trên đĩa CD, người ta có thể thực hiện:",
+      "options": {"A": "Ghi bổ sung thêm file, folder vào.", "B": "Không thể ghi bổ sung thêm file, folder vào.", "C": "Có thể xóa bớt file, folder.", "D": "Đổi tên file, folder."},
+      "answer": "B"
+    }
+  ]
+}

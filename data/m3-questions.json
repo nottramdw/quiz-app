@@ -1,0 +1,1885 @@
+{
+  "M3": [
+    {
+      "id": 1,
+      "question": "Trong Microsoft Word 2010, muốn định dạng trang văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Page Layout -> Page setup",
+        "B": "Vào File -> Page setup",
+        "C": "Vào Home -> Page setup",
+        "D": "Vào View -> Page setup"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Trong Microsoft Word 2010, để xóa bỏ định dạng văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Chọn văn bản muốn xóa, Vào Home -> Styles -> Clear All",
+        "B": "Chọn văn bản muốn xóa, Vào Home -> Cut",
+        "C": "Chọn đoạn văn bản muốn xóa, Vào Home -> Change Styles",
+        "D": "Chọn đoạn văn bản muốn xóa, Nhấn phím Backspace"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Trong Microsoft Word 2010, để định dạng một đoạn văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Page Layout -> Magins",
+        "B": "Vào Page Layout -> Paragraph -> Indents and spacing",
+        "C": "Vào Page Layout -> Orientatione -> Portrait",
+        "D": "Vào Review -> Track Changes -> Change tracking Options..."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Trong Microsoft Word 2010, muốn sao chép định dạng của một dòng văn bản nào đó; sau khi bôi đen dòng đó, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Copy",
+        "B": "Vào Home -> Format Painter",
+        "C": "Vào Home -> Paste",
+        "D": "Vào Home -> Cut"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Trong Microsoft Word 2010, để chuyển đổi từ kiểu chữ thường sang toàn bộ chữ in hoa, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Change Case -> UPPERCASE",
+        "B": "Vào Home -> Change Case -> lowercase",
+        "C": "Vào Home -> Change Case -> Capitalize Each Word",
+        "D": "Vào Home -> Change Case -> Sentence case."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Trong Microsoft Word 2010, trong trường hợp chưa đến lề phải nhưng muốn xuống dòng, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Enter",
+        "B": "tab + Enter",
+        "C": "Ctrl + Enter",
+        "D": "Alt + Enter"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Trong Microsoft Word 2010, để lưu văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + P",
+        "C": "Ctrl + N",
+        "D": "Ctrl + S"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "Trong Microsoft Word 2010, trong soạn thảo văn bản, muốn tạo một hồ sơ mới, người ta thực hiện:",
+      "options": {
+        "A": "Insert New",
+        "B": "View New",
+        "C": "File New",
+        "D": "Edit New"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Trong Microsoft Word 2010, công việc nào sau đây không thể thực hiện được:",
+      "options": {
+        "A": "Định dạng đĩa mềm",
+        "B": "Định dạng dòng văn bản",
+        "C": "Nối hai tập tin văn bản thành 1 tập tin văn bản.",
+        "D": "Đánh số trang tự động cho văn bản."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Trong Microsoft Word 2010, thao tác nào sau đây là không làm được:",
+      "options": {
+        "A": "Chèn 1 ảnh vào trong 1 ô của bảng",
+        "B": "Phóng to rồi lại thu nhỏ 1 ảnh bitmap",
+        "C": "Thay đổi đường kẻ liền nét thành đường gãy nét (hay còn gọi là đường nét rời)",
+        "D": "Định dạng đĩa cứng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Trong Microsoft Word 2010, để tạo văn bản mới, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> New",
+        "B": "Vào File -> New",
+        "C": "Vào View -> New",
+        "D": "Vào Insert -> New"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Phần mềm Microsoft Word 2010 là một phần mềm gì:",
+      "options": {
+        "A": "Phần mềm bảng tính",
+        "B": "Phần mềm quản lý",
+        "C": "Phần mềm soạn thảo văn bản",
+        "D": "Phần mềm hệ thống"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Trong Microsoft Word 2010, có mấy cách tạo mới một văn bản:",
+      "options": {
+        "A": "2 cách",
+        "B": "3 cách",
+        "C": "4 cách",
+        "D": "5 cách"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Trong Microsoft Word 2010, để chèn một tập tin trên đĩa vào văn bản đang soạn thảo tại vị trí con trỏ, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Object -> Text from File",
+        "B": "Vào Insert -> Text Box",
+        "C": "Vào Insert -> Quick Parts -> Field",
+        "D": "Vào Insert -> Symbol"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Trong Microsoft Word 2010, cài đặt chức năng tự động lưu văn bản sau một khoảng thời gian, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Option -> Save",
+        "B": "Vào File -> Options -> General",
+        "C": "Vào File -> Save As",
+        "D": "Vào File -> Save"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Trong Microsoft Word 2010, để chia cột cho văn bản đang soạn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Page Layout -> Page Setup -> Orientation",
+        "B": "Vào Page Layout -> Page Setup -> Margins",
+        "C": "Vào Page Layout -> Page Setup -> Columns",
+        "D": "Vào Page Layout -> Page Setup -> Size"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Trong Microsoft Word 2010, để đóng tài liệu đang mở, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + N",
+        "C": "Ctrl + P",
+        "D": "Ctrl + W"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "question": "Trong Microsoft Word 2010 với Classic Menu, để thao tác với tập tin văn bản, standard là gì:",
+      "options": {
+        "A": "Thanh công cụ",
+        "B": "Menu",
+        "C": "Hộp thoại",
+        "D": "Trang giấy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Trong Microsoft Word 2010, thay đổi màu nền cho trang, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Change Color",
+        "B": "Vào View -> Page Color",
+        "C": "Vào Page Layout -> Page Color",
+        "D": "Vào Design -> Watermark"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Trong Microsoft Word 2010, trong soạn thảo văn bản, để đóng một hồ sơ đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Close",
+        "B": "Vào File -> Exit",
+        "C": "Vào File -> New",
+        "D": "Vào File -> Save"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Trong Microsoft Word 2010, khi làm việc xong, muốn thoát khỏi, người ta thực hiện:",
+      "options": {
+        "A": "View -> Exit",
+        "B": "Edit -> Exit",
+        "C": "Window -> Exit",
+        "D": "File -> Exit"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "Trong Microsoft Word 2010 với Classic Menu, thanh công cụ có chứa các hình: tờ giấy trắng, đĩa vi tính, máy in,..., được gọi là:",
+      "options": {
+        "A": "Thanh công cụ định dạng",
+        "B": "Thanh công cụ chuẩn",
+        "C": "Thanh công cụ vẽ",
+        "D": "Thanh công cụ bảng và đường viền"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Trong Microsoft Word 2010, muốn xem các trang khác nhau của một tài liệu trên một màn hình, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Two Pages",
+        "B": "Vào View -> Arrange All",
+        "C": "Vào View -> Split",
+        "D": "Vào View -> Switch Windows"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Trong Microsoft Word 2010, muốn nhìn thấy nhiều tài liệu đang mở trên cùng một màn hình, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Arrange All",
+        "B": "Vào View -> Two Pages",
+        "C": "Vào View -> Split",
+        "D": "Vào View -> Switch Windows"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Trong Microsoft Word 2010, để chèn một tiêu đề đầu trang, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Cover Page",
+        "B": "Vào Insert -> Footer",
+        "C": "Vào Insert -> Text Box",
+        "D": "Vào Insert -> Header"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "Trong Microsoft Word 2010, muốn diễn mục lục các trang của tài liệu bằng tự động, người ta thực hiện:",
+      "options": {
+        "A": "Vào References -> Mark Citation",
+        "B": "Vào References -> Insert Caption",
+        "C": "Vào References -> Table of Contents",
+        "D": "Vào References -> Insert Footnote"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Trong Microsoft Word 2010, khi làm việc xong, muốn thoát khỏi, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Exit",
+        "B": "Vào Home -> Exit",
+        "C": "Vào Review -> Exit",
+        "D": "Vào File -> Exit"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "Trong Microsoft Word 2010, trong soạn thảo văn bản, để đóng một hồ sơ đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Close",
+        "B": "Vào Home -> Close",
+        "C": "Vào View -> Close",
+        "D": "Vào Review -> Close"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Trong Microsoft Word 2010, muốn định dạng trang, người ta thực hiện:",
+      "options": {
+        "A": "Vào Page Layout -> Page Setup",
+        "B": "Vào Home -> Page Setup",
+        "C": "Vào File -> Page Setup",
+        "D": "Vào View -> Page Setup"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Trong Microsoft Word 2010, muốn mở một file văn bản đã có sẵn, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> New",
+        "B": "Vào View -> Open",
+        "C": "Vào File -> Open",
+        "D": "Vào Home -> Open"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "Trong Microsoft Word 2010, để thay đổi đơn vị đo của thước kẻ (Ruler), người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Option -> Advanced",
+        "B": "Vào Page Layout -> Option -> Advanced",
+        "C": "Vào View -> Option -> Advanced",
+        "D": "Vào Home -> Option -> Advanced"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Trong Microsoft Word 2010, các công cụ định dạng trong văn bản như: font, paragraph, copy, paste, bullets and numbering..... nằm ở thanh thực đơn nào?",
+      "options": {
+        "A": "Home",
+        "B": "Insert",
+        "C": "Page Layout",
+        "D": "References"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Trong Microsoft Word 2010, để bật chức năng thanh thước kẻ (ruler), người ta thực hiện:",
+      "options": {
+        "A": "Vào References -> Check vào mục Ruler",
+        "B": "Vào View -> Check vào mục Ruler",
+        "C": "Vào Review -> Check vào mục Ruler",
+        "D": "Vào Home -> Check vào mục Ruler"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Trong Microsoft Word 2010, để sắp xếp dữ liệu trong bảng, sau khi chọn vùng trong bảng, người ta thực hiện:",
+      "options": {
+        "A": "Vào Table Tools -> Layout -> Sort",
+        "B": "Vào Home -> Layout -> Sort",
+        "C": "Vào View -> Layout -> Sort",
+        "D": "Vào Review -> Layout -> Sort"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Trong Microsoft Word 2010, để kết thúc phiên làm việc, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + W",
+        "B": "Ctrl + V",
+        "C": "Ctrl + U",
+        "D": "Ctrl + S"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Trong Microsoft Word 2010, phát biểu nào sau đây là sai:",
+      "options": {
+        "A": "Canh lề mặc định trong văn bản mỗi khi tạo tập tin mới là canh trái",
+        "B": "Khi soạn thảo, nếu hết trang thì tự động nhảy sang trang mới",
+        "C": "Chỉ được phép mở một văn bản trong phiên làm việc",
+        "D": "Mặc định mỗi khi khởi động, đã có một văn bản trống"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Trong Microsoft Word 2010, mỗi tập tin được lưu lại sẽ có đuôi (phần mở rộng) mặc định là:",
+      "options": {
+        "A": "PDF",
+        "B": "DOCX",
+        "C": "XLS",
+        "D": "DOC"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Trong Microsoft Word 2010, để lưu tài liệu hiện tại, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + X",
+        "B": "Ctrl +A",
+        "C": "Ctrl +S",
+        "D": "Ctrl + V"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Trong Microsoft Word 2010, tổ hợp phím Ctrl + S được thay cho lệnh nào sau đây:",
+      "options": {
+        "A": "Vào File -> Save As",
+        "B": "Vào File -> Save",
+        "C": "Vào File -> Open",
+        "D": "Vào File -> Close"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Khi gõ tiếng Việt thì sử dụng kiểu gõ nào để khi nhập hai chữ a sẽ cho chữ â, hai chữ e sẽ cho chữ ê:",
+      "options": {
+        "A": "Telex",
+        "B": "Select",
+        "C": "VNI",
+        "D": "Latex"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Trong Microsoft Word 2010, muốn chuyển đổi giữa chế độ gõ: chế độ gõ chèn và chế độ gõ đè, người ta sử dụng phím:",
+      "options": {
+        "A": "Insert",
+        "B": "Caps Lock",
+        "C": "Backspace",
+        "D": "End"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Trong khi soạn thảo văn bản, để chuyển đổi qua lại giữa các trình ứng dụng đang được kích hoạt, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Alt + Tab",
+        "B": "Ctrl + Tab",
+        "C": "Shift + Tab",
+        "D": "Ctrl + C"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Trong Microsoft Word 2010, khi muốn đặt chế độ lưu văn bản tự động sau một thời gian nhất định, người ta thực hiện trong mục:",
+      "options": {
+        "A": "Vào File -> Option -> Save",
+        "B": "Vào Home -> Option -> Save",
+        "C": "Vào View -> Option -> Save",
+        "D": "Vào Review -> Option -> Save"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Trong Microsoft Word 2010, công dụng của tổ hợp phím Ctrl + O trong soạn thảo là:",
+      "options": {
+        "A": "Mở một hồ sơ mới",
+        "B": "Đóng hồ sơ đang mở",
+        "C": "Mở một hồ sơ đã có",
+        "D": "Lưu hồ sơ vào đĩa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Trong Microsoft Word 2010, để mở một tài liệu đã được soạn thảo, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Open",
+        "B": "Vào Home -> Save",
+        "C": "Vào Home -> Open",
+        "D": "Vào File -> Save"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Trong Microsoft Word 2010, công dụng của tổ hợp phím Ctrl + S trong soạn thảo là:",
+      "options": {
+        "A": "Xóa tập tin văn bản",
+        "B": "Chèn kí hiệu đặc biệt",
+        "C": "Lưu tập tin văn bản vào đĩa",
+        "D": "Tạo tập tin văn bản mới"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Trong Microsoft Word 2010, hỗ trợ việc sao lưu văn bản đang soạn thành các định dạng nào:",
+      "options": {
+        "A": "*.doc,*.txt,*.exe",
+        "B": "*.doc, *.htm,*.zip",
+        "C": "*.doc, *.dot, *.htm, *.txt",
+        "D": "*.doc, *.avi, *.mpeg, *.dat"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Trong Microsoft Word 2010, khi sử dụng tổ hợp phím Ctrl + O, người ta thực hiện:",
+      "options": {
+        "A": "Mở một tài liệu mới",
+        "B": "Mở một tài liệu có sẵn trong đĩa",
+        "C": "Lưu một tài liệu",
+        "D": "Đóng chương trình Microsoft Word"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Trong Microsoft Word 2010, thao tác vào File -> open, người ta thực hiện:",
+      "options": {
+        "A": "Mở một tài liệu mới",
+        "B": "Mở một tài liệu có sẵn trong đĩa",
+        "C": "Lưu một tài liệu",
+        "D": "Đóng chương trình Microsoft Word"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Trong Microsoft Word 2010, để lưu tập tin đang làm việc thành tập tin khác, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + F, gõ A",
+        "B": "Alt + F, gõ S",
+        "C": "Alt + F, gõ A",
+        "D": "Ctrl + F, gõ S"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Trong Microsoft Word 2010, để tạo mới một văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + U",
+        "C": "Ctrl + S",
+        "D": "Ctrl + N"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 52,
+      "question": "Trong Microsoft Word 2010, để thu nhỏ/phóng lớn cửa sổ văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Bấm phím Ctrl và kéo con lăn trên chuột",
+        "B": "Bấm phím Tab và kéo con lăn trên chuột",
+        "C": "Bấm phím Alt và kéo con lăn trên chuột",
+        "D": "Bấm phím Shift và kéo con lăn trên chuột"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Trong Microsoft Word 2010, phím nào đưa con trỏ về đầu dòng hiện hành:",
+      "options": {
+        "A": "Home",
+        "B": "Ctrl + Home",
+        "C": "End",
+        "D": "Ctrl + Page Up"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Trong Microsoft Word 2010, để di chuyển con trỏ về cuối tài liệu, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + U",
+        "B": "Ctrl + Page Down",
+        "C": "Ctrl + M",
+        "D": "Ctrl + End"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "Trong Microsoft Word 2010, khi soạn thảo văn bản, nếu nhấn phím số 1 khi có một khối văn bản đang được chọn thì điều gì sau xảy ra:",
+      "options": {
+        "A": "Khối văn bản đó biến mất",
+        "B": "Khối văn bản đó biến mất và thay vào đó là số 1",
+        "C": "Số 1 sẽ chèn vào trước khối đang chọn",
+        "D": "Số 1 sẽ chèn vào sau khối đang chọn"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "Trong Microsoft Word 2010, để chọn toàn bộ nội dung, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Ctrl + A",
+        "B": "Ctrl + A",
+        "C": "Ctrl + Alt + A",
+        "D": "Shift + A"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Trong Microsoft Word 2010, để bật hộp thoại tìm kiếm, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Ctrl + F",
+        "B": "Alt + F",
+        "C": "Shift + F",
+        "D": "Ctrl + F"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 58,
+      "question": "Trong Microsoft Word 2010, thao tác giữ phím ctrl và nhấn chuột vào một vị trí nào đó trong đoạn văn bản sẽ có tác dụng gì:",
+      "options": {
+        "A": "Chọn đoạn văn bản",
+        "B": "Chọn toàn bộ văn bản",
+        "C": "Chọn một câu tại vị trí con trỏ",
+        "D": "Chọn một từ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Trong Microsoft Word 2010, để chọn khối từ con trỏ về đầu tài liệu, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + Home",
+        "B": "Ctrl + End",
+        "C": "Ctrl + Page Up",
+        "D": "Ctrl + Shift + Home"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 60,
+      "question": "Trong Microsoft Word 2010, để dán đoạn văn bản vừa copy vào sau vị trí con trỏ, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + W",
+        "B": "Ctrl + V",
+        "C": "Alt + W",
+        "D": "Shift + W"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "Trong Microsoft Word 2010, để chọn (bôi đen) từ con trỏ về cuối dòng, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Alt + F8",
+        "B": "Ctrl + End",
+        "C": "Shift + End",
+        "D": "Alt + A"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Trong Microsoft Word 2010, phím nào để xoá ký tự đứng trước con trỏ:",
+      "options": {
+        "A": "Page Down",
+        "B": "Delete",
+        "C": "Page Up",
+        "D": "Backspace"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 63,
+      "question": "Trong Microsoft Word 2010, để chèn một biểu thức tính toán, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Symbol",
+        "B": "Vào Insert -> Shapes",
+        "C": "Vào Insert -> Picture",
+        "D": "Vào Insert -> Equation"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 64,
+      "question": "Trong Microsoft Word 2010, để tìm kiếm trong văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + E",
+        "B": "Ctrl + T",
+        "C": "Ctrl + F",
+        "D": "Ctrl + H"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "Trong Microsoft Word 2010, để tìm kiếm và thay thế từ đó bằng từ khác trong văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + E",
+        "B": "Ctrl + T",
+        "C": "Ctrl + F",
+        "D": "Ctrl + H"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 66,
+      "question": "Trong Microsoft Word 2010, sau khi sử dụng chức năng undo (ctrl + z), để quay lại bước trước khi nhấn undo, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + M",
+        "B": "Ctrl + Y",
+        "C": "Ctrl + W",
+        "D": "Ctrl + J"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "Trong Microsoft Word 2010, để xóa một comment trong văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Chọn comment cần xóa, vào View -> Accept",
+        "B": "Chọn comment cần xóa, vào View -> Delete",
+        "C": "Chọn comment cần xóa, vào Review -> Accept",
+        "D": "Chọn comment cần xóa, vào Review -> Delete"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 68,
+      "question": "Trong Microsoft Word 2010, công dụng của tổ hợp phím Ctrl + F trong soạn thảo là:",
+      "options": {
+        "A": "Tạo tập tin văn bản mới",
+        "B": "Lưu tập tin văn bản vào đĩa",
+        "C": "Chức năng tìm kiếm trong soạn thảo",
+        "D": "Định dạng trang"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Trong Microsoft Word 2010, khi đang soạn thảo văn bản mà muốn phục hồi thao tác vừa thực hiện, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + Z",
+        "B": "Ctrl + X",
+        "C": "Ctrl + V",
+        "D": "Ctrl + Y"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Trong Microsoft Word 2010, khi đang soạn thảo văn bản, muốn chèn các kí tự đặc biệt vào văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Symbol",
+        "B": "Vào Home -> Symbol",
+        "C": "Vào File -> Symbol",
+        "D": "Vào Insert -> Symbol"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 71,
+      "question": "Trong Microsoft Word 2010, khi soạn thảo văn bản, nếu kết thúc 1 đoạn (paragraph) và muốn sang 1 đoạn mới, người ta thực hiện:",
+      "options": {
+        "A": "Bấm tổ hợp phím Ctrl + Enter",
+        "B": "Bấm phím Enter",
+        "C": "Bấm tổ hợp phím Shift + Enter",
+        "D": "Bấm tổ hợp phím Alt + Enter"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Trong Microsoft Word 2010, nút Format Painter (có hình chổi quét) trên thanh công cụ Home có chức năng nào:",
+      "options": {
+        "A": "Đánh dấu văn bản",
+        "B": "Sao chép định dạng kí tự",
+        "C": "Thay đổi nền văn bản",
+        "D": "In đậm kí tự"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Trong Microsoft Word 2010, khi đang soạn thảo văn bản, tổ hợp phím Ctrl + V thường được sử dụng để thực hiện:",
+      "options": {
+        "A": "Cắt một đoạn văn bản",
+        "B": "Dán một đoạn văn bản từ Clipboard",
+        "C": "Sao chép một đoạn văn bản",
+        "D": "Cắt và sao chép một đoạn văn bản"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Trong Microsoft Word 2010, để đưa con trỏ nhập về cuối dòng hiện tại, người ta nhấn phím:",
+      "options": {
+        "A": "Enter",
+        "B": "End",
+        "C": "Home",
+        "D": "Ctrl+End"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Trong Microsoft Word 2010, để chèn các ký tự đặc biệt như: €, ¥, ®,.. người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Picture",
+        "B": "Vào Insert -> Symbol",
+        "C": "Vào Insert -> Object",
+        "D": "Vào Insert -> Chart"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "Trong Microsoft Word 2010, khi đang soạn thảo văn bản, muốn phục hồi thao tác vừa thực hiện, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + Z",
+        "B": "Alt + Z",
+        "C": "Shift + Z",
+        "D": "Ctrl + Alt + Z"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Trong Microsoft Word 2010, công dụng của tổ hợp phím Ctrl + H khi đang soạn thảo văn bản là:",
+      "options": {
+        "A": "Tạo tập tin văn bản mới",
+        "B": "Chức năng thay thế trong soạn thảo",
+        "C": "Định dạng chữ hoa",
+        "D": "Lưu tập tin văn bản vào đĩa"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Trong Microsoft Word 2010, để sao chép một đoạn văn bản vào clipboard, sau khi đánh dấu đoạn văn, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Copy",
+        "B": "Vào Home -> Copy",
+        "C": "Vào View -> Copy",
+        "D": "Vào Insert -> Copy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Trong Microsoft Word 2010, để chọn toàn bộ văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Alt + Shift + F",
+        "B": "Shift + A",
+        "C": "Ctrl + A",
+        "D": "Alt + A"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Trong Microsoft Word 2010, để ngay lập tức đưa con trỏ về đầu dòng đầu tiên của văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Home",
+        "B": "Alt + Home",
+        "C": "Ctrl + Home",
+        "D": "Ctrl + Alt + Home"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Trong Microsoft Word 2010, muốn cắt một khối văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Copy",
+        "B": "Vào Home -> Replace",
+        "C": "Vào Home -> Paste",
+        "D": "Vào Home -> Cut"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 82,
+      "question": "Trong Microsoft Word 2010, phím Delete có chức năng:",
+      "options": {
+        "A": "Xóa ký tự phía sau con trỏ",
+        "B": "Xóa ký tự phía trước con trỏ",
+        "C": "Lùi văn bản vào với một khoảng cách cố định",
+        "D": "Di chuyển con trỏ về đầu dòng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Trong Microsoft Word 2010, để thay thế từ hay cụm từ, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Go to",
+        "B": "Vào Home -> Find",
+        "C": "Vào Home -> Paste",
+        "D": "Vào Home -> Replace"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 84,
+      "question": "Trong Microsoft Word 2010, tổ hợp phím Ctrl + Y thực hiện việc nào:",
+      "options": {
+        "A": "Hủy bỏ thao tác vừa thực hiện",
+        "B": "Hủy bỏ thao tác vừa xoá",
+        "C": "Thực hiện lại thao tác vừa thực hiện",
+        "D": "Khôi phục thao tác vừa hủy bỏ"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Trong Microsoft Word 2010, để chọn khối thay cho dùng chuột, người ta dùng 4 phím mũi tên và phím:",
+      "options": {
+        "A": "Alt",
+        "B": "Ctrl",
+        "C": "Shift",
+        "D": "Không sử dụng bàn phím để chọn được"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 86,
+      "question": "Trong Microsoft Word 2010, tổ hợp phím Ctrl + End thực hiện điều gì:",
+      "options": {
+        "A": "Đặt con trỏ văn bản đến cuối từ hiện tại.",
+        "B": "Đặt con trỏ văn bản đến cuối đoạn hiện tại.",
+        "C": "Đặt con trỏ văn bản đến cuối dòng hiện tại.",
+        "D": "Đặt con trỏ văn bản đến cuối văn bản."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 87,
+      "question": "Trong Microsoft Word 2010, để thay thế từ hay cụm từ, người ta thực hiện:",
+      "options": {
+        "A": "Lệnh Edit -> Go to",
+        "B": "Lệnh Edit -> Find",
+        "C": "Lệnh Edit -> Search.",
+        "D": "Lệnh Edit -> Replace"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 88,
+      "question": "Trong Microsoft Word 2010, để thay thế từ hay cụm từ, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Alt + H",
+        "B": "Shift + H",
+        "C": "Alt + H",
+        "D": "Ctrl + H"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 89,
+      "question": "Trong Microsoft Word 2010, muốn sử dụng chức năng sửa lỗi và gõ tắt, người ta thực hiện trong:",
+      "options": {
+        "A": "Vào File -> Options -> Proofing -> AutoCorrect Options",
+        "B": "Vào Home -> Options -> Proofing -> AutoCorrect Options",
+        "C": "Vào View -> Options -> Proofing -> AutoCorrect Options",
+        "D": "Vào Review -> Options -> Proofing -> AutoCorrect Options"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Trong Microsoft Word 2010, để gạch chân một đoạn văn bản đang chọn với nét đôi, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + Shift + D",
+        "B": "Ctrl + Shift + U",
+        "C": "Ctrl + U",
+        "D": "Ctrl + Shift + A"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Trong Microsoft Word 2010, để gạch dưới một từ hay cụm từ, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + I",
+        "B": "Ctrl + U",
+        "C": "Ctrl + D",
+        "D": "Ctrl + E"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Trong Microsoft Word 2010, để tăng cỡ chữ cho nội dung văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + ]",
+        "B": "Ctrl + [",
+        "C": "Ctrl + ]",
+        "D": "Shift + ["
+      },
+      "answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "Trong Microsoft Word 2010, để giảm cỡ chữ cho nội dung văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + ]",
+        "B": "Ctrl + [",
+        "C": "Ctrl + ]",
+        "D": "Shift + ["
+      },
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Trong Microsoft Word 2010, để gạch chân một đoạn văn bản đang chọn với nét đơn, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + U",
+        "B": "Shift + Alt + U",
+        "C": "Shift + U",
+        "D": "Alt + U"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Trong Microsoft Word 2010, để chèn một chữ nghệ thuật (Word Art) vào văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Picture",
+        "B": "Vào Insert -> Clip Art",
+        "C": "Vào Insert -> WordArt",
+        "D": "Vào Insert -> Equation"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 96,
+      "question": "Trong Microsoft Word 2010, để hủy bỏ chữ to đầu đoạn (dropcap) đã tạo của đoạn văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Dropcap -> None",
+        "B": "Vào Insert -> Dropcap -> None",
+        "C": "Vào Insert -> Dropcap -> Dropped",
+        "D": "Vào Home -> Dropcap -> Dropped"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Trong Microsoft Word 2010, để viết hoa các ký tự đã chọn, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + F2",
+        "B": "Ctrl + F3",
+        "C": "Shift + F3",
+        "D": "Alt + F2"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Trong Microsoft Word 2010, để thay đổi màu chữ đang bôi đen, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Font Color",
+        "B": "Vào File -> Font Color",
+        "C": "Vào View -> Font Color",
+        "D": "Vào Insert -> Font Color"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Trong Microsoft Word 2010, khi soạn thảo văn bản, muốn tạo ký tự to đầu dòng của đoạn văn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Dropcap...",
+        "B": "Vào Home -> Dropcap...",
+        "C": "Vào View -> Dropcap...",
+        "D": "Vào File -> Dropcap..."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Trong Microsoft Word 2010, khi lựa chọn gõ tiếng Việt với font Unicode, những font chữ nào sau đây có thể hiển thị tiếng Việt:",
+      "options": {
+        "A": ".Vn Times,. Vn Arial,. Vn Courier",
+        "B": ".Vn Times, Times New Roman, Arial",
+        "C": ".VNI times, Arial,. Vn Avant",
+        "D": "Tahoma, Verdana, Times new Roman"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 101,
+      "question": "Trong Microsoft Word 2010, khi soạn thảo văn bản, muốn tạo ký tự to đầu dòng của đoạn văn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Picture...",
+        "B": "Vào Insert -> Dropcap...",
+        "C": "Vào Insert -> SmartArt...",
+        "D": "Vào Insert -> Text Box..."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Trong Microsoft Word 2010, người ta vào Home -> font để thực hiện:",
+      "options": {
+        "A": "Tạo bảng",
+        "B": "Định dạng kí tự",
+        "C": "Chèn hình ảnh",
+        "D": "Chia cột"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Trong Microsoft Word 2010, để tăng cỡ chữ, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Alt + ]",
+        "B": "Shift + ]",
+        "C": "Alt + ]",
+        "D": "Ctrl + ]"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 104,
+      "question": "Trong Microsoft Word 2010, để giảm cỡ chữ, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Alt + [",
+        "B": "Shift + [",
+        "C": "Alt + [",
+        "D": "Ctrl + ["
+      },
+      "answer": "D"
+    },
+    {
+      "id": 105,
+      "question": "Trong Microsoft Word 2010, để thay đổi kiểu font trong soạn thảo văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Ctrl + Shift + U",
+        "B": "Ctrl + Shift + A",
+        "C": "Ctrl + Shift + F",
+        "D": "Ctrl + Shift + M"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 106,
+      "question": "Trong Microsoft Word 2010, để định dạng chữ đậm, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + E",
+        "B": "Ctrl + B",
+        "C": "Ctrl + I",
+        "D": "Ctrl + U"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Trong Microsoft Word 2010, để thay đổi cỡ chữ, người ta sử dụng tổ hợp phím Ctrl + Shift + F và chọn cỡ chữ trong cửa sổ sau:",
+      "options": {
+        "A": "Advanced",
+        "B": "Font",
+        "C": "Alignment",
+        "D": "Size"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "Trong Microsoft Word 2010, để chia cột cho đoạn văn bản; sau khi chọn đoạn văn, người ta thực hiện:",
+      "options": {
+        "A": "Vào Page Layout -> Columns",
+        "B": "Vào Home -> Columns",
+        "C": "Vào View -> Columns",
+        "D": "Vào File -> Columns"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "Trong Microsoft Word 2010, chọn mục nào trong thanh công cụ Home cho phép người dùng có thể thay đổi được khoảng cách giữa các đoạn văn:",
+      "options": {
+        "A": "Format Painter",
+        "B": "Line and Paragraph Spacing",
+        "C": "Change Styles",
+        "D": "Columns"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 110,
+      "question": "Trong Microsoft Word 2010, để canh giữa cho đoạn văn bản bôi đen, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + O",
+        "B": "Ctrl + P",
+        "C": "Ctrl + N",
+        "D": "Ctrl +E"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 111,
+      "question": "Trong Microsoft Word 2010, để canh thẳng lề phải cho đoạn văn bản bôi đen, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl +S",
+        "B": "Ctrl +L",
+        "C": "Ctrl +R",
+        "D": "Ctrl +E"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Trong Microsoft Word 2010, để canh thẳng lề trái cho đoạn văn bản bôi đen, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + L",
+        "B": "Ctrl + O",
+        "C": "Ctrl + P",
+        "D": "Ctrl + N"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 113,
+      "question": "Trong Microsoft Word 2010, khi soạn thảo, muốn trình bày văn bản dạng cột (dạng thường thấy trên các trang báo và tạp chí), người ta thực hiện:",
+      "options": {
+        "A": "Insert Column",
+        "B": "View Column",
+        "C": "Format Column",
+        "D": "Table Column"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "Trong Microsoft Word 2010, để thuận tiện hơn trong khi lựa chọn kích thước lề trái, lề phải,... ;, người ta có thể khai báo đơn vị đo:",
+      "options": {
+        "A": "Centimeters",
+        "B": "Đơn vị đo bắt buộc là Inches",
+        "C": "Đơn vị đo bắt buộc là Points",
+        "D": "Đơn vị đo bắt buộc là Picas"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 115,
+      "question": "Trong Microsoft Word 2010, để xóa tất cả định dạng của đoạn văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + Q",
+        "B": "Ctrl + Z",
+        "C": "Ctrl + Y",
+        "D": "Ctrl + R"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 116,
+      "question": "Trong Microsoft Word 2010, phím chức năng tab có tác dụng:",
+      "options": {
+        "A": "Di chuyển con trỏ về đầu dòng.",
+        "B": "Xóa ký tự phía trước con trỏ.",
+        "C": "Lùi văn bản vào với một khoảng cách cố định.",
+        "D": "Chuyển con trỏ xuống phía dưới 1 trang."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Trong Microsoft Word 2010, paragraph có chức năng gì:",
+      "options": {
+        "A": "Bôi đen đoạn văn bản cần định dạng",
+        "B": "Mở hộp thoại định dạng Font chữ.",
+        "C": "Điều chỉnh khoảng cách giữa các đoạn, các dòng trên văn bản.",
+        "D": "Gạch chân dưới chân các ký tự"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 118,
+      "question": "Trong Microsoft Word 2010, tổ hợp phím tắt Ctrl + L thực hiện điều gì:",
+      "options": {
+        "A": "Căn đều hai bên.",
+        "B": "Căn lề giữa",
+        "C": "Căn lề trái",
+        "D": "Căn lề phải"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "Trong Microsoft Word 2010, để căn lề giữa các dòng chữ, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + E",
+        "B": "Ctrl + F",
+        "C": "Ctrl + R",
+        "D": "Ctrl + L"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 120,
+      "question": "Trong Microsoft Word 2010, để chèn kí tự đặc biệt (symbol) vào văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào View -> Symbol -> Chọn biểu tượng cần chèn -> chọn Insert -> Close.",
+        "B": "Vào View -> Symbol -> Chọn biểu tượng cần chèn -> chọn Insert -> Open",
+        "C": "Vào Insert -> Symbol -> Chọn biểu tượng cần chèn -> chọn Insert -> Close.",
+        "D": "Vào Insert -> Symbol -> Chọn biểu tượng cần chèn -> chọn Insert -> Open"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 121,
+      "question": "Trong Microsoft Word 2010, để đánh số thứ tự các đoạn văn bản, người ta thực hiện:",
+      "options": {
+        "A": "View -> Bullets and Numbering....",
+        "B": "Edit -> Bullets and Numbering....",
+        "C": "Format -> Bullets and Numbering....",
+        "D": "Insert -> Bullets and Numbering...."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 122,
+      "question": "Trong Microsoft Word 2010, hộp thoại paraghaph có thông báo Indentation Left: 3cm, điều này có ý nghĩa:",
+      "options": {
+        "A": "Tất cả các dòng trong đoạn thụt vào 3cm",
+        "B": "Dòng đầu tiên của đoạn thụt vào 3cm",
+        "C": "Từ dòng thứ 2 trở đi thụt vào 3cm",
+        "D": "Lề giấy đã chừa là 3cm"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 123,
+      "question": "Trong Microsoft Word 2010, để định dạng lại cho ký tự, người ta thực hiện:",
+      "options": {
+        "A": "Vào Home -> Paragraph",
+        "B": "Vào Home -> Style",
+        "C": "Vào Format -> AutoFormat",
+        "D": "Vào Format -> Font"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 124,
+      "question": "Trong Microsoft Word 2010, trong table (bảng) để chèn thêm một dòng bên dưới dòng đang chọn thì, người ta vào thanh công cụ layout rồi chọn nút lệnh nào:",
+      "options": {
+        "A": "Insert Above",
+        "B": "Insert Below",
+        "C": "Rows Below",
+        "D": "Insert Right"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "Trong Microsoft Word 2010, sau khi bôi đen toàn bộ bảng, nếu nhấn phím delete thì điều gì xảy ra:",
+      "options": {
+        "A": "Không có tác dụng gì",
+        "B": "Xóa toàn bộ nội dung và bảng biểu",
+        "C": "Xóa bảng, không xóa nội dung",
+        "D": "Xóa toàn bộ nội dung trong bảng, không xóa bảng"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 126,
+      "question": "Trong Microsoft Word 2010, để xóa bỏ toàn bộ định dạng kiểu chữ của văn bản đang chọn, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + Space",
+        "B": "Ctrl + Delete",
+        "C": "Ctrl + Enter",
+        "D": "Shift + Space"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "question": "Trong Microsoft Word 2010, muốn tách bảng, người ta thực hiện:",
+      "options": {
+        "A": "Vào Layout -> Split Cells",
+        "B": "Vào Layout -> Split Table",
+        "C": "Vào Layout -> Merge Cells",
+        "D": "Vào Layout -> Insert Below"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Trong Microsoft Word 2010, muốn tách các dòng trong bảng, người ta thực hiện:",
+      "options": {
+        "A": "Vào Layout -> Split Cells",
+        "B": "Vào Layout -> Split Table",
+        "C": "Vào Layout -> Merge Cells",
+        "D": "Vào Layout -> Insert Below"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 129,
+      "question": "Trong Microsoft Word 2010, để chọn một dòng trong cả một bảng biểu, người ta thực hiện:",
+      "options": {
+        "A": "Nhấn đúp chuột vào vị trí bất kỳ của bảng đó",
+        "B": "Nhấn chuột vào phía ngoài bên trái của dòng đó",
+        "C": "Nhấn chuột 3 lần vào một vị trí bất kỳ trong bảng",
+        "D": "Nhấn chuột vào vị trí bất kỳ của bảng đó"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Trong Microsoft Word 2010, muốn tạo bảng, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Table -> Table",
+        "B": "Vào Home -> Insert -> Table",
+        "C": "Vào Home -> Insert",
+        "D": "Vào Insert -> Table"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 131,
+      "question": "Trong Microsoft Word 2010, khi di chuyển con trỏ trong bảng, tổ hợp phím shift + tab thực hiện điều gì:",
+      "options": {
+        "A": "Di chuyển con trỏ đến ô liền bên trái",
+        "B": "Di chuyển con trỏ đến hàng trên",
+        "C": "Thêm 1 tab vào ô",
+        "D": "Di chuyển con trỏ đến ô liền bên phải"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 132,
+      "question": "Trong Microsoft Word 2010, sau khi chèn một bảng biểu vào văn bản; để bảng này có đường kẻ đậm, người ta thực hiện:",
+      "options": {
+        "A": "Nhấn phím chuột phải -> Bullets and Numbering",
+        "B": "Nhấn phím chuột phải -> Insert Caption",
+        "C": "Nhấn phím chuột phải -> Draw Table",
+        "D": "Nhấn phím chuột phải -> Borders and Shading"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 133,
+      "question": "Trong Microsoft Word 2010, định dạng khung và màu nền nằm ở bảng hội thoại nào:",
+      "options": {
+        "A": "Borders and Shading",
+        "B": "Bullets and Numbering",
+        "C": "Page Border",
+        "D": "Tab Stop Position"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 134,
+      "question": "Trong Microsoft Word 2010, để sắp xếp các dữ liệu của một bảng, người ta thực hiện:",
+      "options": {
+        "A": "Vào Layout -> Fornula",
+        "B": "Vào Layout-> Sum",
+        "C": "Vào Layout -> Formula",
+        "D": "Vào Layout -> Sort"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 135,
+      "question": "Trong Microsoft Word 2010, khi con trỏ ở ô cuối cùng trong bảng, người ta nhấn phím tab để thực hiện:",
+      "options": {
+        "A": "Cho bảng thêm một dòng mới",
+        "B": "Con trỏ sẽ nhảy ra đoạn văn bên dưới bảng",
+        "C": "Con trỏ đứng yên vì đã hết bảng",
+        "D": "Con trỏ nhảy về ô đầu tiên của bảng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 136,
+      "question": "Trong Microsoft Word 2010, một văn bản có rất nhiều hình vẽ được tạo ra, mỗi lần nhấn chuột trái lên một hình nào đó thì chỉ chọn được hình đó, để chọn được nhiều hình thì, người ta phải giữ thêm phím nào trong khi chọn:",
+      "options": {
+        "A": "Enter",
+        "B": "Shift",
+        "C": "Alt",
+        "D": "Tab"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "Trong Microsoft Word 2010, để chèn hình ảnh từ bên ngoài vào văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> SmartArt",
+        "B": "Vào Insert -> Clip Art",
+        "C": "Vào Insert -> Picture",
+        "D": "Vào Insert -> Shape"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "Trong Microsoft Word 2010, thao tác nhấn giữ phím ctrl trong khi rê một hình vẽ sẽ có tác dụng gì:",
+      "options": {
+        "A": "Sao chép đối tượng",
+        "B": "Di chuyển đối tượng",
+        "C": "Xoay đối tượng",
+        "D": "Thay đổi kích thước của đối tượng"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 139,
+      "question": "Trong Microsoft Word 2010, để chèn các hình đơn giản như hình chữ nhật, tròn, elip, tam giác..., người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Shapes -> chọn hình cần vẽ",
+        "B": "Vào Insert -> TextBox",
+        "C": "Vào Insert -> Screenshot",
+        "D": "Vào Insert -> SmartArt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 140,
+      "question": "Trong Microsoft Word 2010, muốn chọn nhiều hình vẽ đồng thời, người ta thực hiện:",
+      "options": {
+        "A": "Nhấn phím chuột trái ở vùng trống và rê ngang qua các đối tượng cần chọn",
+        "B": "Nhấn giữ phím Shift và nhấn phím chuột trái lên các đối tượng muốn chọn",
+        "C": "Nhấn giữ phím Alt và nhấn phím chuột trái lên các đối tượng muốn chọn",
+        "D": "Vào Edit -> Select All AutoShape"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 141,
+      "question": "Trong Microsoft Word 2010, để chèn hình từ thư viện Word có sẵn vào văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Picture",
+        "B": "Vào Insert -> SmartArt",
+        "C": "Vào Insert -> ClipArt",
+        "D": "Vào Insert -> Screenshot"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 142,
+      "question": "Trong Microsoft Word 2010, để chèn một biểu đồ, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> SmartArt",
+        "B": "Vào Insert -> Picture",
+        "C": "Vào Insert -> Shapes",
+        "D": "Vào Insert -> Chart"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 143,
+      "question": "Trong Microsoft Word 2010, để chèn một hình ảnh từ trên một thư mục, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Symbol",
+        "B": "Vào Insert -> Picture",
+        "C": "Vào Insert -> Object",
+        "D": "Vào Insert -> Photo"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Trong Microsoft Word 2010, muốn tạo nét đậm cho textbox, trong hộp thoại Format Shape, người ta thực hiện:",
+      "options": {
+        "A": "Chọn Fill",
+        "B": "Chọn Line Color",
+        "C": "Chọn Text Box",
+        "D": "Chọn Line Style"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 145,
+      "question": "Trong Microsoft Word 2010, để thay đổi kích thước font chữ, trong thanh công cụ Home, người ta thực hiện:",
+      "options": {
+        "A": "Kích vào mũi tên phía bên cạnh kích thước font chữ",
+        "B": "Kích vào mũi tên phía bên cạnh nút Text Effects",
+        "C": "Kích vào mũi tên phía bên cạnh nút Text Highlight Collor",
+        "D": "Kích vào mũi tên phía bên cạnh nút Font Color"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 146,
+      "question": "Trong Microsoft Word 2010, khi soạn thảo, muốn đánh số trang cho văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Page Numbers",
+        "B": "Vào View -> Page Numbers",
+        "C": "Vào Home -> Page Numbers",
+        "D": "Vào File -> Page Numbers"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 147,
+      "question": "Trong Microsoft Word 2010, footnote dùng để chú thích các thuật ngữ, vậy footnote được trình bày ở vị trí nào:",
+      "options": {
+        "A": "Cuối từ cần chú thích",
+        "B": "Cuối trang",
+        "C": "Cuối văn bản",
+        "D": "Cuối Paragraph"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Trong Microsoft Word 2010, để thực hiện ngắt trang cho văn bản, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + ESC",
+        "B": "Ctrl + S",
+        "C": "Ctrl + Space",
+        "D": "Ctrl + Enter"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 149,
+      "question": "Trong Microsoft Word 2010, để đặt lề giấy cho văn bản đang soạn thảo, người ta thực hiện:",
+      "options": {
+        "A": "Vào Page Layout -> Orientation",
+        "B": "Vào Page Layout -> Size",
+        "C": "Vào Page Layout -> Margins",
+        "D": "Vào Page Layout -> Columns"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 150,
+      "question": "Trong Microsoft Word 2010, để chèn một tiêu đề ở lề trên văn bản đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Header -> chọn một mẫu tiêu đề",
+        "B": "Vào Insert -> Footer -> chọn một mẫu tiêu đề",
+        "C": "Vào Insert -> Header -> Remove Header",
+        "D": "Vào Insert -> Footer -> Remove Footer"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 151,
+      "question": "Trong Microsoft Word 2010, để chèn một tiêu đề vào lề dưới văn bản đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Header -> chọn một mẫu tiêu đề",
+        "B": "Vào Insert -> Footer -> chọn một mẫu tiêu đề",
+        "C": "Vào Insert -> Header -> Remove Header",
+        "D": "Vào Insert -> Footer -> Remove Footer"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Trong Microsoft Word 2010, để xóa một tiêu đề ở lề trên văn bản đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Header -> chọn một mẫu tiêu đề",
+        "B": "Vào Insert -> Footer -> chọn một mẫu tiêu đề",
+        "C": "Vào Insert -> Header -> Remove Header",
+        "D": "Vào Insert -> Footer -> Remove Footer"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 153,
+      "question": "Trong Microsoft Word 2010, để xóa một tiêu đề vào lề dưới văn bản đang mở, người ta thực hiện:",
+      "options": {
+        "A": "Vào Insert -> Header -> chọn một mẫu tiêu đề",
+        "B": "Vào Insert -> Footer -> chọn một mẫu tiêu đề",
+        "C": "Vào Insert -> Header -> Remove Header",
+        "D": "Vào Insert -> Footer -> Remove Footer"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 154,
+      "question": "Trong Microsoft Word 2010, để chèn ngắt trang, người ta vào chọn:",
+      "options": {
+        "A": "Vào Home -> Page break",
+        "B": "Vào File -> Page break",
+        "C": "Vào View -> Page break",
+        "D": "Vào Insert -> Page break"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 155,
+      "question": "Trong Microsoft Word 2010, để ngắt trang bắt buộc, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Shift + Enter",
+        "B": "Ctrl + Shift + Enter",
+        "C": "Ctrl + Enter",
+        "D": "Alt + Enter"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "question": "Trong Microsoft Word 2010, để định dạng trang, người ta thực hiện trong thanh công cụ:",
+      "options": {
+        "A": "Page Layout",
+        "B": "Home",
+        "C": "Review",
+        "D": "View"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 157,
+      "question": "Trong Microsoft Word 2010, để ra lệnh in, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + N",
+        "B": "Ctrl + S",
+        "C": "Ctrl + U",
+        "D": "Ctrl + P"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 158,
+      "question": "Trong Microsoft Word 2010, người ta sử dụng tổ hợp phím Ctrl + P để thực hiện điều gì:",
+      "options": {
+        "A": "In ra máy in",
+        "B": "Xem trước khi in",
+        "C": "Xóa nội dung",
+        "D": "Chép nội dung"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 159,
+      "question": "Trong Microsoft Word 2010, để xem văn bản trước lúc in, người ta sử dụng tổ hợp phím:",
+      "options": {
+        "A": "Ctrl + F10",
+        "B": "Ctrl + F2",
+        "C": "Ctrl + F4",
+        "D": "Ctrl + F6"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Trong Microsoft Word 2010, muốn in các trang chẵn, hoặc các trang lẻ trước thì nháy chuột vào đâu?",
+      "options": {
+        "A": "File -> Page Seup chọn mục LayOut",
+        "B": "File -> Print...chọn mục Print",
+        "C": "File -> Print Print View mục biểu tượng máy in",
+        "D": "Chọn Option từ thực đơn Tools -> Print"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 161,
+      "question": "Trong Microsoft Word 2010, người ta sử dụng tổ hợp phím Ctrl + F2 để thực hiện:",
+      "options": {
+        "A": "In văn bản",
+        "B": "Xem trước khi in",
+        "C": "Sao chép văn bản",
+        "D": "Di chuyển văn bản"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 162,
+      "question": "Trong Microsoft Word 2010, để in một trang hiện hành, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Print -> Print All Pages",
+        "B": "Vào File -> Print -> Print Current Page",
+        "C": "Vào Home -> Print -> Print All Pages",
+        "D": "Vào Home -> Print -> Print Current Page"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "Trong Microsoft Word 2010, để in từ trang 2 đến trang 10, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Print -> Pages nhập 2-10",
+        "B": "Vào File -> Print -> Pages nhập 2.10",
+        "C": "Vào File -> Print -> Pages nhập 2,10",
+        "D": "Vào File -> Print -> Pages nhập 2/10"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 164,
+      "question": "Trong Microsoft Word 2010, để xem văn bản trước khi in, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Print",
+        "B": "Vào Home -> Print",
+        "C": "Vào View -> Print",
+        "D": "Vào Review -> Print"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 165,
+      "question": "Trong Microsoft Word 2010, để in văn bản, cách nào sau đây là sai:",
+      "options": {
+        "A": "Chọn File -> Print",
+        "B": "Chọn File -> Print Preview.",
+        "C": "Nhấn nút Print trên thanh công cụ.",
+        "D": "Nhấn tổ hợp phím Ctrl + P."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 166,
+      "question": "Trong Microsoft Word 2010, muốn định dạng lại trang giấy in, người ta thực hiện:",
+      "options": {
+        "A": "Properties",
+        "B": "Page Setup",
+        "C": "Print",
+        "D": "Print Preview"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "Trong Microsoft Word 2010, Rich Text Format (*. rtf) là gì:",
+      "options": {
+        "A": "Định dạng này duy trì chỉ có văn bản của tài liệu.",
+        "B": "Định dạng này duy trì các định dạng và văn bản của tài liệu.",
+        "C": "Định dạng này không duy trì các định dạng của tài liệu.",
+        "D": "Định dạng này không duy trì văn bản của tài liệu."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "Trong Microsoft Word 2010, để đặt mật khẩu cho tài liệu văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Vào File -> Info -> Protect Document -> Encrypt with Password -> Nhập mật khẩu vào -> OK",
+        "B": "Vào Home -> Info -> Protect Document -> Encrypt with Password -> Nhập mật khẩu vào -> OK",
+        "C": "Vào Insert -> Info -> Protect Document -> Encrypt with Password -> Nhập mật khẩu vào -> OK",
+        "D": "Vào References -> Info -> Protect Document -> Encrypt with Password -> Nhập mật khẩu vào -> OK"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 169,
+      "question": "Trong Microsoft Word 2010, để chọn một câu trong đoạn văn bản, người ta thực hiện:",
+      "options": {
+        "A": "Nhấn đôi phím chuột trái lên câu cần chọn",
+        "B": "Giữ phím Shift và Nhấn phím chuột trái lên câu cần chọn",
+        "C": "Nhấn phím chuột trái 3 lần vào lề trái của văn bản",
+        "D": "Giữ phím Ctrl và Nhấn phím chuột trái lên câu cần chọn."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 170,
+      "question": "Trong Microsoft Word 2010, người ta quy định thể thức văn bản là như thế nào:",
+      "options": {
+        "A": "Khổ giấy, định lề trang văn bản, kiểu trình bày, Font chữ",
+        "B": "Là tập hợp các thành phần cấu thành văn bản, bao gồm những thành phần chung áp dụng đối với các loại văn bản và các thành phần bổ sung trong những trường hợp cụ thể.",
+        "C": "Là tập hợp các thành phần cấu thành văn bản, bao gồm những thành phần chung áp dụng đối với các loại văn bản",
+        "D": "Là tập hợp các thành phần cấu thành văn bản."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 171,
+      "question": "Đối với người soạn thảo văn bản thì văn bản hành chính là loại nào:",
+      "options": {
+        "A": "Là loại văn bản mang tính thông tin quy phạm Nhà nước, cụ thể hóa việc thi hành văn bản pháp quy, giải quyết những vụ việc cụ thể trong khâu quản lý",
+        "B": "Là loại văn bản không mang tính thông tin quy phạm Nhà nước, cụ thể hóa việc thi hành văn bản pháp quy",
+        "C": "Là phương tiện thể hiện các quyết định quản lý của cơ quan quản lý hành chính nhà nước có thẩm quyền",
+        "D": "Là phương tiện quản lý của cơ quan quản lý hành chính nhà nước có thẩm quyền"
+      },
+      "answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trắc Nghiệm CNTT Cơ Bản</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>Trắc Nghiệm Kỹ Năng Sử Dụng CNTT Cơ Bản</h1>
+    </header>
+
+    <!-- Home Screen -->
+    <div id="home-screen" class="screen active">
+      <div class="module-grid">
+        <div class="module-card" data-module="M1">
+          <div class="module-icon">💻</div>
+          <h3>Mô đun 1</h3>
+          <p>Hiểu biết về Công nghệ thông tin</p>
+          <span class="question-count" id="count-M1">0 câu</span>
+        </div>
+        <div class="module-card" data-module="M2">
+          <div class="module-icon">🖥️</div>
+          <h3>Mô đun 2</h3>
+          <p>Sử dụng máy tính cơ bản</p>
+          <span class="question-count" id="count-M2">0 câu</span>
+        </div>
+        <div class="module-card" data-module="M3">
+          <div class="module-icon">📝</div>
+          <h3>Mô đun 3</h3>
+          <p>Xử lý văn bản cơ bản (Word)</p>
+          <span class="question-count" id="count-M3">0 câu</span>
+        </div>
+        <div class="module-card" data-module="M4">
+          <div class="module-icon">📊</div>
+          <h3>Mô đun 4</h3>
+          <p>Sử dụng bảng tính cơ bản (Excel)</p>
+          <span class="question-count" id="count-M4">0 câu</span>
+        </div>
+        <div class="module-card" data-module="M5">
+          <div class="module-icon">📽️</div>
+          <h3>Mô đun 5</h3>
+          <p>Sử dụng trình chiếu cơ bản (PowerPoint)</p>
+          <span class="question-count" id="count-M5">0 câu</span>
+        </div>
+        <div class="module-card" data-module="M6">
+          <div class="module-icon">🌐</div>
+          <h3>Mô đun 6</h3>
+          <p>Sử dụng Internet cơ bản</p>
+          <span class="question-count" id="count-M6">0 câu</span>
+        </div>
+      </div>
+
+      <div class="settings-panel">
+        <h3>Cài đặt bài thi</h3>
+        <div class="setting-row">
+          <label for="num-questions">Số câu hỏi:</label>
+          <select id="num-questions">
+            <option value="10">10 câu</option>
+            <option value="20">20 câu</option>
+            <option value="30">30 câu</option>
+            <option value="40" selected>40 câu</option>
+            <option value="50">50 câu</option>
+            <option value="0">Tất cả</option>
+          </select>
+        </div>
+        <div class="setting-row">
+          <label for="time-limit">Thời gian:</label>
+          <select id="time-limit">
+            <option value="0">Không giới hạn</option>
+            <option value="15">15 phút</option>
+            <option value="30">30 phút</option>
+            <option value="45" selected>45 phút</option>
+            <option value="60">60 phút</option>
+          </select>
+        </div>
+        <div class="setting-row">
+          <label for="shuffle-questions">Trộn câu hỏi:</label>
+          <input type="checkbox" id="shuffle-questions" checked>
+        </div>
+      </div>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="screen">
+      <div class="quiz-header">
+        <div class="quiz-info">
+          <span id="current-module"></span>
+          <span id="question-progress"></span>
+        </div>
+        <div id="timer" class="timer">--:--</div>
+      </div>
+
+      <div class="quiz-body">
+        <div id="question-container">
+          <h2 id="question-text"></h2>
+          <div id="options-container"></div>
+        </div>
+
+        <div class="quiz-nav">
+          <button id="btn-prev" class="btn btn-secondary" disabled>← Trước</button>
+          <div id="question-dots"></div>
+          <button id="btn-next" class="btn btn-primary">Tiếp →</button>
+        </div>
+      </div>
+
+      <div class="quiz-footer">
+        <button id="btn-submit" class="btn btn-danger">Nộp bài</button>
+      </div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-screen" class="screen">
+      <div class="result-card">
+        <h2>Kết quả bài thi</h2>
+        <div class="score-circle">
+          <span id="score-value">0</span>
+          <span class="score-label">điểm</span>
+        </div>
+        <div class="result-stats">
+          <div class="stat">
+            <span class="stat-value" id="correct-count">0</span>
+            <span class="stat-label">Đúng</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="wrong-count">0</span>
+            <span class="stat-label">Sai</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="unanswered-count">0</span>
+            <span class="stat-label">Bỏ qua</span>
+          </div>
+        </div>
+        <div class="result-actions">
+          <button id="btn-review" class="btn btn-primary">Xem lại đáp án</button>
+          <button id="btn-home" class="btn btn-secondary">Về trang chủ</button>
+        </div>
+      </div>
+
+      <div id="review-container" class="review-container hidden"></div>
+    </div>
+  </div>
+
+  <script src="js/questions-data.js"></script>
+  <script src="js/quiz-engine.js"></script>
+</body>
+</html>
