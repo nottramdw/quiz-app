@@ -5,17 +5,19 @@
 }
 
 :root {
-  --primary: #2563eb;
-  --primary-hover: #1d4ed8;
+  --primary: #e91e8c;
+  --primary-hover: #c4167a;
   --success: #16a34a;
   --danger: #dc2626;
   --warning: #f59e0b;
-  --bg: #f8fafc;
+  --bg: #fff0f6;
   --card-bg: #ffffff;
   --text: #1e293b;
   --text-light: #64748b;
-  --border: #e2e8f0;
+  --border: #f5c6d8;
   --radius: 12px;
+  --pink-light: #fce4f0;
+  --pink-glow: rgba(233, 30, 140, 0.15);
 }
 
 body {
@@ -66,12 +68,12 @@ header h1 {
 .module-card:hover {
   border-color: var(--primary);
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+  box-shadow: 0 4px 12px var(--pink-glow);
 }
 
 .module-card.selected {
   border-color: var(--primary);
-  background: #eff6ff;
+  background: var(--pink-light);
 }
 
 .module-icon { font-size: 2rem; margin-bottom: 8px; }
@@ -89,7 +91,7 @@ header h1 {
 
 .question-count {
   display: inline-block;
-  background: #eff6ff;
+  background: var(--pink-light);
   color: var(--primary);
   padding: 2px 10px;
   border-radius: 20px;
@@ -250,12 +252,12 @@ input[type="checkbox"] {
 
 .option:hover {
   border-color: var(--primary);
-  background: #f0f7ff;
+  background: #fdf2f8;
 }
 
 .option.selected {
   border-color: var(--primary);
-  background: #dbeafe;
+  background: var(--pink-light);
   font-weight: 600;
 }
 
@@ -334,7 +336,7 @@ input[type="checkbox"] {
 
 .dot:hover { border-color: var(--primary); }
 .dot.current { border-color: var(--primary); background: var(--primary); color: white; }
-.dot.answered { background: #dbeafe; border-color: var(--primary); color: var(--primary); }
+.dot.answered { background: var(--pink-light); border-color: var(--primary); color: var(--primary); }
 
 .quiz-footer {
   text-align: center;
@@ -448,6 +450,42 @@ input[type="checkbox"] {
 
 .review-options li.is-selected {
   font-weight: 600;
+}
+
+/* Marquee */
+.marquee-banner {
+  background: linear-gradient(135deg, #e91e8c, #f472b6, #e91e8c);
+  color: white;
+  padding: 10px 0;
+  overflow: hidden;
+  font-weight: 700;
+  font-size: 1.1rem;
+  border-radius: var(--radius);
+  margin-bottom: 16px;
+  box-shadow: 0 2px 8px var(--pink-glow);
+}
+
+.marquee-content {
+  display: inline-block;
+  white-space: nowrap;
+  animation: marquee 12s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+/* Bow decorations */
+header h1::before,
+header h1::after {
+  content: '🎀';
+  margin: 0 8px;
+}
+
+.module-icon::after {
+  content: ' 🎀';
+  font-size: 0.7em;
 }
 
 /* Responsive */
